@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "bc1c88b7-519e-405d-a48d-d5f3b6bdd197"
+        ],
+        "value": "User cannot access previously assigned projects after signing in again"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "cec46728-7a8b-46a6-a6b3-52e2e7973eb1"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/unable_to_access_previouly_assigned_projects.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "01bf6e54-2278-40da-a438-842d513cc051"
+        ],
+        "value": [
+          "project-access-revoked",
+          "assigned-project-not-visible",
+          "project access",
+          "user permissions"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "User cannot access previously assigned projects after signing in again",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/unable_to_access_previouly_assigned_projects.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "fc5c241a-e870-416f-a1aa-44d5ea4b9769"
+          ],
+          "value": "User cannot access previously assigned projects after signing in again"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "2a2d9d12-0b33-4ac7-943a-02f693b105bd"
+          ],
+          "value": "Condition"
+        },
+        "content": {
+          "chunk_references": [
+            "fc41c264-21e9-456d-942e-d52a7b84748b"
+          ],
+          "value": "The user signs in successfully to the metR User Console, but previously assigned projects do not appear in DocManager."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "7521b1c6-1ee4-4be1-9964-6fa71bfce059"
+          ],
+          "value": "Cause"
+        },
+        "content": {
+          "chunk_references": [
+            "95695b1a-17d4-40ec-9d7a-826978056f0c"
+          ],
+          "value": "Project visibility is controlled by role-based access and project assignment. If a user account is deactivated or removed from a project by an administrator, access to those projects is immediately revoked and the projects no longer appear in the user console."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "c44a20b3-48a0-4888-8204-3e53f7885d57"
+          ],
+          "value": "Remedy"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "1b9d04ea-fa8d-449d-a1f1-9bca1616804c"
+        ],
+        "value": "Admins"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "6ac4d5c0-ba2c-41cb-aa0f-2914331ee204"
+        ],
+        "value": "This section describes the Admins module in the metR admin console, where an admin can view their profile details and access account management options."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "f078625e-1a28-4cd2-b8b5-f9611d99fe72"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/c_admins.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "737fc5d4-ffb6-4dd5-937a-98afcd0b5a19"
+        ],
+        "value": [
+          "admins-module",
+          "admins-page",
+          "admin-console",
+          "administrator-accounts",
+          "admin-list",
+          "view-admins",
+          "view-admin-details",
+          "verify-admin-information",
+          "check-admin-status",
+          "review-admin-accounts",
+          "admin-account-visibility",
+          "organizational-admins",
+          "account-verification",
+          "admin-console-usage",
+          "administrator-overview",
+          "who-are-admins-in-metr",
+          "what-information-is-shown-in-admins-page",
+          "where-can-i-view-admin-details",
+          "how-to-check-admin-account-status",
+          "can-i-change-admin-password-from-admins-page"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Admins",
+      "metaDescription": "This section describes the Admins module in the metR admin console, where an admin can view their profile details and access account management options.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/c_admins.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "5d4e30e3-4c86-42fd-954a-89b5555c6afb"
+          ],
+          "value": "Admins"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "b75da483-a10f-40ce-801b-901f2818c7f4"
+          ],
+          "value": "This section describes the Admins module in the metR admin console, where an admin can view their profile details and access account management options."
+        },
+        "content": {
+          "chunk_references": [
+            "3de6fd08-9f19-41ea-b8a2-226e83a02437"
+          ],
+          "value": "The Admins module in the metR admin console displays a list of all administrators associated with the client organization. This section helps client administrators view and verify administrator details such as contact information, GitHub usernames, and status."
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "83545dd8-95a9-47f5-b258-eb355f097932"
+          ],
+          "value": "Fields in the Admins module"
+        },
+        "content": {
+          "chunk_references": [
+            "6374fd27-11d6-4f69-a27f-15f1a759a245"
+          ],
+          "value": "The following table describes the fields displayed in the Admins section:\n\nTo change your password, use the option available in the Profile module of the admin console. For details, see Change password."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "d674c42a-9335-40f2-8420-10ac6c4aa075"
+        ],
+        "value": "AI Author Assistant not working"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "c72ee155-06e3-4157-99d6-a33338eb9b61"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/ai_author_assistant_not_working.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "b79295db-cf67-4e6a-844c-0b3d2c80fb8f"
+        ],
+        "value": [
+          "ai-author-assistant-not-working",
+          "llm-connection-failure",
+          "AI Author Assistant",
+          "content validation"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "AI Author Assistant not working",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/ai_author_assistant_not_working.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "da311fc0-f2a1-4ef5-9033-72f5380306ae"
+          ],
+          "value": "AI Author Assistant not working"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "415cc8cf-0fe2-450c-8385-aba7fc95d215"
+          ],
+          "value": "Condition"
+        },
+        "content": {
+          "chunk_references": [
+            "bffd50a0-9fa1-4620-a1b7-51e07cd0ebb8"
+          ],
+          "value": "The AI Author Assistant is not displaying the suggestions or feedback."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "4ed6ee28-1f42-4bdd-b6c8-72a8843c282c"
+          ],
+          "value": "Cause"
+        },
+        "content": {
+          "chunk_references": [
+            "6f82c69d-50fc-4d75-a815-4b146348bdd0"
+          ],
+          "value": "metR is unable to connect to the specified LLM"
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "c12f5d62-a18b-4324-bbb4-84fd6533e17f"
+          ],
+          "value": "Remedy"
+        }
+      }
+    ]
+  }
+}

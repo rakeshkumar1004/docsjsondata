@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "7833d6ed-a2ed-4517-ac12-21f9cf293c2c"
+        ],
+        "value": "Contact support"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "71f4152b-6d00-4f86-9ba2-f7a6916eacf7"
+        ],
+        "value": "This section describes how an administrator can contact the metR support team."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "d280f839-6380-4a99-84d4-9e4f74b479ee"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_contact_support.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "7329842c-7102-42ea-ba08-dac00c5d634f"
+        ],
+        "value": [
+          "contact-support",
+          "support-module",
+          "support-form",
+          "admin-console",
+          "metr-support",
+          "open-contact-support",
+          "fill-support-form",
+          "send-support-message",
+          "submit-support-request",
+          "contact-support-team",
+          "admin-assistance",
+          "issue-reporting",
+          "user-support",
+          "platform-help",
+          "enterprise-support",
+          "how-do-i-contact-support-in-metr",
+          "where-is-the-contact-support-option",
+          "how-to-send-a-message-to-metr-support",
+          "what-information-is-required-to-contact-support",
+          "how-do-admins-report-issues-in-metr"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Contact support",
+      "metaDescription": "This section describes how an administrator can contact the metR support team.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_contact_support.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "50b8b611-ef50-4574-8fd2-c110643d87c9"
+          ],
+          "value": "Contact support"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "edf02944-2e2d-485d-b670-8bf375f37714"
+          ],
+          "value": "This section describes how an administrator can contact the metR support team."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

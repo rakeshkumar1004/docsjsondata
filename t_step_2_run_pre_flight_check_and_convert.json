@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "224b30d4-fe1e-4f49-9cc5-aced1fdffea9"
+        ],
+        "value": "Step 2: Run Pre-flight Check and Convert"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "983aee6a-9d8b-46a0-b1ae-8292e8920449"
+        ],
+        "value": "This section describes the steps to run the pre-flight check."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "13d2b1ad-73d4-4542-aa02-293773caaa0e"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/t_step_2_run_pre_flight_check_and_convert.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "8efbb53b-5ffc-40e4-95d5-761f4e059ca1"
+        ],
+        "value": [
+          "docmigration",
+          "pre-flight-check",
+          "dita-xml",
+          "source-document",
+          "run-pre-flight-check",
+          "validate-source-document",
+          "review-error-messages",
+          "fix-source-file",
+          "convert-now",
+          "begin-transformation",
+          "proceed-to-post-flight-check",
+          "document-structure",
+          "headings",
+          "style-compliance",
+          "pre-flight-check-successful",
+          "file-validation-failed",
+          "error-or-warning-message",
+          "transformation-to-dita-xml",
+          "how-to-run-pre-flight-check",
+          "what-happens-if-pre-flight-check-fails",
+          "how-to-fix-source-file",
+          "when-to-click-convert-now"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Step 2: Run Pre-flight Check and Convert",
+      "metaDescription": "This section describes the steps to run the pre-flight check.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/t_step_2_run_pre_flight_check_and_convert.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "75094a9e-f39e-461e-a329-b24e21cad19d"
+          ],
+          "value": "Step 2: Run Pre-flight Check and Convert"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "89c3fcb4-b133-47c0-86da-4654b1cf7441"
+          ],
+          "value": "This section describes the steps to run the pre-flight check."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "bf1b89c4-03b9-4176-9db3-29d176d70bd2"
+        ],
+        "value": "Account Access and Session Behavior"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "471c4125-cd01-44b9-a96f-c8ab0794019c"
+        ],
+        "value": "This section answers questions about the user console of the metR platform related to login security, permissions, and session handling."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "f287108f-3021-49de-8b2e-31cab0218c10"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/account_access_and_session_behavior.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "9fe53b17-8655-4e55-8b2a-a98ac11c0f59"
+        ],
+        "value": [
+          "how-is-access-secured",
+          "what-happens-if-my-session-expires"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Account Access and Session Behavior",
+      "metaDescription": "This section answers questions about the user console of the metR platform related to login security, permissions, and session handling.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/account_access_and_session_behavior.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "7564d399-7188-41d4-93fb-f52dcf597677"
+          ],
+          "value": "Account Access and Session Behavior"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "630a88e5-f95c-4a62-a94a-d8c31a95efbf"
+          ],
+          "value": "This section answers questions about the user console of the metR platform related to login security, permissions, and session handling."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "27d22458-8b17-432d-96f4-e85bdd3fdce4"
+          ],
+          "value": "How is access secured?"
+        },
+        "content": {
+          "chunk_references": [
+            "4a2a8ee6-54a0-4b7e-a311-90bfcd87cbf8"
+          ],
+          "value": "Access is controlled through authentication, session management, and role-based permissions."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "b88dd576-cc60-4b2a-8200-06c52be200ca"
+          ],
+          "value": "What happens if my session expires?"
+        },
+        "content": {
+          "chunk_references": [
+            "73795df8-a021-497e-a46c-ccb38067acb8"
+          ],
+          "value": "You’ll be asked to sign in again. Unsaved changes may be lost, so saving work regularly is recommended."
+        }
+      }
+    ]
+  }
+}

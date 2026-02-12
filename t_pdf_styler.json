@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "870e2abe-8821-4043-9076-ef45dd151069"
+        ],
+        "value": "PDF Styler"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "c8526ae5-84b7-42b7-b08c-626d034ecdd6"
+        ],
+        "value": "This section describes how to style a PDF document in DocStyler."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "10bf48c3-07cd-4d7f-9115-d727d49afc87"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docpublisher/t_pdf_styler.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "6246cfdd-f01f-4605-8118-f236102d5b78"
+        ],
+        "value": [
+          "pdf-styler",
+          "docstyler",
+          "docpublisher",
+          "pdf-output",
+          "styling-options",
+          "style-pdf-output",
+          "upload-cover-logo",
+          "upload-cover-image",
+          "select-base-color",
+          "configure-header-and-footer",
+          "front-page-styling",
+          "base-color",
+          "header-and-footer",
+          "logo-and-cover-image",
+          "pre-publishing-styling",
+          "ai-intent",
+          "how-to-access-pdf-styler",
+          "how-to-style-pdf-documents",
+          "what-is-pdf-styler",
+          "how-does-pdf-styling-work",
+          "how-to-customize-pdf-layout",
+          "what-controls-pdf-design",
+          "how-to-manage-print-styles",
+          "why-use-pdf-styler",
+          "what-is-metr-pdf-styling"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "PDF Styler",
+      "metaDescription": "This section describes how to style a PDF document in DocStyler.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docpublisher/t_pdf_styler.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "6328b13b-70cc-491d-9e7d-3580b6b6f82c"
+          ],
+          "value": "PDF Styler"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "92dd225a-c360-435d-8cc9-f208506ed563"
+          ],
+          "value": "This section describes how to style a PDF document in DocStyler."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

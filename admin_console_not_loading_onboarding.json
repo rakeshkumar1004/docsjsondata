@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "f156adec-a2d6-4161-bb94-78c6adb3bf4a"
+        ],
+        "value": "Admin cannot access the Admin Console using the Onboarding URL"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "6192240d-0054-40a9-8499-01610b217825"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/admin_console_not_loading_onboarding.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "422b56b6-2daa-4720-b7f3-1f38941fb2b1"
+        ],
+        "value": [
+          "admin-console-not-loading",
+          "Admin cannot access Admin Console",
+          "unsupported browser"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Admin cannot access the Admin Console using the Onboarding URL",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/admin_console_not_loading_onboarding.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "1706aea0-9dbb-457e-9a64-213e9957e28e"
+          ],
+          "value": "Admin cannot access the Admin Console using the Onboarding URL"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "e6476a4a-7950-4a90-9fd6-b0c7b07bb0ac"
+          ],
+          "value": "Condition"
+        },
+        "content": {
+          "chunk_references": [
+            "188a79d8-6691-4dd9-b289-9c063c2f862e"
+          ],
+          "value": "The system does not load the metR Admin Console when the administrator opens the Admin Console URL received during onboarding."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "c8ee39e6-4fce-4c6a-bebb-1d749259a634"
+          ],
+          "value": "Cause"
+        },
+        "content": {
+          "chunk_references": [
+            "fb13750d-0a25-48d9-b4ad-0650e980165d"
+          ],
+          "value": "metR supports specific modern web browsers and versions. Access during onboarding may be unreliable when unsupported or outdated browsers are used."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "42a04052-18f4-4aea-bfce-78d767454c8d"
+          ],
+          "value": "Remedy"
+        }
+      }
+    ]
+  }
+}

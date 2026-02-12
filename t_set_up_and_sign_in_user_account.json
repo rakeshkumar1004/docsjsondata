@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "b573bc6b-27c1-4b91-b765-7164b715689d"
+        ],
+        "value": "Set up and Sign in to the metR User Account"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "ab03fef3-7fd6-4c91-9bc5-17854f4175e3"
+        ],
+        "value": "This section describes how to sign in to the metR user account for the first time."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "62ee26a1-0394-4ec2-a10d-733e3e9852bd"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/02_onboarding_and_setup/t_set_up_and_sign_in_user_account.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "dd860ecb-13f8-470c-9ffa-95070ea0b904"
+        ],
+        "value": [
+          "metr-application",
+          "user-account",
+          "user-console",
+          "user-console-access",
+          "user-console-login",
+          "github-account",
+          "github-authentication",
+          "supported-web-browsers",
+          "first-time-user-login",
+          "sign-in-to-user-console",
+          "sign-in-with-github",
+          "open-sign-in-email",
+          "access-user-console-url",
+          "authenticate-with-github",
+          "complete-user-sign-in",
+          "confirm-successful-login",
+          "organization-onboarding",
+          "admin-managed-user-access",
+          "email-based-access",
+          "enterprise-user-access",
+          "role-based-access",
+          "initial-platform-access",
+          "secure-user-authentication",
+          "browser-based-access",
+          "how-do-i-sign-in-to-the-metr-user-console",
+          "what-are-the-steps-for-first-time-user-login",
+          "what-is-required-for-user-sign-in",
+          "how-does-github-sign-in-work-in-metr",
+          "why-does-metr-use-github-authentication",
+          "what-happens-after-successful-user-sign-in",
+          "how-do-i-access-the-metr-user-console"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Set up and Sign in to the metR User Account",
+      "metaDescription": "This section describes how to sign in to the metR user account for the first time.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/02_onboarding_and_setup/t_set_up_and_sign_in_user_account.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "605ca379-360f-4180-afd1-ffccdc0389ff"
+          ],
+          "value": "Set up and Sign in to the metR User Account"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "78d92082-1696-4675-b392-889f5f21d3eb"
+          ],
+          "value": "This section describes how to sign in to the metR user account for the first time."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "814c5b81-69a4-4f11-b876-49b80e06fe46"
+        ],
+        "value": "Edit a user"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "61b7f733-bfab-47b4-bc2f-015aca321aa0"
+        ],
+        "value": "This section describes how an administrator can edit an existing user in the metR admin console."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "f4348dec-afe6-44aa-a8b1-67ca2564dbb2"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_edit_a_user.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "21b5d332-5e55-4f51-aae7-f4eb41a50386"
+        ],
+        "value": [
+          "admin-console",
+          "users-module",
+          "user-list",
+          "edit-user-page",
+          "user-profile",
+          "sign-in-to-admin-console",
+          "open-users-module",
+          "select-user",
+          "edit-user-details",
+          "save-user-changes",
+          "user-management",
+          "user-profile-maintenance",
+          "admin-workflows",
+          "account-updates",
+          "user-notification",
+          "how-do-i-edit-a-user",
+          "how-to-edit-a-user-in-admin-console",
+          "where-is-the-edit-user-option",
+          "what-details-can-i-edit-for-a-user",
+          "what-happens-after-editing-a-user"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Edit a user",
+      "metaDescription": "This section describes how an administrator can edit an existing user in the metR admin console.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_edit_a_user.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "aa69092d-ab98-41e8-ad34-baff3b835ced"
+          ],
+          "value": "Edit a user"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "4d5f10c5-59b1-40b8-8c04-67e42c74f034"
+          ],
+          "value": "This section describes how an administrator can edit an existing user in the metR admin console."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

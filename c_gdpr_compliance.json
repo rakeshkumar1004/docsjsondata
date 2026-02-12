@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "8a74bd01-23d7-44d2-9c1d-5c94c3be90f9"
+        ],
+        "value": "GDPR and data compliance"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "c5bf1436-232e-45c3-a8e2-5b49f8e02ace"
+        ],
+        "value": "This section explains how metR follows GDPR guidelines for managing client organization data."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "89406f56-dc9c-4239-adf1-658f7e137b90"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/05_security_and_compliance/c_gdpr_compliance.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "ce8ab207-92e5-4ea0-a1bc-b3c0f51fe1e8"
+        ],
+        "value": [
+          "gdpr-compliance",
+          "metr-platform",
+          "data-privacy-practices",
+          "github-based-storage",
+          "audit-records",
+          "personal-data-handling",
+          "metadata-storage",
+          "data-minimization",
+          "audit-retention",
+          "data-ownership",
+          "eu-gdpr",
+          "data-protection",
+          "privacy-compliance",
+          "regulated-data",
+          "security-and-compliance",
+          "ai-intent",
+          "how-does-metr-support-gdpr",
+          "what-gdpr-controls-metr-provides",
+          "how-metr-handles-personal-data",
+          "why-use-metr-for-gdpr",
+          "how-data-rights-are-managed-in-metr",
+          "what-compliance-features-metr-has",
+          "how-metr-meets-eu-regulations",
+          "how-metr-enforces-data-privacy",
+          "how-gdpr-is-implemented-in-metr"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "GDPR and data compliance",
+      "metaDescription": "This section explains how metR follows GDPR guidelines for managing client organization data.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/05_security_and_compliance/c_gdpr_compliance.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "722ac73c-18da-4495-a020-aa2bf6dc5d19"
+          ],
+          "value": "GDPR and data compliance"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "57fd0005-407e-4f86-98a4-72874b3abc39"
+          ],
+          "value": "This section explains how metR follows GDPR guidelines for managing client organization data."
+        },
+        "content": {
+          "chunk_references": [
+            "ea3fb80d-63c5-4352-a830-40eecbabd762"
+          ],
+          "value": "The General Data Protection Regulation (GDPR) is a European Union law that governs how organizations collect, store, and process personal data. metR is designed to support compliance with these requirements by following strict data privacy practices.\n\nmetR minimizes stored data and keeps the control with your organization:\n\nYour organization retains full ownership of its data. metR does not share data with third parties."
+        }
+      }
+    ],
+    "sections": []
+  }
+}

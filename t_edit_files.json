@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "c3dd123c-d3b9-472a-97a9-4724756de664"
+        ],
+        "value": "Add Formatting"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "b9a5ca81-f15c-47ad-b7c5-00878bd70a71"
+        ],
+        "value": "This section describes how to format and structure the DITA-XML file using the Toolbar in DocEditor."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "33546d89-4f1f-4aa4-8ba2-ddf15703e7d7"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/doceditor/t_edit_files.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "92849f14-a626-4f76-89b8-7edabbdbad38"
+        ],
+        "value": [
+          "doceditor",
+          "toolbar",
+          "dita-files",
+          "dita-xml",
+          "github-branch",
+          "apply-formatting",
+          "insert-dita-elements",
+          "edit-xml-tags",
+          "save-changes",
+          "commit-changes",
+          "tag-view",
+          "text-view",
+          "formatting-elements",
+          "list-and-table-elements",
+          "inline-formatting",
+          "how-to-edit-dita-files",
+          "how-to-modify-topic-content",
+          "how-to-update-documentation",
+          "how-to-edit-xml-content",
+          "how-to-maintain-dita-files",
+          "why-edit-dita-files",
+          "ai-intent",
+          "how-to-author-documentation",
+          "how-to-edit-topics",
+          "how-to-update-content"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Add Formatting",
+      "metaDescription": "This section describes how to format and structure the DITA-XML file using the Toolbar in DocEditor.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/doceditor/t_edit_files.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "27b1ca78-f37f-40f6-b8c0-3b178fae2df0"
+          ],
+          "value": "Add Formatting"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "36a410ed-e2a3-4a8a-aee1-f4308f923c2b"
+          ],
+          "value": "This section describes how to format and structure the DITA-XML file using the Toolbar in DocEditor."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

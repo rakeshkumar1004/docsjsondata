@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "621b9462-90a6-4b2b-8dca-6ef9e90154ed"
+        ],
+        "value": "Delete a project"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "70e2fb71-a46f-4beb-91b5-b7341d5ff75b"
+        ],
+        "value": "This section describes how an administrator can delete an existing project from metR."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "d2723357-b2c1-4516-b991-774679c6d565"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_delete_a_project.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "d877bce9-42e4-4083-9335-3c5ec395de46"
+        ],
+        "value": [
+          "admin-console",
+          "projects",
+          "project-tile",
+          "delete-project",
+          "delete-project-pop-up-window",
+          "delete-this-repository",
+          "user-console",
+          "github-repositories",
+          "sign-in-to-admin-console",
+          "click-projects",
+          "view-synced-projects",
+          "click-delete-icon",
+          "enter-project-name",
+          "confirm-project-deletion",
+          "delete-existing-project",
+          "display-success-message",
+          "existing-project",
+          "project-deletion",
+          "synced-projects",
+          "project-name",
+          "project-list",
+          "repository-deletion",
+          "admin-actions",
+          "project-removal",
+          "how-do-i-delete-a-project",
+          "where-is-the-delete-project-option",
+          "what-is-delete-this-repository",
+          "how-do-i-confirm-project-deletion",
+          "what-happens-after-clicking-delete",
+          "does-project-delete-remove-github-repository",
+          "why-enter-project-name-to-delete",
+          "what-message-appears-after-project-deletion"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Delete a project",
+      "metaDescription": "This section describes how an administrator can delete an existing project from metR.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_delete_a_project.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "7c00cb89-83af-4d80-83cc-5c01c8851929"
+          ],
+          "value": "Delete a project"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "3c379291-1fc3-4ecf-9a12-73b0f64082fa"
+          ],
+          "value": "This section describes how an administrator can delete an existing project from metR."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

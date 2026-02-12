@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "be5b4429-aff7-490b-b7a2-1e9cf2612ce2"
+        ],
+        "value": "API and GitHub integration security"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "c0fbec95-e990-4c41-adec-31a87e5f6ead"
+        ],
+        "value": "This section explains how metR secures API access and GitHub repository integrations."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "984e06c2-adc2-4738-85f4-c897d2e84d8b"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/05_security_and_compliance/c_open_api_for_communication.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "bd8f23e6-bc8b-4797-b0da-da9512280592"
+        ],
+        "value": [
+          "api-security",
+          "github-integration",
+          "rest-apis",
+          "oauth-2-0",
+          "access-tokens",
+          "token-based-authentication",
+          "scoped-api-access",
+          "secure-api-communication",
+          "webhook-monitoring",
+          "organization-level-access",
+          "secure-integrations",
+          "data-in-transit-protection",
+          "https-communication",
+          "jwt-authentication",
+          "security-and-compliance",
+          "what-is-metr-open-api",
+          "how-does-metr-api-work",
+          "how-to-communicate-with-metr",
+          "how-to-integrate-with-metr",
+          "why-use-metr-api",
+          "how-to-call-metr-endpoints",
+          "how-to-enable-api-communication",
+          "how-metr-supports-integrations",
+          "api-intent",
+          "how-to-use-metr-open-api"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "API and GitHub integration security",
+      "metaDescription": "This section explains how metR secures API access and GitHub repository integrations.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/05_security_and_compliance/c_open_api_for_communication.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "527cac3d-9eb3-4b9f-8f5e-c8e91c7bbe47"
+          ],
+          "value": "API and GitHub integration security"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "b36536c6-8f3d-4b36-9b8d-9a8cc92ad6f1"
+          ],
+          "value": "This section explains how metR secures API access and GitHub repository integrations."
+        },
+        "content": {
+          "chunk_references": [
+            "5568f2e5-38fe-4922-83e6-93c6663ab94d"
+          ],
+          "value": "metR secures its API communication and GitHub integrations using industry-standard protocols and scoped access controls:"
+        }
+      }
+    ],
+    "sections": []
+  }
+}

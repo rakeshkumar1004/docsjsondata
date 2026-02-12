@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "cdc6d9c9-bc24-4393-b1db-6db8cb2a2a6b"
+        ],
+        "value": "Key benefits"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "65610f52-c1f1-4ccc-b641-08a0a7d819ac"
+        ],
+        "value": "This section describes the key benefits of using the metR application."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "794af35b-f36b-4ba1-85c0-99865dd9a616"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/01_introduction/c_key_benefits.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "1e4d10a8-05d0-4bd3-9497-d3100e85eb56"
+        ],
+        "value": [
+          "metr-application",
+          "content-conversion-workflow",
+          "ai-author-assist",
+          "ai-assistant",
+          "llm-based-chatbot",
+          "pre-defined-metadata-structure",
+          "automating-the-conversion-process",
+          "manual-conversion",
+          "built-in-validation",
+          "dita-content-validation",
+          "warnings-and-errors",
+          "reduced-conversion-time",
+          "fewer-manual-errors",
+          "content-classification",
+          "content-structure",
+          "content-readability",
+          "keyword-suggestions",
+          "structured-authoring",
+          "metadata",
+          "dita-content",
+          "knowledge-base",
+          "natural-language-queries",
+          "context-aware-answers",
+          "technical-users",
+          "non-technical-users",
+          "why-use-metr",
+          "what-are-the-benefits-of-metr",
+          "how-does-metr-reduce-conversion-time",
+          "how-does-metr-reduce-manual-errors",
+          "what-value-does-metr-provide"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Key benefits",
+      "metaDescription": "This section describes the key benefits of using the metR application.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/01_introduction/c_key_benefits.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "2899c333-5334-4287-ada5-9673f4c51c32"
+          ],
+          "value": "Key benefits"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "5ddc9745-7581-4512-8dce-3d07b8ea7637"
+          ],
+          "value": "This section describes the key benefits of using the metR application."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

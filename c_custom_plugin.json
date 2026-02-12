@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "bff54f33-9406-470b-a5e2-4c142a52dddf"
+        ],
+        "value": "Custom plugin"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "0cccdc92-8d82-446d-afb2-fc3748b60889"
+        ],
+        "value": "This section describes how an administrator can upload and manage custom DITA-OT plug-ins in the metR admin console."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "dcce7c56-f368-4dd6-9fef-f962219be0dd"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/c_custom_plugin.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "bc1f1a7d-5bd1-47be-98db-cf1a7b870b32"
+        ],
+        "value": [
+          "custom-plugin",
+          "custom-plugin-module",
+          "dita-ot-plugin",
+          "default-dita-plugin",
+          "admin-console",
+          "upload-custom-plugin",
+          "manage-custom-plugins",
+          "use-custom-plugin",
+          "replace-default-plugin",
+          "apply-custom-plugin",
+          "content-publishing",
+          "dita-transformation",
+          "publishing-standards",
+          "organization-specific-output",
+          "custom-content-processing",
+          "what-is-a-custom-plugin",
+          "when-to-use-a-custom-dita-plugin",
+          "how-do-custom-plugins-work-in-metr",
+          "why-upload-a-custom-dita-plugin",
+          "where-to-manage-custom-plugins"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Custom plugin",
+      "metaDescription": "This section describes how an administrator can upload and manage custom DITA-OT plug-ins in the metR admin console.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/c_custom_plugin.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "1675b52f-ed5b-4998-8968-f0aa89740e7c"
+          ],
+          "value": "Custom plugin"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "c670d50c-d8fe-4e8e-a6b6-35d293364d60"
+          ],
+          "value": "This section describes how an administrator can upload and manage custom DITA-OT plug-ins in the metR admin console."
+        },
+        "content": {
+          "chunk_references": [
+            "973dc52d-d8e6-470b-914f-adffebcec746"
+          ],
+          "value": "metR includes a default DITA Open Toolkit (DITA-OT) plug-in to transform your content. If needed, you can upload a custom plug-in to meet your organization’s publishing standards.\n\nUse the Custom Plugin module to upload and manage these plug-ins for customized content processing and publishing. For more information, see Add a custom DITA plugin."
+        }
+      }
+    ],
+    "sections": []
+  }
+}

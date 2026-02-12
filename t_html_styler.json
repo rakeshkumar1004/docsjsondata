@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "045898b2-2b9c-4003-9ced-6b12c9022f0f"
+        ],
+        "value": "HTML Styler"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "bc561822-e01e-4de2-ba6f-a86f3eb4b630"
+        ],
+        "value": "This section describes how to style an HTML document in DocStyler."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "4d243aa5-afb3-49e8-a248-fa59eb77e998"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docpublisher/t_html_styler.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "605a7b2a-b61e-4d15-bbfa-426b064078dd"
+        ],
+        "value": [
+          "html-styler",
+          "docstyler",
+          "docpublisher",
+          "html-output",
+          "styling-options",
+          "style-html-output",
+          "upload-logo",
+          "select-color-shades",
+          "configure-header",
+          "configure-footer",
+          "header-and-footer",
+          "logo-and-colors",
+          "company-name-and-website",
+          "html-branding",
+          "pre-publishing-styling",
+          "ai-intent",
+          "how-to-style-html-documents",
+          "what-is-html-styler",
+          "how-does-html-styling-work",
+          "how-to-customize-html-layout",
+          "what-controls-html-design",
+          "how-to-apply-html-themes",
+          "why-use-html-styler",
+          "how-to-manage-web-styles",
+          "what-is-metr-html-styling"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "HTML Styler",
+      "metaDescription": "This section describes how to style an HTML document in DocStyler.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docpublisher/t_html_styler.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "71c1483e-9de4-4730-ac3d-7636829d8132"
+          ],
+          "value": "HTML Styler"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "c6fa3038-a72c-49d4-a01b-35ba9c564500"
+          ],
+          "value": "This section describes how to style an HTML document in DocStyler."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

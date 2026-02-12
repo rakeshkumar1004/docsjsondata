@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "87d47b2a-e91e-44a1-aafd-6d7dbb752039"
+        ],
+        "value": "Understanding GitHub Integration"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "1aa3c872-a16e-4d4b-9b4c-6242c6f249a3"
+        ],
+        "value": "This section describes the key GitHub concepts used in metR and how the integration works both ways."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "bcbb0de9-79c6-49f4-a070-c5dd7ac42b99"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/02_onboarding_and_setup/c_github_integration.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "19f06465-6e9f-4329-b406-3b2de2bb65b0"
+        ],
+        "value": [
+          "metr-application",
+          "github-integration",
+          "version-control-integration",
+          "github-authorization",
+          "project-repository-mapping",
+          "branch-mapping",
+          "docmanager-module",
+          "doceditor-module",
+          "docpublisher-module",
+          "link-projects-to-github-repositories",
+          "synchronize-project-files",
+          "create-github-repository-from-metr",
+          "create-branch-in-metr",
+          "create-branch-in-github",
+          "compare-branches",
+          "commit-and-push-to-github",
+          "refresh-project-sync",
+          "one-way-and-two-way-sync",
+          "github-repositories",
+          "branches",
+          "projects",
+          "converted-files",
+          "versioned-documentation",
+          "collaborative-authoring",
+          "source-control",
+          "how-does-metr-integrate-with-github",
+          "what-is-github-integration-in-metr",
+          "how-are-projects-mapped-to-github-repositories",
+          "how-do-branches-work-between-metr-and-github",
+          "what-happens-when-i-commit-from-metr",
+          "can-i-manage-github-without-leaving-metr"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Understanding GitHub Integration",
+      "metaDescription": "This section describes the key GitHub concepts used in metR and how the integration works both ways.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/02_onboarding_and_setup/c_github_integration.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "d24b10f9-4240-4761-b6d5-e8537da6b4cb"
+          ],
+          "value": "Understanding GitHub Integration"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "45aa84af-700f-489f-8efe-bb6539731d0d"
+          ],
+          "value": "This section describes the key GitHub concepts used in metR and how the integration works both ways."
+        },
+        "content": {
+          "chunk_references": [
+            "4d64ee41-f00b-4e05-a59d-da28646513cd"
+          ],
+          "value": "metR tightly integrates with GitHub, a cloud-based source control platform, to manage converted files. This authorization and integration is necessary because metR synchronizes project files with their corresponding GitHub repositories. After the initial linking, the user can perform all the GitHub-specific operations directly in the metR workspace without the need to login to GitHub separately.\n\nFor more information on GitHub, see GitHub Documentation.\n\nmetR uses the following GitHub-related terms:\n\nThe following table lists the actions that Admins and Users can perform in metR and in GitHub, and how those actions affect each platform:"
+        }
+      }
+    ],
+    "sections": []
+  }
+}

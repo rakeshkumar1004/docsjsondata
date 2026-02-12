@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "d4057e81-00ba-4b00-b143-ae8aeb842580"
+        ],
+        "value": "Unable to add a child tag in DocEditor"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "8f308361-413a-4e84-85b4-95470e742506"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/unable_to_add_a_child_tag_in_doceditor.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "5c545f81-1299-45ac-861d-781616674cab"
+        ],
+        "value": [
+          "add-child-tag-unavailable",
+          "invalid-dita-structure",
+          "child elements",
+          "DITA structure"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Unable to add a child tag in DocEditor",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/unable_to_add_a_child_tag_in_doceditor.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "50703b9e-4ab9-44d5-8555-ddad62d461ba"
+          ],
+          "value": "Unable to add a child tag in DocEditor"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "57b1becf-075a-4d56-8ac6-2444d7dd2667"
+          ],
+          "value": "Condition"
+        },
+        "content": {
+          "chunk_references": [
+            "f91f785b-9fcf-45f3-9403-3ae7e4425844"
+          ],
+          "value": "The Add Child Tag option is unavailable or does not insert a tag."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "cd0355c5-d40e-485f-8a00-00541598060d"
+          ],
+          "value": "Cause"
+        },
+        "listItems": {
+          "chunk_references": [
+            "05f2b409-3ea9-4dd1-855d-369b4ebd32cf"
+          ],
+          "value": [
+            "No valid parent element is selected.",
+            "The selected element does not allow child elements."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "68968a71-afac-459a-8a9d-06228c68c560"
+          ],
+          "value": "Remedy"
+        }
+      }
+    ]
+  }
+}

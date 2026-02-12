@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "a8b7a42e-514d-401a-82cd-d47167fcb0c3"
+        ],
+        "value": "View GitHub commits"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "eec4d4e6-5e9f-48fa-adee-526390fb8775"
+        ],
+        "value": "This section describes how an administrator can view the GitHub commit history for a project in the metR admin console."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "55363b17-d7ad-46e8-a15d-d2c56437887a"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_view_github_commits.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "ac6a8967-73ff-421c-afe7-073db0a26f1b"
+        ],
+        "value": [
+          "admin-console",
+          "projects-module",
+          "github-integration",
+          "commit-history",
+          "project-details",
+          "commit-tab",
+          "branch-selector",
+          "view-github-commits",
+          "open-project-details",
+          "navigate-to-commit-tab",
+          "select-branch",
+          "search-commit-history",
+          "filter-commit-entries",
+          "review-commit-metadata",
+          "administrator-tasks",
+          "project-monitoring",
+          "change-visibility",
+          "documentation-projects",
+          "admin-workflows",
+          "how-do-i-view-github-commits-in-metr",
+          "where-can-admins-see-commit-history-in-metr",
+          "what-commit-details-are-visible-in-metr",
+          "how-do-i-check-project-activity-in-metr",
+          "how-do-admins-monitor-github-activity-in-metr"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "View GitHub commits",
+      "metaDescription": "This section describes how an administrator can view the GitHub commit history for a project in the metR admin console.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_view_github_commits.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "9137f7da-da0d-4069-ae0f-a72220c8ea3a"
+          ],
+          "value": "View GitHub commits"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "40209f6b-02ce-415c-814d-13e39e524868"
+          ],
+          "value": "This section describes how an administrator can view the GitHub commit history for a project in the metR admin console."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

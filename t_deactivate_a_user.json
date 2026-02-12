@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "ad71f354-4925-4b0a-8a90-c66632f5fc85"
+        ],
+        "value": "Deactivate a user"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "0cb02546-ecf9-4bfb-9a08-55cdd14ab930"
+        ],
+        "value": "This section describes how an administrator can deactivate a user in the metR admin console."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "a9c94bfb-5d4b-4412-801f-dfc3b8263536"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_deactivate_a_user.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "a6634726-d721-4c30-9dda-04b81fa3a2c1"
+        ],
+        "value": [
+          "admin-console",
+          "users-module",
+          "user-list",
+          "user-account",
+          "user-status",
+          "sign-in-to-admin-console",
+          "open-users-screen",
+          "select-user",
+          "deactivate-user",
+          "confirm-user-deactivation",
+          "user-management",
+          "temporary-access-removal",
+          "inactive-user",
+          "admin-workflows",
+          "account-status-change",
+          "how-do-i-deactivate-a-user",
+          "where-is-the-deactivate-user-option",
+          "what-happens-when-a-user-is-deactivated",
+          "can-i-reactivate-a-deactivated-user",
+          "does-deactivation-delete-the-user-account"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Deactivate a user",
+      "metaDescription": "This section describes how an administrator can deactivate a user in the metR admin console.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_deactivate_a_user.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "54414e8a-23d2-4ca8-97ce-99940cf8266a"
+          ],
+          "value": "Deactivate a user"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "84cb4e13-7d1e-4023-8f17-8783252ede91"
+          ],
+          "value": "This section describes how an administrator can deactivate a user in the metR admin console."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

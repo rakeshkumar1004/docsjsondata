@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "c84492da-9f5e-4ae8-8839-b28a71846006"
+        ],
+        "value": "Publish a document"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "60b3aafc-3d1c-4401-b4a2-7a46a780652e"
+        ],
+        "value": "This topic describes how to publish a document directly using DocPublisher after selecting the project and branch."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "833f635a-d6fc-4a8a-a6b5-73c1f804bfb8"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docpublisher/t_publish_styled_html_document.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "c172f323-9f9a-4903-95ba-d0e5504febc7"
+        ],
+        "value": [
+          "metr",
+          "docpublisher",
+          "styled-html",
+          "webhelp-output",
+          "publishing-engine",
+          "content-delivery",
+          "documentation-platform",
+          "html-output",
+          "build-pipeline",
+          "release-module",
+          "publish-styled-html",
+          "select-style-configuration",
+          "run-publish-job",
+          "generate-webhelp",
+          "validate-styles",
+          "trigger-build",
+          "review-output",
+          "deploy-documentation",
+          "manage-publishing-workflow",
+          "finalize-release",
+          "html-publishing",
+          "enterprise-docops",
+          "dita-pipeline",
+          "styled-documentation",
+          "content-release",
+          "webhelp-delivery",
+          "documentation-lifecycle",
+          "technical-communication",
+          "content-governance",
+          "release-management",
+          "ai-intent",
+          "how-to-publish-styled-html-in-metr",
+          "how-to-publish-webhelp-output",
+          "what-is-styled-html-publishing",
+          "why-publish-styled-html",
+          "how-does-docpublisher-handle-html",
+          "when-to-publish-styled-documents",
+          "how-to-run-html-publish-job",
+          "how-to-deploy-webhelp",
+          "how-to-review-published-html"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Publish a document",
+      "metaDescription": "This topic describes how to publish a document directly using DocPublisher after selecting the project and branch.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docpublisher/t_publish_styled_html_document.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "21661409-7b91-4924-9f04-a387b2235403"
+          ],
+          "value": "Publish a document"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "bdf584b1-d210-424f-b778-201d3ce0f027"
+          ],
+          "value": "This topic describes how to publish a document directly using DocPublisher after selecting the project and branch."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "369b7384-7543-43b2-905b-f09b46354808"
+        ],
+        "value": "Audit logging and activity monitoring"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "1c1f22c9-5382-45b5-ad55-5dcc03d992ed"
+        ],
+        "value": "This section describes how metR manages audit logs and activity records to support compliance and traceability."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "61f8116e-d72f-46d5-ab6c-bf47a0560794"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/05_security_and_compliance/c_audit_logging_and_retention.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "c672f334-f6f7-42a0-a68f-69f32a40abc6"
+        ],
+        "value": [
+          "audit-logging",
+          "activity-logs",
+          "audit-trail",
+          "log-retention",
+          "platform-events",
+          "record-user-activity",
+          "track-platform-actions",
+          "retain-audit-logs",
+          "monitor-system-activity",
+          "support-compliance-audits",
+          "security-and-compliance",
+          "enterprise-auditing",
+          "traceability",
+          "regulated-environments",
+          "operational-transparency",
+          "what-is-audit-logging-in-metr",
+          "how-does-metr-log-activities",
+          "why-audit-logs-are-important-in-metr",
+          "how-metr-retains-audit-logs",
+          "how-to-review-metr-audit-logs",
+          "audit-logging-intent",
+          "how-metr-supports-compliance-audits",
+          "how-long-metr-retains-logs",
+          "how-metr-ensures-log-integrity",
+          "how-metr-supports-traceability"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Audit logging and activity monitoring",
+      "metaDescription": "This section describes how metR manages audit logs and activity records to support compliance and traceability.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/05_security_and_compliance/c_audit_logging_and_retention.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "a96439d6-d9fb-47f4-bba3-237be9c0b179"
+          ],
+          "value": "Audit logging and activity monitoring"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "dbc1899a-b023-4167-9e48-1de98aca594a"
+          ],
+          "value": "This section describes how metR manages audit logs and activity records to support compliance and traceability."
+        },
+        "content": {
+          "chunk_references": [
+            "0267abc2-e4df-4db1-a436-75439ac3327d"
+          ],
+          "value": "metR captures and retains activity logs for key platform actions:\n\nThese logs are encrypted and retained according to compliance standards. Logs do not contain sensitive document content."
+        }
+      }
+    ],
+    "sections": []
+  }
+}

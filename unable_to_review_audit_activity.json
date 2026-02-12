@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "2fe2bc95-0258-487e-bb42-40f7aceefaee"
+        ],
+        "value": "User cannot view audit-related activity despite security logging being enabled"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "44a67b94-1acb-4085-985d-333850c89b80"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/unable_to_review_audit_activity.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "4a65c61e-00c8-4305-b93c-67b0192dca64"
+        ],
+        "value": [
+          "audit-logs-not-visible",
+          "insufficient-permissions",
+          "audit logs"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "User cannot view audit-related activity despite security logging being enabled",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/unable_to_review_audit_activity.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "bb80e1e9-5401-4be4-84fa-290f2d48a8f2"
+          ],
+          "value": "User cannot view audit-related activity despite security logging being enabled"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "cf33d8ce-adb4-47e3-82c5-662dbde663d7"
+          ],
+          "value": "Condition"
+        },
+        "content": {
+          "chunk_references": [
+            "f342af78-e4be-4307-a5f0-32b063b21ef3"
+          ],
+          "value": "The application does not display detailed activity information in the user console."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "a52d4bc9-b834-4ffd-b5c2-c29237cd5315"
+          ],
+          "value": "Cause"
+        },
+        "content": {
+          "chunk_references": [
+            "8ae2a4c9-603a-408b-acd6-8dd3d8013709"
+          ],
+          "value": "Audit logs are maintained by the system for security and compliance purposes, but access to logs and monitoring information is restricted based on user role. Regular users do not have permission to view audit logging details, which are retained for administrative and compliance review only."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "49aeb6a0-3848-45bf-90b2-8e21dc7def30"
+          ],
+          "value": "Remedy"
+        }
+      }
+    ]
+  }
+}

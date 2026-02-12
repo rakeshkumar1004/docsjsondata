@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "24e49453-987b-49c1-9e59-9612ca7a3188"
+        ],
+        "value": "Organization"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "cab771ca-aebc-4b53-843e-c41247eafa29"
+        ],
+        "value": "This section describes the organization-specific details displayed in the metR admin console."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "47c9092d-fd88-49ee-8d82-875c01b6d598"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/c_organization.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "1922c58f-0222-43cb-b3fb-94b14676503c"
+        ],
+        "value": [
+          "organization-module",
+          "organization-page",
+          "organization-profile",
+          "admin-console",
+          "tenant-organization",
+          "view-organization-details",
+          "review-organization-information",
+          "check-organization-metadata",
+          "view-user-counts",
+          "view-vm-specifications",
+          "enterprise-setup",
+          "tenant-configuration",
+          "organization-overview",
+          "subscription-context",
+          "platform-governance",
+          "what-is-the-organization-section-in-metr",
+          "what-information-is-shown-in-organization-page",
+          "where-can-i-view-organization-details",
+          "how-do-i-check-user-counts-for-my-organization",
+          "where-can-i-view-vm-specifications-in-metr"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Organization",
+      "metaDescription": "This section describes the organization-specific details displayed in the metR admin console.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/c_organization.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "d1f99beb-1968-47f9-a9ee-2120b6371d58"
+          ],
+          "value": "Organization"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "5d07d704-9fa3-48ab-a9e0-46ba89a05ba8"
+          ],
+          "value": "This section describes the organization-specific details displayed in the metR admin console."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "7aa8274c-5166-4753-99c8-29c45e9b70ad"
+          ],
+          "value": "General Details"
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "1a045465-3854-43db-8dc9-ab848a62d39e"
+          ],
+          "value": "User Details"
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "febf33ea-77c1-4d2a-ba37-398c538081c6"
+          ],
+          "value": "VM Specifications"
+        }
+      }
+    ]
+  }
+}

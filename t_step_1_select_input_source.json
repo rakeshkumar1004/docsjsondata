@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "8ff382d6-2274-4ad2-ad41-98dcf85d64ff"
+        ],
+        "value": "Step 1: Select Input Source"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "cc65cb6d-c971-4339-bbae-d455db3ba744"
+        ],
+        "value": "This section describes the steps to upload a source document to metR."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "675e3f84-ab72-40c2-ab36-8b84856880d9"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/t_step_1_select_input_source.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "6a7bfdd4-5623-490d-8798-2865b6b63169"
+        ],
+        "value": [
+          "DocMigration",
+          "metR",
+          "user console",
+          "source file",
+          "DITA-XML",
+          "upload the source file",
+          "Select input source type",
+          "browse and select your file",
+          "drag and drop the file",
+          "Refer to document conversion policy page",
+          "Reset",
+          "Upload",
+          "left navigation panel",
+          "DocMigration window",
+          "file format",
+          "conversion guidelines",
+          "source document",
+          "how to upload the source file",
+          "how to select input source type",
+          "how to drag and drop the file",
+          "how to reset the selected file",
+          "what happens after upload"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Step 1: Select Input Source",
+      "metaDescription": "This section describes the steps to upload a source document to metR.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/t_step_1_select_input_source.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "b0104dfc-3e91-479f-a0a8-1a823af4b793"
+          ],
+          "value": "Step 1: Select Input Source"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "c106fa3c-7297-49df-9265-ff40d0a63308"
+          ],
+          "value": "This section describes the steps to upload a source document to metR."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

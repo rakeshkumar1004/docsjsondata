@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "fd74037f-941f-4135-bdfe-18c92fc585e5"
+        ],
+        "value": "metR User Console"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "a18ed86f-4ff3-4a85-9f5e-8fbf0885ca38"
+        ],
+        "value": "This section provides an overview of the metR user console."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "09937e14-9f16-4995-a0fe-467cdb554853"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/c_metr_user_console.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "a063a8b5-ae1a-411d-ba9f-7d6c6f06c1b5"
+        ],
+        "value": [
+          "metr-user-console",
+          "user-console",
+          "metr-web-console",
+          "metr-dashboard",
+          "user-console-interface",
+          "understand-user-console",
+          "explore-console-overview",
+          "identify-console-sections",
+          "learn-console-capabilities",
+          "navigate-user-console",
+          "content-operations-platform",
+          "structured-authoring-environment",
+          "documentation-workflow",
+          "dita-based-publishing",
+          "ai-ready-documentation",
+          "what-is-the-metr-user-console",
+          "what-can-i-do-in-the-metr-user-console",
+          "how-does-the-metr-user-console-work",
+          "how-do-i-navigate-the-metr-console",
+          "why-should-i-use-the-metr-user-console"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "metR User Console",
+      "metaDescription": "This section provides an overview of the metR user console.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/c_metr_user_console.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "3f4ec2e9-4b83-43a6-a000-4fbdd26cc5bf"
+          ],
+          "value": "metR User Console"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "8ae7ecc5-aeaf-431b-82dd-268b5802fac0"
+          ],
+          "value": "This section provides an overview of the metR user console."
+        },
+        "content": {
+          "chunk_references": [
+            "827d3b82-1a68-499e-9031-70d2cbf8e36e"
+          ],
+          "value": "The metR user console is the primary workspace for users and technical writers to manage the end-to-end structured content workflow. It facilitates uploading unstructured source files to publish clean, validated, structured DITA-XML outputs.\n\nUsers can perform critical tasks such as:"
+        }
+      }
+    ],
+    "sections": []
+  }
+}

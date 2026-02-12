@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "f4be2f4f-c788-4bd3-86cf-aff659e900e6"
+        ],
+        "value": "Validate DITA FIle using AI Author Assistant"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "ac49a48a-ef1a-4411-ab77-c9595f80ae12"
+        ],
+        "value": "This section describes how to validate a DITA file using AI Author Assistant."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "bf20c695-27ce-4e2b-95a5-1f910f351c99"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/doceditor/c_ai_author.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "795aa1ce-dfe2-4cee-ab8f-11f1466acea1"
+        ],
+        "value": [
+          "ai-author-assistant",
+          "doceditor",
+          "toolbar",
+          "llama",
+          "deepseek",
+          "analyze-dita-content",
+          "generate-ai-suggestions",
+          "validate-topic-type",
+          "identify-keywords",
+          "generate-corrected-xml",
+          "dita-element-usage",
+          "content-organization",
+          "topic-classification",
+          "language-and-readability",
+          "dita-best-practices",
+          "what-is-ai-author",
+          "how-does-ai-author-work",
+          "why-use-ai-author",
+          "how-to-generate-dita-content",
+          "how-to-use-ai-for-documentation",
+          "how-to-accelerate-authoring",
+          "ai-intent",
+          "how-to-improve-documentation-quality",
+          "how-to-automate-authoring",
+          "how-to-create-ai-ready-content"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Validate DITA FIle using AI Author Assistant",
+      "metaDescription": "This section describes how to validate a DITA file using AI Author Assistant.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/doceditor/c_ai_author.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "49252726-d7ed-4315-bac4-f66ad72d4641"
+          ],
+          "value": "Validate DITA FIle using AI Author Assistant"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "cd2b6655-9934-4494-9d39-5a3dba334de9"
+          ],
+          "value": "This section describes how to validate a DITA file using AI Author Assistant."
+        },
+        "content": {
+          "chunk_references": [
+            "03375791-3df7-4b4a-9d8a-14e22cf259df"
+          ],
+          "value": "The AI Author Assistant is a generative Artificial Intelligence (AI) tool built-in for metR. This AI-based tool is powered by Llama and DeepSeek LLMs. The goal of this assistant is to help you analyze the open file and provide detailed suggestions to improve DITA element usage, content organization, topic classification, grammar, and formatting.\n\nWhen you complete editing the selected file, you can click AI Suggestions icon from the Toolbar. Choose between Llama or DeepSeek and click the AI Suggestions again.\n\nThe AI Author Assistant will display the following sections with the suggestion or feedback on what can be improved in your DITA content."
+        }
+      }
+    ],
+    "sections": []
+  }
+}

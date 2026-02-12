@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "b0ee83f7-a05a-4161-943a-4ead06052e10"
+        ],
+        "value": "View and Manage Project Files"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "4d074044-c0c1-4b25-aa90-05f3ef38f30e"
+        ],
+        "value": "This section describes how to access the projects, preview DITA-XML and HTML files, and manage branches in metR."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "0d97c451-a757-4792-aafc-221485e4d334"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmanager/t_view_projects.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "05f97476-59ae-4ef9-8f30-01bd1c179dba"
+        ],
+        "value": [
+          "product-layer",
+          "docmanager",
+          "docmigration",
+          "docpublisher",
+          "doceditor",
+          "github",
+          "process-layer",
+          "sign-in",
+          "view-projects",
+          "choose-a-branch",
+          "create-new-branch",
+          "compare-branches",
+          "context-layer",
+          "dita-xml-output",
+          "dita-files",
+          "html-output-files",
+          "project-tiles",
+          "content-preview",
+          "how-to-view-projects",
+          "how-to-access-documentation-projects",
+          "why-view-projects",
+          "how-to-manage-multiple-projects",
+          "how-to-navigate-projects",
+          "how-to-find-dita-projects",
+          "ai-intent",
+          "how-to-organize-documentation",
+          "how-to-browse-projects",
+          "how-to-administer-projects"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "View and Manage Project Files",
+      "metaDescription": "This section describes how to access the projects, preview DITA-XML and HTML files, and manage branches in metR.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmanager/t_view_projects.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "5557161e-7c5e-402d-9531-a2fccce26151"
+          ],
+          "value": "View and Manage Project Files"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "f77a4e16-9fa8-47b9-8d53-b57b3b6fc142"
+          ],
+          "value": "This section describes how to access the projects, preview DITA-XML and HTML files, and manage branches in metR."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

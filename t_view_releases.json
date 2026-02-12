@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "7876db9e-e318-44c7-96e0-04df198816e0"
+        ],
+        "value": "View releases"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "b4778eea-9c26-42b6-9b17-75d6a0fc425d"
+        ],
+        "value": "This section describes how an administrator view the releases in a project."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "7c4e40af-9d53-4a15-a66f-e7209594e95f"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_view_releases.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "07662f40-ec94-405b-a607-880b4f4d4b54"
+        ],
+        "value": [
+          "admin-console",
+          "projects-module",
+          "github-integration",
+          "release-history",
+          "project-releases",
+          "release-tab",
+          "published-outputs",
+          "view-releases",
+          "open-project-details",
+          "navigate-to-release-tab",
+          "search-release-history",
+          "filter-release-entries",
+          "review-release-metadata",
+          "check-published-outputs",
+          "administrator-tasks",
+          "project-monitoring",
+          "documentation-publishing",
+          "release-visibility",
+          "admin-workflows",
+          "how-do-i-view-releases-in-metr",
+          "where-can-admins-see-project-releases-in-metr",
+          "what-release-details-are-visible-in-metr",
+          "how-do-i-check-published-outputs-in-metr",
+          "how-do-admins-monitor-documentation-releases-in-metr"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "View releases",
+      "metaDescription": "This section describes how an administrator view the releases in a project.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_view_releases.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "9a565bc9-3b5f-4e9d-8641-40e8d5cfef3e"
+          ],
+          "value": "View releases"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "94bd273b-0c42-441f-8be0-6a65ed5f8018"
+          ],
+          "value": "This section describes how an administrator view the releases in a project."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

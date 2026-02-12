@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "01a5b7c0-5738-4973-a8b4-71f63a329fd5"
+        ],
+        "value": "Publish a document"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "b59b7107-363b-4947-a1a9-4770e5b38886"
+        ],
+        "value": "This section describes how to publish a document in DocPublisher, whether you publish directly or after styling it in DocStyler."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "9e2c9c7e-93d9-4b8f-af0e-2cff6df2f743"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docpublisher/t_publish_a_document.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "e837268b-2d74-42d1-99ec-0c5810f4a59d"
+        ],
+        "value": [
+          "metr",
+          "docpublisher",
+          "publishing-module",
+          "documentation-platform",
+          "content-delivery",
+          "output-generator",
+          "publishing-workflow",
+          "document-output",
+          "webhelp-output",
+          "pdf-output",
+          "publish-document",
+          "select-project",
+          "select-branch",
+          "choose-output-format",
+          "run-publish-job",
+          "validate-content",
+          "trigger-build",
+          "generate-output",
+          "review-published-doc",
+          "manage-publishing",
+          "documentation-publishing",
+          "enterprise-docops",
+          "dita-pipeline",
+          "content-release",
+          "multi-format-output",
+          "technical-communication",
+          "web-and-pdf-publishing",
+          "content-governance",
+          "release-management",
+          "documentation-lifecycle",
+          "ai-intent",
+          "how-to-publish-a-document-in-metr",
+          "how-does-document-publishing-work",
+          "what-is-docpublisher",
+          "when-to-publish-documents",
+          "why-use-metr-for-publishing",
+          "how-to-generate-document-output",
+          "how-to-run-publish-job",
+          "how-to-release-documentation",
+          "how-to-manage-publishing-workflows"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Publish a document",
+      "metaDescription": "This section describes how to publish a document in DocPublisher, whether you publish directly or after styling it in DocStyler.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docpublisher/t_publish_a_document.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "ba9bb14c-3a19-41f6-b625-f1a919b5bc6a"
+          ],
+          "value": "Publish a document"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "9a6b153b-1dc6-4955-b078-fb93283dcf5c"
+          ],
+          "value": "This section describes how to publish a document in DocPublisher, whether you publish directly or after styling it in DocStyler."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

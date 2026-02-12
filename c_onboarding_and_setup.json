@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "1a0f62a7-f085-4bf6-ac00-b045b0edc4fb"
+        ],
+        "value": "Onboarding and setup"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "ee04db85-9131-405c-aea0-2435fa0e24c5"
+        ],
+        "value": "This section introduces the onboarding and setup process in metR for administrators and users."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "d96b701d-ea2a-41ea-8bf2-8d8c1f631b47"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/02_onboarding_and_setup/c_onboarding_and_setup.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "ef7b04eb-a85c-46b4-82bf-d6488b949863"
+        ],
+        "value": [
+          "metr-application",
+          "admin-console",
+          "user-console",
+          "organization-environment",
+          "admin-console-url",
+          "user-console-url",
+          "hosted-console-urls",
+          "organization-onboarding",
+          "environment-setup",
+          "admin-access-provisioning",
+          "user-access-provisioning",
+          "share-user-console-url",
+          "first-time-sign-in",
+          "console-access-handoff",
+          "organizations",
+          "administrators",
+          "users",
+          "enterprise-onboarding",
+          "getting-started",
+          "initial-access",
+          "role-based-access",
+          "what-is-onboarding-in-metr",
+          "how-does-metr-onboarding-work",
+          "how-do-i-get-started-with-metr",
+          "who-onboards-an-organization-in-metr",
+          "what-information-do-admins-receive-after-onboarding",
+          "how-do-i-access-the-metr-admin-console",
+          "how-do-users-access-the-metr-application"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Onboarding and setup",
+      "metaDescription": "This section introduces the onboarding and setup process in metR for administrators and users.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/02_onboarding_and_setup/c_onboarding_and_setup.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "72717eec-7cb7-4d5d-898e-11784624f91a"
+          ],
+          "value": "Onboarding and setup"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "9b004e01-0b1f-40aa-b699-adfb8da6dc83"
+          ],
+          "value": "This section introduces the onboarding and setup process in metR for administrators and users."
+        },
+        "content": {
+          "chunk_references": [
+            "dacffa25-dd8a-4000-80cd-a71bfd288fd5"
+          ],
+          "value": "The metR support team onboards your organization and creates a dedicated environment. After onboarding is complete, the administrator receives the following information:"
+        }
+      }
+    ],
+    "sections": []
+  }
+}

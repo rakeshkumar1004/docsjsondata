@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "67495d4f-3478-40e5-a87d-ef133721c447"
+        ],
+        "value": "Create a New Branch"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "ed06771d-7d58-4ea4-8750-9254533aee54"
+        ],
+        "value": "This section describes how to create a new branch in metR."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "2db33f12-62c3-4287-856d-675c5c86966b"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmanager/t_create_a_new_branch.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "da0db137-ef4e-4ee9-8cb5-d05856e524a6"
+        ],
+        "value": [
+          "product-layer",
+          "docmanager",
+          "github",
+          "github-repository",
+          "branches",
+          "base-branch",
+          "process-layer",
+          "create-new-branch",
+          "working-on-updates",
+          "new-content",
+          "clone-contents",
+          "using-branches",
+          "context-layer",
+          "best-practice",
+          "main-published-content",
+          "published-content",
+          "accessing-github",
+          "empty-new-branch",
+          "how-to-create-a-new-branch",
+          "why-use-branches",
+          "how-to-manage-content-versions",
+          "how-to-isolate-documentation-changes",
+          "how-to-version-dita-projects",
+          "how-to-manage-documentation-releases",
+          "ai-intent",
+          "how-to-start-parallel-authoring",
+          "how-to-control-documentation-changes",
+          "how-to-use-branching"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Create a New Branch",
+      "metaDescription": "This section describes how to create a new branch in metR.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmanager/t_create_a_new_branch.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "db139fbf-0b52-413e-80bc-983540786d7c"
+          ],
+          "value": "Create a New Branch"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "a560bad6-4e5b-473e-aeac-14aa21b011a7"
+          ],
+          "value": "This section describes how to create a new branch in metR."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

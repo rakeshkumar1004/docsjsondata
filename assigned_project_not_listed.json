@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "7e23aaef-4884-4a19-99a6-ae17c3e9c8f4"
+        ],
+        "value": "Assigned project does not appear in DocManager after login"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "8f72f4df-d5b6-483b-b282-373ed21ed5b0"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/assigned_project_not_listed.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "16cf9b54-f80c-4e70-b345-a99001558651"
+        ],
+        "value": [
+          "assigned-project-not-visible",
+          "docmanager-project-missing",
+          "assigned projects",
+          "project refresh"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Assigned project does not appear in DocManager after login",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/assigned_project_not_listed.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "a9f7bf94-2018-4e40-95c1-caa17618a1b1"
+          ],
+          "value": "Assigned project does not appear in DocManager after login"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "0808902e-fc4a-4e1b-a7b4-a95aea4e522d"
+          ],
+          "value": "Condition"
+        },
+        "content": {
+          "chunk_references": [
+            "35c1097f-db8c-482c-83d8-49e9a7244d9f"
+          ],
+          "value": "After signing in to the User Console and opening DocManager, the assigned project is not listed on the Projects page."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "103e7e0a-bc47-4968-a1db-f1c0578fb8a6"
+          ],
+          "value": "Cause"
+        },
+        "content": {
+          "chunk_references": [
+            "09849161-82e9-4d89-9eb0-5a5708c5ace5"
+          ],
+          "value": "DocManager displays only projects that have been assigned by the admin and added you as the collaborator."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "184d0637-4dc1-43cf-8f88-1bfc48d1be5b"
+          ],
+          "value": "Remedy"
+        }
+      }
+    ]
+  }
+}

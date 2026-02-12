@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "091a98ca-2b55-4300-b8e4-830e87752004"
+        ],
+        "value": "DocPublisher"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "8776e420-321a-44b9-8184-22ebc91cb057"
+        ],
+        "value": "This section describes the DocPublisher module in metR user console."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "8af165a9-df92-4fa8-ab2a-20a5041e0e4d"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docpublisher/c_docpublisher.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "dcc6489b-3c1e-4f6b-845c-3a2405948b91"
+        ],
+        "value": [
+          "docpublisher",
+          "dita-xml-content",
+          "html-output",
+          "pdf-output",
+          "dita-ot-plugins",
+          "publish-documents",
+          "transform-dita-content",
+          "apply-default-formatting",
+          "apply-custom-branding",
+          "customize-layout-and-styles",
+          "structured-content-publishing",
+          "professionally-formatted-deliverables",
+          "organization-specific-branding",
+          "early-testing-and-evaluation",
+          "light-branding",
+          "ai-intent",
+          "what-is-docpublisher",
+          "how-does-document-publishing-work",
+          "how-to-publish-dita-content",
+          "why-use-document-publisher",
+          "how-to-generate-document-output",
+          "what-is-metr-publishing",
+          "how-to-run-publishing-workflow",
+          "how-to-deliver-documentation",
+          "what-does-docpublisher-do"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "DocPublisher",
+      "metaDescription": "This section describes the DocPublisher module in metR user console.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docpublisher/c_docpublisher.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "40da03c5-a7b3-4677-8e07-2dfb66b7e81a"
+          ],
+          "value": "DocPublisher"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "2caa2338-836d-4a9a-9693-3db271dbb75a"
+          ],
+          "value": "This section describes the DocPublisher module in metR user console."
+        },
+        "content": {
+          "chunk_references": [
+            "cc817ef9-0dff-4b8d-a15d-85ffbfccb621"
+          ],
+          "value": "The DocPublisher module allows users to transform structured DITA-XML content into professionally formatted deliverables—specifically HTML and PDF output.\n\nDocPublisher provides three options to publish documents:"
+        }
+      }
+    ],
+    "sections": []
+  }
+}

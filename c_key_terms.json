@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "eed311f6-e736-425c-8742-a689afbae815"
+        ],
+        "value": "Key terms"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "a40a1c91-2d98-4d3a-9f40-4c09e7a7b314"
+        ],
+        "value": "This section describes the key terms and concepts used in metR."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "b9d87918-0e14-46d4-bab5-d18aa3289c13"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/01_introduction/c_key_terms.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "cf4ad815-99e6-4d1a-8762-9bbcdef7fd65"
+        ],
+        "value": [
+          "metr-application",
+          "credit-based-subscription-model",
+          "conversion-credits",
+          "metr-subdomain",
+          "virtual-machine",
+          "admin-console",
+          "metr-dashboard",
+          "credit-consumption",
+          "page-based-credit-calculation",
+          "file-based-credit-calculation",
+          "view-credit-usage",
+          "request-additional-credits",
+          "organization-level-credit-sharing",
+          "subscription",
+          "data-ownership",
+          "gdpr-compliance",
+          "github-repositories",
+          "local-machine",
+          "what-are-credits-in-metr",
+          "how-do-credits-work-in-metr",
+          "what-is-a-metr-subdomain",
+          "what-is-the-virtual-machine-in-metr",
+          "where-is-my-data-stored-in-metr"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Key terms",
+      "metaDescription": "This section describes the key terms and concepts used in metR.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/01_introduction/c_key_terms.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "5f14257b-091c-4d4e-97c0-9ff10789fe73"
+          ],
+          "value": "Key terms"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "3487688e-343f-409e-a412-9f75ba95f74f"
+          ],
+          "value": "This section describes the key terms and concepts used in metR."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "364e40e6-2d78-44bd-86cd-dee37f771916"
+          ],
+          "value": "Credits"
+        },
+        "content": {
+          "chunk_references": [
+            "432f5b06-3090-49cf-9f49-d274369abb64"
+          ],
+          "value": "metR uses a credit-based subscription model. You prepay for conversion credits, which are deducted when documents are converted. For example, converting a Word document consumes credits based on the number of pages (1 page = 1 credit), while converting a Markdown or HTML file consumes 1 credit per file.\n\nFor more information on metR subscription model or pricing plans, see Pricing Plans.\n\nAll users in an organization share the organization’s pool of credits. You can view available credits and usage history on the metR dashboard. If you run low on the credits, you can request more by contacting metR Support from the Admin Console."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "b76f187a-75ff-4d79-9e4f-b350df47c56f"
+          ],
+          "value": "metR Subdomain"
+        },
+        "content": {
+          "chunk_references": [
+            "5b5be272-4010-465b-90c8-2f57bb68acc4"
+          ],
+          "value": "Each organization gets a dedicated subdomain for accessing metR. For example, <yourcompanyname>.met-r.io. This unique URL maps to your organization’s Virtual Machine instance and serves as the entry point for all your users to access the metR platform."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "926c2b53-edf9-4324-8130-74475bac7e8c"
+          ],
+          "value": "Virtual Machine"
+        },
+        "content": {
+          "chunk_references": [
+            "454f1662-6b0c-4095-a571-9da1b00e8c93"
+          ],
+          "value": "When your organization is onboarded to metR, a dedicated Virtual Machine (VM) is provisioned. This VM is a secure, isolated environment in the cloud where the metR application runs for your organization. t stores only essential information like usernames and passwords. You have full control over data in your VM during your subscription. When the subscription ends, the VM is disconnected and all user data on it is wiped clean.\n\nThis means that metR is fully GDPR compliant. All personal data is handled in accordance with applicable privacy regulations, and customers retain complete ownership and control over their data throughout their subscription lifecycle."
+        }
+      }
+    ]
+  }
+}

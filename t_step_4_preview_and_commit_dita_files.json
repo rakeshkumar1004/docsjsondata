@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "d2d51d5b-bbc7-4dd5-9245-a6d694794b80"
+        ],
+        "value": "Step 4: Preview and Commit DITA Files"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "de2e5e4a-5045-496f-a540-c01b831b58c6"
+        ],
+        "value": "This section describes the process to preview the DITA file and commit it to GitHub."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "fae9fc40-3a21-4b77-a524-28d528f4a2f5"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/t_step_4_preview_and_commit_dita_files.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "3e4d9ba4-4c30-4196-b851-29210c25e8d2"
+        ],
+        "value": [
+          "docmigration",
+          "dita-files",
+          "dita-output",
+          "github",
+          "preview-dita-structure",
+          "content-preview",
+          "save-output-file",
+          "download-dita-files",
+          "commit-on-github",
+          "dita-output-tree-view",
+          "converted-dita-files",
+          "github-project",
+          "github-repository",
+          "how-to-preview-dita-files",
+          "how-to-download-dita-files",
+          "how-to-commit-dita-files-on-github"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Step 4: Preview and Commit DITA Files",
+      "metaDescription": "This section describes the process to preview the DITA file and commit it to GitHub.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/t_step_4_preview_and_commit_dita_files.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "3376827d-e926-4954-aab6-7d7f36e7250d"
+          ],
+          "value": "Step 4: Preview and Commit DITA Files"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "d6266a16-c873-4086-a732-ebcec312708b"
+          ],
+          "value": "This section describes the process to preview the DITA file and commit it to GitHub."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

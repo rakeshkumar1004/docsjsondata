@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "20783601-336e-4ff0-a542-4d3ee1b51cdd"
+        ],
+        "value": "Unable to add a new project in the Admin Console"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "ea580a4b-9d98-4198-a05a-a649cf64dc69"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/unable_to_add_a_new_project_in_the_admin_console.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "915aa056-8f5f-4df7-903d-960a507b9450"
+        ],
+        "value": [
+          "add-project-fails",
+          "admin-console-project-creation-issue",
+          "Unable to add new project in Admin Console",
+          "projects",
+          "add project",
+          "GitHub integration"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Unable to add a new project in the Admin Console",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/unable_to_add_a_new_project_in_the_admin_console.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "dd4c5b0a-c6af-4754-9740-36e2364d5b04"
+          ],
+          "value": "Unable to add a new project in the Admin Console"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "f9736c5c-e046-4c0b-b706-bad82d197b0a"
+          ],
+          "value": "Condition"
+        },
+        "content": {
+          "chunk_references": [
+            "e99c0ae7-e7e6-40eb-81eb-0dc5aa84a412"
+          ],
+          "value": "The administrator clicks Add new project in the Projects module, but the project is not created or a success message does not appear."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "02e38cef-52de-4052-aaf1-c9e793666640"
+          ],
+          "value": "Cause"
+        },
+        "listItems": {
+          "chunk_references": [
+            "9e8ffcc4-78ea-498d-b010-c81f0cb9be88"
+          ],
+          "value": [
+            "The Admin Console is not connected to a valid GitHub account.",
+            "The project name already exists in the connected GitHub organization.",
+            "Required fields such as Project Name are left blank."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "4d55b0f1-aa9a-467f-b073-38d06cbee4bf"
+          ],
+          "value": "Remedy"
+        }
+      }
+    ]
+  }
+}

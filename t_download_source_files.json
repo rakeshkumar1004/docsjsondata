@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "296eb7b6-44d2-4dd7-86fc-3d2c737617a1"
+        ],
+        "value": "Download Source Files"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "4836934b-713a-4a0c-8f38-f013bcc31a22"
+        ],
+        "value": "This section describes how to download the converted DITA-XML files, and HTML or PDF output files from any branch to your local system using DocManager."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "b0ef8983-6c85-46ec-9536-b3a269eb297f"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmanager/t_download_source_files.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "75454e1d-d490-40b5-aea6-1d5bcc993db9"
+        ],
+        "value": [
+          "docmanager",
+          "projects",
+          "branches",
+          "github",
+          "dita-files",
+          "compare-branches",
+          "select-base-branch",
+          "select-target-branch",
+          "view-differences",
+          "compare",
+          "files-changed",
+          "split-view",
+          "unified-view",
+          "content-preview",
+          "branch-differences",
+          "how-to-download-source-files",
+          "how-to-export-dita-content",
+          "why-download-documentation-files",
+          "how-to-backup-documentation",
+          "how-to-access-project-files",
+          "how-to-retrieve-source-content",
+          "ai-intent",
+          "how-to-save-documentation-assets",
+          "how-to-export-project-files",
+          "how-to-manage-file-exports"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Download Source Files",
+      "metaDescription": "This section describes how to download the converted DITA-XML files, and HTML or PDF output files from any branch to your local system using DocManager.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmanager/t_download_source_files.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "d476c380-f0ee-4f7b-8b25-5a69687e546f"
+          ],
+          "value": "Download Source Files"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "45f636d0-8fd1-4da1-9a7f-19c015aa02d0"
+          ],
+          "value": "This section describes how to download the converted DITA-XML files, and HTML or PDF output files from any branch to your local system using DocManager."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

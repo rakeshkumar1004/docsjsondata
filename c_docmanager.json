@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "217f2479-efad-4a42-9ed6-63d42e74ced4"
+        ],
+        "value": "DocManager"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "6c7144b0-15a1-4ed4-bb49-1183949809c1"
+        ],
+        "value": "This section describes the DocManager module in metR user console."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "b65f9eb4-9f9e-44e6-a1ca-a5c10e729a61"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmanager/c_docmanager.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "5a19db6f-02bb-4e2b-ba57-b5543f53102c"
+        ],
+        "value": [
+          "product-layer",
+          "docmanager-module",
+          "centralized-workspace",
+          "projects",
+          "github-repository",
+          "branches",
+          "process-layer",
+          "project-tracking",
+          "collaboration",
+          "browse-and-preview-files",
+          "version-control-tasks",
+          "download-files",
+          "context-layer",
+          "technical-writers",
+          "dita-files",
+          "html-files",
+          "offline-copy",
+          "content-sharing",
+          "what-is-docmanager",
+          "how-does-docmanager-work",
+          "why-use-docmanager",
+          "how-to-manage-documentation-projects",
+          "how-to-control-dita-content",
+          "how-to-manage-branches",
+          "ai-intent",
+          "how-to-download-source-files",
+          "how-to-organize-project-files",
+          "how-to-administer-docs"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "DocManager",
+      "metaDescription": "This section describes the DocManager module in metR user console.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmanager/c_docmanager.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "c93dd03d-8b05-4856-9cae-59e1e06a20ef"
+          ],
+          "value": "DocManager"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "cd3abd0e-a3ef-48ca-8537-81bc0064ccc0"
+          ],
+          "value": "This section describes the DocManager module in metR user console."
+        },
+        "content": {
+          "chunk_references": [
+            "761f5e33-2ffc-4a9b-8c14-84dab9422d2f"
+          ],
+          "value": "DocManager is a centralized workspace that presents all the projects that have been assigned to you by an admin. Each project corresponds to a GitHub repository.\n\nDocManager module enables efficient project tracking and collaboration allowing technical writers to:"
+        }
+      }
+    ],
+    "sections": []
+  }
+}

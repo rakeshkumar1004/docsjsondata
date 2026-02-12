@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "84688357-5e0d-478e-9967-1eda1f98c5f4"
+        ],
+        "value": "Users do not appear when assigning collaborators to a project"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "2f041cc9-6121-4504-8d3e-654ccca84efa"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/users_do_not_appear_when_assigning_collaborators_to_a_project.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "fc08a46b-616b-46a7-99c9-7736318ceeae"
+        ],
+        "value": [
+          "collaborators-not-visible",
+          "project-user-assignment-issue",
+          "Users not visible when assigning collaborators to project",
+          "collaborators",
+          "assign users",
+          "GitHub email"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Users do not appear when assigning collaborators to a project",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/users_do_not_appear_when_assigning_collaborators_to_a_project.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "f0c49410-90ae-44b0-8327-02ea0cf4b9ec"
+          ],
+          "value": "Users do not appear when assigning collaborators to a project"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "dd8dec66-df60-40fc-bcee-1dc572a14b48"
+          ],
+          "value": "Condition"
+        },
+        "content": {
+          "chunk_references": [
+            "f0675939-d710-4194-931f-c9abde750d62"
+          ],
+          "value": "When clicking Add collaborators on a project, the expected user names do not appear in the search field."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "f557c7ba-a512-4f96-8b1f-e13bfb12677c"
+          ],
+          "value": "Cause"
+        },
+        "listItems": {
+          "chunk_references": [
+            "49b423aa-9861-4d19-b8a9-d40955a3e3db"
+          ],
+          "value": [
+            "The user has not been created in the Users module.",
+            "The user’s GitHub email is not set to public visibility.",
+            "The user’s email domain does not match the organization domain.",
+            "The user was added, but sign-in with the GitHub account has not yet been completed."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "50105f88-44bd-40db-8a02-e54467d75be1"
+          ],
+          "value": "Remedy"
+        }
+      }
+    ]
+  }
+}

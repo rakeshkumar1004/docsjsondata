@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "2160a580-eb52-4c1f-8020-e2f23a3d4347"
+        ],
+        "value": "Users and Roles"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "08605e09-c523-4bff-a023-3e9cd485b544"
+        ],
+        "value": "This section answers questions about the admin console of the metR platform for managing users, admins, and roles."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "17420386-bf61-428e-849d-e3f0ec705ec0"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/users_roles.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "2210cea5-1b34-4d12-8d97-670fcef37b05"
+        ],
+        "value": [
+          "can-users-belong-to-multiple-projects"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Users and Roles",
+      "metaDescription": "This section answers questions about the admin console of the metR platform for managing users, admins, and roles.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/users_roles.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "55d16641-b3d9-4ab7-a078-d920cb5a5eb1"
+          ],
+          "value": "Users and Roles"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "c731ae65-73ef-439b-8fc1-65c4ad2abe20"
+          ],
+          "value": "This section answers questions about the admin console of the metR platform for managing users, admins, and roles."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "6a2087f9-fa92-4233-b76c-3c50fc6af563"
+          ],
+          "value": "Can users belong to multiple projects?"
+        },
+        "content": {
+          "chunk_references": [
+            "f609298a-2341-4b40-a264-560cc1243387"
+          ],
+          "value": "Yes. Users can be assigned to multiple projects without needing separate accounts."
+        }
+      }
+    ]
+  }
+}

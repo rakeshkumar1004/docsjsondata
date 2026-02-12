@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "95d8f506-5040-4f7f-a614-961446ec78ce"
+        ],
+        "value": "DocEditor"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "c71e1f11-df26-4378-a93c-de5d7dbb4758"
+        ],
+        "value": "This section describes the DocEditor module in metR user console."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "7ed18776-0665-42f8-9555-d05d28d4e7e8"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/doceditor/c_doceditor.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "ec1388bf-9742-4465-9aef-3d331b86ceb9"
+        ],
+        "value": [
+          "doceditor",
+          "dita-content",
+          "dita-files",
+          "dita-xml",
+          "ai-author-assistant",
+          "edit-dita-content",
+          "insert-dita-tags",
+          "edit-dita-attributes",
+          "manage-prolog-metadata",
+          "validate-dita-content",
+          "structured-tagging",
+          "dita-authoring",
+          "dita-compliance",
+          "topic-structure",
+          "metadata-management",
+          "what-is-doceditor",
+          "how-does-doceditor-work",
+          "why-use-doceditor",
+          "how-to-edit-dita-files",
+          "how-to-author-structured-content",
+          "how-to-use-metr-doceditor",
+          "ai-intent",
+          "how-to-manage-dita-content",
+          "how-to-edit-xml-online",
+          "how-to-author-documentation"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "DocEditor",
+      "metaDescription": "This section describes the DocEditor module in metR user console.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/doceditor/c_doceditor.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "e96110b0-0ad5-4bb4-ac37-201fd459514b"
+          ],
+          "value": "DocEditor"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "d68b1032-132d-4b6b-bbfb-d946faf5b4c4"
+          ],
+          "value": "This section describes the DocEditor module in metR user console."
+        },
+        "content": {
+          "chunk_references": [
+            "6eea89fe-3047-4917-ad84-00a6069d2e3c"
+          ],
+          "value": "DocEditor is a built-in editor within metR for making changes to your DITA content. It’s designed to be simpler than a full-fledged XML editor, focusing on quick edits and structured tagging, with some AI assistance for validation.\n\nOne of the key highlights of DocEditor is its built-in AI Author Assistant. This feature intelligently reviews your topic content for structural consistency, missing elements, and authoring best practices. It provides real-time feedback and suggestions, helping you produce clean, valid, and structured DITA content with ease.\n\nDocEditor provides an environment to:"
+        }
+      }
+    ],
+    "sections": []
+  }
+}

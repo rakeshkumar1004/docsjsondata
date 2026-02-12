@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "60f54235-c1b2-4698-800f-3a4e0877c83e"
+        ],
+        "value": "Introduction"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "862565ae-dd99-45bc-a8d6-3ec14c93a9a2"
+        ],
+        "value": "This section describes the metR application and its important features."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "9a8b0939-3397-4a40-917c-57536259d4a9"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/01_introduction/c_overview.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "7560a8f3-be37-48db-837c-3976c782a198"
+        ],
+        "value": [
+          "metr-application",
+          "cloud-based",
+          "content-conversion-application",
+          "dita-xml",
+          "ai-powered-features",
+          "one-click-publishing-feature",
+          "dita-open-toolkit",
+          "github",
+          "automates-the-conversion",
+          "conversion-of-unstructured-content",
+          "structured-formats",
+          "content-quality",
+          "content-consistency",
+          "version-control",
+          "collaboration",
+          "convert-manage-and-publish",
+          "end-to-end-workflow",
+          "html",
+          "pdf",
+          "word",
+          "markdown",
+          "technical-writers",
+          "what-is-metr",
+          "what-does-metr-do",
+          "what-is-metr-used-for",
+          "is-metr-a-cloud-based-application"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Introduction",
+      "metaDescription": "This section describes the metR application and its important features.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/01_introduction/c_overview.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "c36d7688-ffc8-4b3e-8831-ea6c76f1eccd"
+          ],
+          "value": "Introduction"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "cf2241cd-745b-46ed-823b-87a15682b5e9"
+          ],
+          "value": "This section describes the metR application and its important features."
+        },
+        "content": {
+          "chunk_references": [
+            "5902cd92-aba5-4806-bf5c-8262406553f2"
+          ],
+          "value": "metR is a cloud-based content conversion application that automates the conversion of unstructured content to structured formats such as DITA-XML. metR can convert the following file formats to DITA-XML: Word, Markdown, and HTML.\n\nAdditionally, metR provides built-in AI-powered features to improve content quality and consistency. It also offers a one-click publishing feature to quickly generate output in HTML or PDF format. Its publishing feature helps you publish your content instantly in HTML and PDF formats.\n\nmetR is built on DITA Open Toolkit (DITA-OT) version 3.6 and above for content processing. It integrates with GitHub for version control and collaboration, providing a unified content conversion experience.\n\nmetR enables organizations, user and/or technical writers end-to-end convert, manage, and publish their documentation efficiently in an end-to-end workflow."
+        }
+      }
+    ],
+    "sections": []
+  }
+}

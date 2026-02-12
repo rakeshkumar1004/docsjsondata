@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "e768cdb4-0f42-4e74-bf3c-e5182991cf60"
+        ],
+        "value": "Step 3: Run Post-flight Check"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "f6a1ab5d-b6a0-4416-a02f-2bc9021f09b8"
+        ],
+        "value": "This section describes the steps to run a post-flight check."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "5d618977-6e4c-48a7-98d8-27c037753e8d"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/t_step_3_run_post_flight_check.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "5bd9c417-b7a0-4ee6-b1c8-fd8ac7a68af0"
+        ],
+        "value": [
+          "docmigration",
+          "post-flight-check",
+          "dita-xml-output",
+          "converted-dita-files",
+          "run-post-flight-check",
+          "choose-verification-option",
+          "complete-post-flight-check",
+          "view-warning-and-error-logs",
+          "verify-now",
+          "view-generated-output",
+          "download-log-file",
+          "files-converted-successfully",
+          "warning-and-error-logs",
+          "post-flight-validation",
+          "generated-dita-files",
+          "txt-log-file",
+          "error-and-warning-messages",
+          "error-logs",
+          "log-file",
+          "email-account",
+          "how-to-run-post-flight-check",
+          "how-to-view-warning-and-error-logs",
+          "how-to-download-log-file",
+          "how-to-view-generated-output",
+          "what-happens-after-post-flight-check"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Step 3: Run Post-flight Check",
+      "metaDescription": "This section describes the steps to run a post-flight check.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/t_step_3_run_post_flight_check.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "da270c41-a2b1-4438-96b6-057ffff473ea"
+          ],
+          "value": "Step 3: Run Post-flight Check"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "e1a36d95-a7f6-4682-99fa-71844d909b11"
+          ],
+          "value": "This section describes the steps to run a post-flight check."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

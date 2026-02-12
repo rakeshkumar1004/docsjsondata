@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "5086fa64-1ea2-495e-aef5-e9fc31642963"
+        ],
+        "value": "Audit Logging and Monitoring"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "ce0d0309-c123-4fda-bd55-cc5d342f427f"
+        ],
+        "value": "This section answers questions about how the metR platform tracks user activity and retains audit logs for compliance."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "fee2526b-a974-4381-a520-9e233a9fdd36"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/05_security_and_compliance/audit_logging_and_monitoring.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "38adf022-989a-4e0e-9649-226f6ae29879"
+        ],
+        "value": [
+          "are-user-actions-logged",
+          "how-long-are-audit-logs-retained"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Audit Logging and Monitoring",
+      "metaDescription": "This section answers questions about how the metR platform tracks user activity and retains audit logs for compliance.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/05_security_and_compliance/audit_logging_and_monitoring.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "450e2840-08a9-4f46-85bb-8c9daa405d6f"
+          ],
+          "value": "Audit Logging and Monitoring"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "1e539e67-d90b-4737-af67-777123077f5f"
+          ],
+          "value": "This section answers questions about how the metR platform tracks user activity and retains audit logs for compliance."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "81751798-45bc-4928-8351-0da2b33f4a94"
+          ],
+          "value": "Are user actions logged?"
+        },
+        "content": {
+          "chunk_references": [
+            "1eef555d-82d9-41b8-a507-cf86b577cda1"
+          ],
+          "value": "Yes. Audit logs track key actions to support security monitoring and compliance needs."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "4fa80b84-0e02-4602-8671-71566bdb14b8"
+          ],
+          "value": "How long are audit logs retained?"
+        },
+        "content": {
+          "chunk_references": [
+            "e1ab4c05-995e-49ad-bb55-d1692054e448"
+          ],
+          "value": "Logs are retained based on defined policies that balance compliance and operational requirements."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "11a7f025-b8b2-4e74-be7a-67cb7359b8b1"
+        ],
+        "value": "Cloud hosting model"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "9b22a398-494a-46e5-bc42-22e438d3eced"
+        ],
+        "value": "This section explains the security measures in place when metR is hosted."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "0d4fb616-2af2-460b-8b98-6fb6c85377a6"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/05_security_and_compliance/c_cloud_hosting_model.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "983785ca-4e24-4a2d-88c5-1b626545eab5"
+        ],
+        "value": [
+          "cloud-hosting-model",
+          "metr-platform",
+          "dedicated-cloud-instance",
+          "subdomain-isolation",
+          "github-integration",
+          "secure-hosting",
+          "data-isolation",
+          "account-deactivation",
+          "secure-data-deletion",
+          "release-management",
+          "enterprise-cloud-hosting",
+          "secure-cloud-environment",
+          "private-workspaces",
+          "organizational-data-separation",
+          "security-and-compliance",
+          "ai-intent",
+          "how-is-metr-hosted",
+          "what-cloud-model-does-metr-use",
+          "how-scalable-is-metr",
+          "why-use-metr-cloud-hosting",
+          "how-metr-handles-availability",
+          "what-infrastructure-supports-metr",
+          "how-metr-supports-enterprise-hosting",
+          "how-metr-manages-cloud-resources",
+          "how-metr-ensures-platform-reliability"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Cloud hosting model",
+      "metaDescription": "This section explains the security measures in place when metR is hosted.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/05_security_and_compliance/c_cloud_hosting_model.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "0675fc43-9adb-4882-93a0-001bd6136670"
+          ],
+          "value": "Cloud hosting model"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "23b0fa36-c82f-40c8-bd7f-eac90aa2c25b"
+          ],
+          "value": "This section explains the security measures in place when metR is hosted."
+        },
+        "content": {
+          "chunk_references": [
+            "5bb0d31d-7998-481a-ad4d-edba9962ffc2"
+          ],
+          "value": "metR provides GitHub integration for continuous commit tracking, release management, and collaboration. The integration follows these principles:"
+        }
+      }
+    ],
+    "sections": []
+  }
+}
