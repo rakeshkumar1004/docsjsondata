@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "345aaf53-18c3-4136-bcca-2bb4e116b7dc"
+        ],
+        "value": "Secure Integrations and APIs"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "ea3e4885-b017-4309-9d8e-095158672035"
+        ],
+        "value": "This section answers questions about how the metR platform secures integrations, APIs, and external system connections."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "7d0792ce-80f8-4285-909e-11531249dec0"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/05_security_and_compliance/secure_integrations_and_apis.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "c2056e16-3c99-4362-8086-2fb5a9efffa7"
+        ],
+        "value": [
+          "is-data-encrypted"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Secure Integrations and APIs",
+      "metaDescription": "This section answers questions about how the metR platform secures integrations, APIs, and external system connections.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/05_security_and_compliance/secure_integrations_and_apis.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "5c11fd93-70f2-4a64-8f88-5a9c9c96d29f"
+          ],
+          "value": "Secure Integrations and APIs"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "7cb5b0c3-4e11-4dc3-9c7a-78ff5dff5713"
+          ],
+          "value": "This section answers questions about how the metR platform secures integrations, APIs, and external system connections."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "99b0fdf4-f93f-4c1d-bf66-6571decbaf7b"
+          ],
+          "value": "Is data encrypted?"
+        },
+        "content": {
+          "chunk_references": [
+            "15c70763-b05e-4752-81cd-162dae83703c"
+          ],
+          "value": "Yes. Stored documents and metadata follow industry-standard encryption practices."
+        }
+      }
+    ]
+  }
+}

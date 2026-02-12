@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "d58fb61c-ba0a-4c7f-8346-86642f32fba0"
+        ],
+        "value": "Understanding the Error Log Format"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "7a3125f9-d67b-4218-aadc-d9db2e6048dc"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/r_understanding_the_error_log_format.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "8e17bedd-88d7-4445-b6c7-52c14eea91bb"
+        ],
+        "value": [
+          "metr",
+          "error-log-reference",
+          "log-field-definitions",
+          "diagnostic-reference",
+          "documentation-platform",
+          "validation-reference",
+          "conversion-diagnostics",
+          "error-code-reference",
+          "log-schema",
+          "migration-reference",
+          "reference-error-log-fields",
+          "lookup-error-definitions",
+          "understand-log-attributes",
+          "interpret-error-codes",
+          "map-errors-to-actions",
+          "use-error-reference",
+          "resolve-logged-issues",
+          "support-troubleshooting",
+          "analyze-log-details",
+          "follow-error-guidance",
+          "documentation-migration",
+          "dita-validation",
+          "reference-documentation",
+          "docops-workflow",
+          "enterprise-documentation",
+          "structured-content",
+          "technical-documentation",
+          "conversion-debugging",
+          "ai-ready-documentation",
+          "log-reference",
+          "ai-intent",
+          "what-do-metr-error-codes-mean",
+          "how-to-use-error-log-reference",
+          "where-to-find-log-field-definitions",
+          "how-to-interpret-specific-error-messages",
+          "how-to-map-errors-to-fixes",
+          "why-use-error-log-reference",
+          "how-to-support-migration-troubleshooting",
+          "how-to-understand-diagnostic-fields",
+          "how-to-read-error-references"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Understanding the Error Log Format",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/r_understanding_the_error_log_format.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "2735208e-99de-4794-a941-5685a41ae5cd"
+          ],
+          "value": "Understanding the Error Log Format"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

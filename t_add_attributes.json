@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "f8aae1ea-7cec-4870-b714-ad9e50bc0180"
+        ],
+        "value": "Add Attributes"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "c97cc666-cbc1-4dfd-b8ab-943b2a081865"
+        ],
+        "value": "This section describes how to add attributes to a DITA file using the Add Attribute tab in DocEditor."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "9de06a29-8238-49a5-bf9d-4a02d5772550"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/doceditor/t_add_attributes.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "8c0b324a-e488-4aba-bd81-d55e3bf165af"
+        ],
+        "value": [
+          "doceditor",
+          "dita-files",
+          "dita-xml",
+          "add-attribute-tab",
+          "right-pane",
+          "add-attributes",
+          "select-attribute",
+          "enter-attribute-value",
+          "apply-attribute",
+          "edit-dita-elements",
+          "valid-attributes",
+          "dita-compliance",
+          "tag-attributes",
+          "structured-content",
+          "xml-attributes",
+          "how-to-add-attributes",
+          "how-to-edit-dita-attributes",
+          "why-use-dita-attributes",
+          "how-to-annotate-elements",
+          "how-to-define-xml-attributes",
+          "how-to-structure-content",
+          "ai-intent",
+          "how-to-manage-attributes",
+          "how-to-configure-content",
+          "how-to-enrich-dita-topics"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Add Attributes",
+      "metaDescription": "This section describes how to add attributes to a DITA file using the Add Attribute tab in DocEditor.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/doceditor/t_add_attributes.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "f3a13146-82f6-4aa8-a41e-e12a4efa1f79"
+          ],
+          "value": "Add Attributes"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "5b6718d7-f16f-47b6-a46f-af8032794333"
+          ],
+          "value": "This section describes how to add attributes to a DITA file using the Add Attribute tab in DocEditor."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

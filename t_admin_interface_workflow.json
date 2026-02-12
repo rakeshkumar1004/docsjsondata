@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "7761fb31-8a5f-4562-84a0-bd61472c189e"
+        ],
+        "value": "Admin Workflow"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "8dd399b0-a1fd-46ab-9a78-e955f73bcd82"
+        ],
+        "value": "This section outlines the typical workflow an admin follows in the metR admin console."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "b0d0d7cf-30b4-4fae-9773-39878e7ea382"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_admin_interface_workflow.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "b9b8ecb9-e250-4105-b5b6-186ec1a93d7d"
+        ],
+        "value": [
+          "metr-admin-console",
+          "admin-workflow",
+          "projects-module",
+          "users-module",
+          "github-commits",
+          "project-releases",
+          "sign-in-to-admin-console",
+          "create-project",
+          "add-users",
+          "assign-users-to-projects",
+          "monitor-project-activity",
+          "view-github-commits",
+          "view-project-releases",
+          "admin-task-sequence",
+          "administrators",
+          "documentation-projects",
+          "user-access-management",
+          "collaborative-documentation",
+          "project-oversight",
+          "operational-workflow",
+          "what-is-the-admin-workflow-in-metr",
+          "how-do-admins-manage-projects-in-metr",
+          "what-are-the-steps-admins-follow-in-metr",
+          "how-do-admins-add-and-assign-users",
+          "how-do-admins-monitor-commits-and-releases"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Admin Workflow",
+      "metaDescription": "This section outlines the typical workflow an admin follows in the metR admin console.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_admin_interface_workflow.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "e4518711-afe2-4236-a2d3-04741b1614a6"
+          ],
+          "value": "Admin Workflow"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "6e297595-1e72-4ff4-8386-ed757f422e02"
+          ],
+          "value": "This section outlines the typical workflow an admin follows in the metR admin console."
+        },
+        "content": {
+          "chunk_references": [
+            "50090efc-a1ea-48f3-bbd3-4d276a2cfb00"
+          ],
+          "value": "The admin workflow in metR typically involves creating projects, adding users, assigning users to projects, and monitoring project activity through commits and releases. This ensures efficient collaboration and document management within the organization."
+        }
+      }
+    ],
+    "sections": []
+  }
+}

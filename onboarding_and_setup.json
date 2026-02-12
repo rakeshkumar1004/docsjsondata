@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "2a9186c2-9590-4eb3-a3c1-a2306e3221c7"
+        ],
+        "value": "Onboarding and Setup"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "6aae9716-f010-4115-97ee-ded04fdb6864"
+        ],
+        "value": "This section answers questions about onboarding and setup capabilities of metR."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "5a61ca86-c73e-43e6-ba56-53cb2651e3f6"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/01_introduction/onboarding_and_setup.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "74df0846-fc4e-48e1-a371-4982124ec2ff"
+        ],
+        "value": [
+          "how-quickly-can-i-start-using-metr",
+          "do-i-need-to-finish-onboarding-before-converting-content",
+          "what-is-the-difference-between-an-admin-and-a-user",
+          "how-does-role-based-access-help-teams",
+          "is-github-integration-required",
+          "what-browsers-are-supported"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Onboarding and Setup",
+      "metaDescription": "This section answers questions about onboarding and setup capabilities of metR.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/01_introduction/onboarding_and_setup.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "adbfdb91-bfb2-444f-8781-5e35e447ec4d"
+          ],
+          "value": "Onboarding and Setup"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "51522898-8f3d-448a-a2bf-b143d6f98be4"
+          ],
+          "value": "This section answers questions about onboarding and setup capabilities of metR."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "c240f557-e1a9-439b-aa34-ea403a90128b"
+          ],
+          "value": "How quickly can I start using metR?"
+        },
+        "content": {
+          "chunk_references": [
+            "37238f6b-5df0-42bd-b849-2481737e7e12"
+          ],
+          "value": "You can start converting documents immediately after signing in. Many teams run test migrations early to validate output quality before completing advanced setup."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "fce72fbb-3315-42e0-9e57-975f17d10ccd"
+          ],
+          "value": "Do I need to finish onboarding before converting content?"
+        },
+        "content": {
+          "chunk_references": [
+            "7dcc9c7b-20c9-4035-9430-9946aba98d40"
+          ],
+          "value": "No. You can begin converting content without completing all onboarding steps. This allows teams to evaluate value and results before committing to full configuration."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "eac6ea95-5c1c-49e2-acac-e21c60ae519d"
+          ],
+          "value": "What is the difference between an admin and a user?"
+        },
+        "content": {
+          "chunk_references": [
+            "135a596e-7d2a-4ea9-98a3-e2df128aab5d"
+          ],
+          "value": "Admins manage organization-level settings such as users, projects, and integrations. Users focus on converting, reviewing, and downloading content within assigned projects. This separation keeps governance secure while enabling collaboration."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "8144e095-6a33-4dba-9ebd-50394c16f8de"
+          ],
+          "value": "How does role-based access help teams?"
+        },
+        "content": {
+          "chunk_references": [
+            "bb3b2b6c-6d4e-433c-aa24-d6a920ebddcf"
+          ],
+          "value": "Role-based access ensures users only see and use features relevant to their responsibilities. This reduces errors, protects sensitive settings, and scales cleanly as teams grow."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "83cfe2d0-60a6-46fe-939b-80847923561d"
+          ],
+          "value": "Is GitHub integration required?"
+        },
+        "content": {
+          "chunk_references": [
+            "176daba2-e6dc-430c-bedf-fe5dec13fd3f"
+          ],
+          "value": "No. GitHub integration is optional. Teams that already use Git benefit from version control and collaboration, but metR works independently as well."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "da0f53bd-37df-47e0-9ee5-ad05a0ac5ede"
+          ],
+          "value": "What browsers are supported?"
+        },
+        "content": {
+          "chunk_references": [
+            "17b5cecd-5f22-4446-93bf-d8e3b34a5af3"
+          ],
+          "value": "metR supports modern browsers including Chrome, Firefox, Edge, and Safari to ensure reliable access and processing."
+        }
+      }
+    ]
+  }
+}

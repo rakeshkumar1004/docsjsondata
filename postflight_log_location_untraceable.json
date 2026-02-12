@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "7d703956-5684-4130-8778-c8baf9751971"
+        ],
+        "value": "Post-flight error log locations cannot be traced in the converted DITA files"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "812bee77-761a-44d0-9bef-f80fdeee90ff"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/postflight_log_location_untraceable.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "bd11abcb-1406-4500-b034-ee0c01207559"
+        ],
+        "value": [
+          "postflight-error-location",
+          "xpath-reference",
+          "post flight check",
+          "error logs",
+          "XPath errors"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Post-flight error log locations cannot be traced in the converted DITA files",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/postflight_log_location_untraceable.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "0c98ccd5-6722-4153-8888-d4adfb0abf3f"
+          ],
+          "value": "Post-flight error log locations cannot be traced in the converted DITA files"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "3ec51109-2873-4723-943d-bb7082fb8db2"
+          ],
+          "value": "Condition"
+        },
+        "content": {
+          "chunk_references": [
+            "04cbe622-b28d-425c-92b1-0437de70e8ec"
+          ],
+          "value": "In the User Console DocMigration module, after conversion completes and the View Warning and Error Logs dialog is displayed, the error list includes XPath-style location references."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "7d88d933-7984-44fb-b9af-d068db978f48"
+          ],
+          "value": "Cause"
+        },
+        "content": {
+          "chunk_references": [
+            "e21b93fc-6a21-4705-8700-b7d3ad6ebaaf"
+          ],
+          "value": "Post-flight validation reports errors and warnings using XPath-style location references and diagnostic details. The DocMigration interface does not provide a direct way to navigate from these references to the corresponding elements within the converted DITA files."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "c23e6c12-bbbb-49aa-95ee-492d2e68c806"
+          ],
+          "value": "Remedy"
+        }
+      }
+    ]
+  }
+}

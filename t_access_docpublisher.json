@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "65bc299d-2fa6-4e8e-b111-8a9b008985a7"
+        ],
+        "value": "Publish using Default or Custom Publisher"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "d2d7d68f-a86f-4b16-b163-66f3e5f422b3"
+        ],
+        "value": "This section describes how to publish DITA file using default or custom publisher."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "1aa204fa-ff3e-439c-819e-249e11c9b2d8"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docpublisher/t_access_docpublisher.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "887e95f1-e562-4c25-907a-b2961eb62b64"
+        ],
+        "value": [
+          "docpublisher",
+          "dita-xml",
+          "ditamap",
+          "default-publisher",
+          "custom-publisher",
+          "publish-dita-content",
+          "select-project",
+          "select-branch",
+          "generate-output",
+          "commit-or-download-output",
+          "html-output",
+          "pdf-output",
+          "publishing-credits",
+          "github-repository",
+          "documentation-publishing",
+          "ai-intent",
+          "how-to-access-docpublisher",
+          "who-can-access-document-publisher",
+          "what-permissions-are-needed-for-publishing",
+          "how-to-log-into-docpublisher",
+          "how-does-docpublisher-access-work",
+          "why-is-access-control-needed",
+          "how-to-manage-publishing-access",
+          "what-roles-can-publish-documents",
+          "how-to-enter-publishing-workspace"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Publish using Default or Custom Publisher",
+      "metaDescription": "This section describes how to publish DITA file using default or custom publisher.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docpublisher/t_access_docpublisher.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "a926365e-aec6-41c5-a125-43d2e2ce1510"
+          ],
+          "value": "Publish using Default or Custom Publisher"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "98d4e68a-719d-4cef-8336-c2b80fea5a8a"
+          ],
+          "value": "This section describes how to publish DITA file using default or custom publisher."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

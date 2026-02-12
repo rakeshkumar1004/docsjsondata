@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "747e68b7-37b8-4a73-b374-03bc28f88700"
+        ],
+        "value": "General"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "eab07813-bc4a-4065-8aa4-24aec1acd007"
+        ],
+        "value": "This section answers general questions regarding metR."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "126a45cf-a69a-47bf-bfee-8cbfc505827b"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/01_introduction/general.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "8804fbb4-0761-4aca-876f-59dcd1f3ec4c"
+        ],
+        "value": [
+          "what-is-metR",
+          "what-problems-does-metR-solve?",
+          "who-is-metR-built-for",
+          "how-does-metR-fit-into-an-existing-documentation-workflow",
+          "when-should-a-team-consider-using-metR"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "General",
+      "metaDescription": "This section answers general questions regarding metR.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/01_introduction/general.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "4bcd7f16-0589-489d-b339-dce2abeed4a1"
+          ],
+          "value": "General"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "d81fc158-13c3-4e3a-b37e-1b7713ae1480"
+          ],
+          "value": "This section answers general questions regarding metR."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "cc4cd476-16db-41d1-8774-3cdec151b8ab"
+          ],
+          "value": "What is metR?"
+        },
+        "content": {
+          "chunk_references": [
+            "d25ac7cd-d020-49a4-9eeb-f9af907eef4a"
+          ],
+          "value": "metR is a documentation modernization platform that converts legacy, unstructured content into structured DITA. It helps teams migrate faster, reduce manual effort, and prepare content for reuse, publishing, and AI-driven experiences."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "bd04dbdc-4af1-439b-98c6-72ae7400aabf"
+          ],
+          "value": "What problems does metR solve?"
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "b6e5d9a9-f893-40b0-8479-666eb9f1563f"
+          ],
+          "value": "Who is metR built for?"
+        },
+        "content": {
+          "chunk_references": [
+            "47f78126-4244-4f8f-a831-64246f609204"
+          ],
+          "value": "metR is designed for technical writers, documentation managers, and content teams. You don’t need deep XML or DITA expertise to get started—metR handles the heavy lifting while keeping you in control of results."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "1a06176e-4ba6-4343-b29e-5ff0cf5ac35f"
+          ],
+          "value": "How does metR fit into an existing documentation workflow?"
+        },
+        "content": {
+          "chunk_references": [
+            "b1624a6a-d870-4a64-a247-a756e30ffb30"
+          ],
+          "value": "metR complements existing workflows. It converts content into structured DITA that can then be reviewed, versioned, edited, and published using tools teams already rely on—such as Git-based workflows or publishing pipelines."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "14ce2722-29b5-47c7-a664-c2428198837b"
+          ],
+          "value": "When should a team consider using metR?"
+        },
+        "content": {
+          "chunk_references": [
+            "b2b68cc3-6935-4a97-88f0-351f3419c60e"
+          ],
+          "value": "metR is a strong fit when you:"
+        },
+        "listItems": {
+          "chunk_references": [
+            "2ed6ef85-0df3-4561-9297-cde4a3ac5d0a"
+          ],
+          "value": [
+            "Are migrating large volumes of Word, HTML, or legacy help content.",
+            "Need structured output without adopting a full CCMS.",
+            "Want documentation that works well with AI systems.",
+            "Need faster migration with lower risk and rework."
+          ]
+        }
+      }
+    ]
+  }
+}

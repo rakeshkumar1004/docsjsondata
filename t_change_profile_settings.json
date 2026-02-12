@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "e04384fa-e4dd-4131-b6c7-ac54b277e2a6"
+        ],
+        "value": "Change profile settings"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "13fdc61d-b08b-4a7e-83b8-b2f3d4460508"
+        ],
+        "value": "This section describes how an administrator can update the profile information in the metR admin console."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "b3d97c01-fa10-4b99-a573-0cabf0f829f3"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_change_profile_settings.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "bb075263-cdf0-4a02-8340-9eec786f1705"
+        ],
+        "value": [
+          "admin-console",
+          "profile-page",
+          "profile-module",
+          "admin-profile",
+          "account-profile",
+          "change-profile-settings",
+          "edit-profile-details",
+          "update-name",
+          "update-contact-number",
+          "save-profile-changes",
+          "admin-account",
+          "account-details",
+          "profile-information",
+          "admin-settings",
+          "account-updates",
+          "how-do-i-change-profile-settings",
+          "where-can-i-edit-my-profile-details",
+          "what-profile-fields-can-i-edit",
+          "can-i-change-my-contact-number",
+          "why-is-email-address-not-editable"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Change profile settings",
+      "metaDescription": "This section describes how an administrator can update the profile information in the metR admin console.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_change_profile_settings.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "10a28d4c-e22f-43d2-8423-27b0b6227251"
+          ],
+          "value": "Change profile settings"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "c6358674-4604-4e21-8afd-196ba811d962"
+          ],
+          "value": "This section describes how an administrator can update the profile information in the metR admin console."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

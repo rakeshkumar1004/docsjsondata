@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "f8bd3137-9959-4dea-8aa2-a81762cd1ca1"
+        ],
+        "value": "Add a new project"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "87a76bae-771b-40e1-aea5-2f71d4290eb2"
+        ],
+        "value": "This section describes how an administrator can add a new project in metR."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "15f12e99-6e4c-4e4b-83a4-74a02f72d5b6"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_add_a_new_project.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "23ec4b9c-5e1d-48f6-ad09-eef327e08b18"
+        ],
+        "value": [
+          "admin-console",
+          "projects-module",
+          "add-new-project",
+          "project-creation",
+          "github-repository-creation",
+          "project-name",
+          "project-description",
+          "sign-in-to-admin-console",
+          "navigate-to-projects",
+          "create-project",
+          "enter-project-details",
+          "save-project",
+          "initialize-project",
+          "create-github-repository",
+          "administrator-tasks",
+          "project-setup",
+          "documentation-projects",
+          "github-integration",
+          "admin-workflows",
+          "how-do-i-add-a-new-project-in-metr",
+          "how-do-admins-create-projects-in-metr",
+          "what-happens-when-i-create-a-project-in-metr",
+          "does-metr-create-a-github-repository-automatically",
+          "how-do-i-set-up-a-project-in-metr"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Add a new project",
+      "metaDescription": "This section describes how an administrator can add a new project in metR.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_add_a_new_project.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "e4deb408-b65e-4b4c-9414-3b57927592e5"
+          ],
+          "value": "Add a new project"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "2f12e1d8-e1cc-41c4-a03c-a5fd7501be3b"
+          ],
+          "value": "This section describes how an administrator can add a new project in metR."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

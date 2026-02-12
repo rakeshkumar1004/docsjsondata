@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "47f018ad-dee1-44d6-ab4f-6e4130199b5c"
+        ],
+        "value": "Prepare .html files"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "6d6247e3-d2da-447d-98de-4f5aac37b95d"
+        ],
+        "value": "Prepare HTML (.html) files so that DocMigration converts them accurately into DITA-XML."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "261e33b0-cf84-4305-8bf4-37b057a7d9b3"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/prepare_html_files.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "6696a273-0643-4e81-92c8-0267f0f0af48"
+        ],
+        "value": [
+          "docmigration",
+          "html-documents",
+          "dita-xml",
+          "prepare-html-files",
+          "structure-html-document",
+          "remove-unsupported-content",
+          "normalize-links-and-references",
+          "verify-links-and-image-references",
+          "upload-file-to-docmigration",
+          "semantic-html-markup",
+          "element-structure",
+          "lists",
+          "tables",
+          "images",
+          "links-and-references",
+          "unsupported-html-tags",
+          "how-to-prepare-html-files-for-dita",
+          "how-to-structure-html-elements",
+          "what-html-content-is-not-supported",
+          "how-to-check-html-before-upload"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Prepare .html files",
+      "metaDescription": "Prepare HTML (.html) files so that DocMigration converts them accurately into DITA-XML.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/prepare_html_files.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "dfb03e63-80fa-445a-b598-e5d83922b9bb"
+          ],
+          "value": "Prepare .html files"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "47a84ae4-b74f-4ac9-af89-028f8cfe8973"
+          ],
+          "value": "Prepare HTML (.html) files so that DocMigration converts them accurately into DITA-XML."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

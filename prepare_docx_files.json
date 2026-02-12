@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "e67894d2-5f45-43f1-ba3c-250a019ab969"
+        ],
+        "value": "Prepare .docx files"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "a0fe136e-9308-46df-abf2-6134ddd0beb2"
+        ],
+        "value": "Prepare Microsoft Word (.docx) files so that DocMigration converts them accurately into DITA-XML."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "1b85581f-d082-4628-a59c-fb3b42349a56"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/prepare_docx_files.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "7047f47e-55ca-4c42-aeda-ad293cf8c7ce"
+        ],
+        "value": [
+          "docmigration",
+          "metr-user-console",
+          "docx-files",
+          "word-documents",
+          "dita-xml",
+          "prepared-docx-file",
+          "conversion-workflow",
+          "prepare-docx-files",
+          "apply-word-styles",
+          "structure-word-document",
+          "remove-unsupported-content",
+          "normalize-links-and-terminology",
+          "review-document-before-upload",
+          "upload-file-to-docmigration",
+          "word-styles",
+          "heading-hierarchy",
+          "lists-and-tables",
+          "embedded-files",
+          "links-and-cross-references",
+          "document-structure-and-semantics",
+          "how-to-prepare-docx-files-for-dita",
+          "what-word-styles-should-i-use",
+          "how-to-structure-word-documents-for-conversion",
+          "what-content-should-be-removed-before-conversion",
+          "how-to-normalize-links-in-docx",
+          "how-to-check-docx-before-upload"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Prepare .docx files",
+      "metaDescription": "Prepare Microsoft Word (.docx) files so that DocMigration converts them accurately into DITA-XML.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/prepare_docx_files.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "b45fe94b-3092-44ba-ae07-f376df375674"
+          ],
+          "value": "Prepare .docx files"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "937b3753-db1b-490c-9a4a-a81b5104c083"
+          ],
+          "value": "Prepare Microsoft Word (.docx) files so that DocMigration converts them accurately into DITA-XML."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

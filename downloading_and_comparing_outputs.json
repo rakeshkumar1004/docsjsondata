@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "c780e618-97d8-4450-aa0c-f058b0755a40"
+        ],
+        "value": "Downloading and Comparing Outputs"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "0c6183ab-c9df-4a6d-963d-3341b997d7a3"
+        ],
+        "value": "This section answers questions about the user console of the metR platform for downloading results and comparing document versions."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "9e57bf8d-f97e-4757-945f-b408b161f250"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/downloading_and_comparing_outputs.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "d8dc1fe6-5ab2-4437-89b8-4249db8cf844"
+        ],
+        "value": [
+          "how-do-i-download-outputs",
+          "can-i-compare-versions",
+          "what-happens-when-i-create-a-new-branch"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Downloading and Comparing Outputs",
+      "metaDescription": "This section answers questions about the user console of the metR platform for downloading results and comparing document versions.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/downloading_and_comparing_outputs.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "315267cf-23d1-4bd4-9151-38b4b943cfc5"
+          ],
+          "value": "Downloading and Comparing Outputs"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "010b443c-fd80-426f-8bd1-3ac2f58428b9"
+          ],
+          "value": "This section answers questions about the user console of the metR platform for downloading results and comparing document versions."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "6faa39ce-6c6f-4698-ab02-7963d56677cf"
+          ],
+          "value": "How do I download outputs?"
+        },
+        "content": {
+          "chunk_references": [
+            "4e9bbc11-620f-43cc-a118-3812c09e5332"
+          ],
+          "value": "Once processing is complete, download options become available for converted content and related artifacts."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "eadcff8f-0214-4ddf-9fac-6ea8321b7f92"
+          ],
+          "value": "Can I compare versions?"
+        },
+        "content": {
+          "chunk_references": [
+            "13f90960-2e83-485e-bd24-279da4cf0b0f"
+          ],
+          "value": "Yes. Versioning and branching allow teams to compare changes and work safely without overwriting approved content."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "02ef6b59-8b83-482b-9073-b92613b472d6"
+          ],
+          "value": "What happens when I create a new branch?"
+        },
+        "content": {
+          "chunk_references": [
+            "be643ef0-abf2-4c73-aacc-1db5d9b50fdb"
+          ],
+          "value": "A new branch lets you work independently while preserving the original version and its history."
+        }
+      }
+    ]
+  }
+}

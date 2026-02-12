@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "29dfdb78-0ee9-4050-82b3-580901c9034d"
+        ],
+        "value": "Edit the DITA Files"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "2a6a4e8b-3e4f-4b75-aabe-08f7376ef1e6"
+        ],
+        "value": "This section describes how to access and edit the DITA files in DocEditor."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "2f26b909-4ee9-4272-bc2a-b61b0533b6b6"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/doceditor/t_access_doceditor.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "632b4fba-2e01-4075-8b6d-ae44e9de6b81"
+        ],
+        "value": [
+          "doceditor",
+          "docmanager",
+          "dita-files",
+          "github-branch",
+          "dita-xml",
+          "access-doceditor",
+          "select-project",
+          "select-branch",
+          "edit-dita-files",
+          "commit-changes",
+          "left-navigation-panel",
+          "content-editor",
+          "tag-view-mode",
+          "typographic-actions",
+          "dita-authoring",
+          "how-to-access-doceditor",
+          "how-to-open-dita-editor",
+          "how-to-start-editing-files",
+          "how-to-edit-dita-files",
+          "how-to-use-doceditor",
+          "why-use-doceditor",
+          "ai-intent",
+          "how-to-begin-authoring",
+          "how-to-edit-documentation",
+          "how-to-author-content"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Edit the DITA Files",
+      "metaDescription": "This section describes how to access and edit the DITA files in DocEditor.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/doceditor/t_access_doceditor.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "fa78866e-71f3-437c-b2fd-319187b332c9"
+          ],
+          "value": "Edit the DITA Files"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "85624af4-de8a-406d-9717-88717454789d"
+          ],
+          "value": "This section describes how to access and edit the DITA files in DocEditor."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

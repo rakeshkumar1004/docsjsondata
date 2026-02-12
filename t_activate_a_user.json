@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "8958aaeb-086f-43cf-b690-485a35706635"
+        ],
+        "value": "Activate a user"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "ca2b6de2-3274-4398-b41b-2e8ca75c5af9"
+        ],
+        "value": "This section describes how an administrator can activate an inactive user in the metR admin console."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "4d7dcd8d-6c77-4ee3-b691-e9d778e76418"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_activate_a_user.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "a6587d85-e9f5-4f4d-9cde-955624ae98aa"
+        ],
+        "value": [
+          "admin-console",
+          "users-module",
+          "user-list",
+          "user-account",
+          "user-status",
+          "activate-user",
+          "open-users-screen",
+          "select-user",
+          "confirm-user-activation",
+          "restore-user-access",
+          "user-management",
+          "inactive-user",
+          "account-status-change",
+          "admin-workflows",
+          "access-restoration",
+          "how-do-i-activate-a-user",
+          "where-is-the-activate-user-option",
+          "what-happens-when-a-user-is-activated",
+          "can-i-restore-access-for-an-inactive-user",
+          "does-activating-a-user-restore-account-access"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Activate a user",
+      "metaDescription": "This section describes how an administrator can activate an inactive user in the metR admin console.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_activate_a_user.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "86f7f60e-a868-4895-9bad-c41404a1e6c7"
+          ],
+          "value": "Activate a user"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "8643079b-43e8-48b2-bec3-6dfb7465ffbd"
+          ],
+          "value": "This section describes how an administrator can activate an inactive user in the metR admin console."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

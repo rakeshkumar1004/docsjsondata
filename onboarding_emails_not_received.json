@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "47102830-670c-4511-8d41-c9152066471d"
+        ],
+        "value": "Admin has not receive the required Onboarding emails"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "097ea0a5-a1ea-4403-bbd7-72ea292a3187"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/onboarding_emails_not_received.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "a35edde8-b5ac-4860-aa70-0be656e9fc59"
+        ],
+        "value": [
+          "onboarding-email-not-received",
+          "admin-access-email-missing",
+          "Admin has not received Onboarding emails"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Admin has not receive the required Onboarding emails",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/onboarding_emails_not_received.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "36cd4efe-eb59-4f4e-881d-915b8711e8b8"
+          ],
+          "value": "Admin has not receive the required Onboarding emails"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "72485787-99a0-4034-8e3e-21c039e60f3c"
+          ],
+          "value": "Condition"
+        },
+        "content": {
+          "chunk_references": [
+            "9f8045e0-04ac-4bbf-83f7-68d96b94c549"
+          ],
+          "value": "The administrator does not receive the onboarding emails required to access the metR Admin Console."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "dc1dd2f9-349b-4233-84f4-66c642eaf2be"
+          ],
+          "value": "Cause"
+        },
+        "content": {
+          "chunk_references": [
+            "55ac1196-68a9-4d8b-be7b-57e84ff45cf6"
+          ],
+          "value": "Onboarding access depends on two emails sent to the administrator: one for email verification and one containing the Admin Console access link."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "4b90326c-ecc1-4ddf-9c4b-54b4272f5490"
+          ],
+          "value": "Remedy"
+        }
+      }
+    ]
+  }
+}

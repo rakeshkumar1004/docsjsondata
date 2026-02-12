@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "9e5fc1dd-dd93-421e-abe5-073920e8e111"
+        ],
+        "value": "GitHub commit history is not visible for a project"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "e7da4244-4daa-43d5-bcad-d109da66b4a1"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/github_commit_history_is_not_visible_for_a_project.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "a92aae54-1b01-46e7-ad7a-af6dbc43acd4"
+        ],
+        "value": [
+          "github-commit-history-not-visible",
+          "commit history",
+          "GitHub commits",
+          "branch selection",
+          "github-sync-issue"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "GitHub commit history is not visible for a project",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/github_commit_history_is_not_visible_for_a_project.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "ad25f50f-1fd8-4139-896f-35d6131ee56e"
+          ],
+          "value": "GitHub commit history is not visible for a project"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "c70a00bf-26be-4ef1-8ed1-682b2045fcf4"
+          ],
+          "value": "Condition"
+        },
+        "content": {
+          "chunk_references": [
+            "3c129f28-2ec5-495e-ba64-f378f08f3c69"
+          ],
+          "value": "The Commit tab shows no entries after selecting a project in the Admin Console."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "5a5e0d77-0e1c-4e33-a87c-652d6090bef4"
+          ],
+          "value": "Cause"
+        },
+        "listItems": {
+          "chunk_references": [
+            "c64f7b42-9f30-4aa3-9402-378db8a8f1f0"
+          ],
+          "value": [
+            "No commits have been pushed to the selected branch.",
+            "An incorrect branch is selected in the branch drop-down.",
+            "The GitHub repository is not properly synced."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "1826383c-939c-4ec6-8665-5117f663a00c"
+          ],
+          "value": "Remedy"
+        }
+      }
+    ]
+  }
+}

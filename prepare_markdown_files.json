@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "980310be-60be-4a74-8f40-6cae534c0db5"
+        ],
+        "value": "Prepare .md files"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "ed60205d-5034-4040-b192-b11b48a910d7"
+        ],
+        "value": "Prepare Markdown (.md) files so that DocMigration converts them accurately into DITA-XML."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "d9d38070-7781-4998-aa18-98fa97f4fe1c"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/prepare_markdown_files.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "ab82cdcc-01f7-495f-9ab6-d92b02da6489"
+        ],
+        "value": [
+          "docmigration",
+          "markdown-files",
+          "dita-xml",
+          "conversion-workflow",
+          "prepare-markdown-file",
+          "review-markdown-file",
+          "remove-unsupported-content",
+          "upload-prepared-file",
+          "markdown-syntax",
+          "heading-levels",
+          "lists",
+          "tables",
+          "images",
+          "alt-text",
+          "links",
+          "markdown-extensions",
+          "custom-markdown-syntax",
+          "how-to-prepare-md-files-for-dita",
+          "what-markdown-structure-is-supported",
+          "how-to-structure-markdown-for-dita",
+          "what-markdown-content-is-not-supported",
+          "how-to-check-markdown-before-upload"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Prepare .md files",
+      "metaDescription": "Prepare Markdown (.md) files so that DocMigration converts them accurately into DITA-XML.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/prepare_markdown_files.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "c0f71b29-9f66-4ab4-871f-3dd40c528c57"
+          ],
+          "value": "Prepare .md files"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "891362ce-51ad-4f75-abd8-12dfc9f1cccd"
+          ],
+          "value": "Prepare Markdown (.md) files so that DocMigration converts them accurately into DITA-XML."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

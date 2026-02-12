@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "67611ba4-ede5-41d8-be92-138bcd4afe64"
+        ],
+        "value": "Fix the Error – Example 1"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "19ed6c3f-88c7-4b83-8275-248d09ecd12e"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/fix_the_error__example_1.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "7c0e0cdb-dc76-41d1-baba-30aedc6e2821"
+        ],
+        "value": [
+          "metr",
+          "error-fix-example",
+          "conversion-error-sample",
+          "diagnostic-example",
+          "documentation-platform",
+          "validation-example",
+          "migration-debugging",
+          "error-resolution-scenario",
+          "dita-error-case",
+          "troubleshooting-example",
+          "fix-conversion-error",
+          "analyze-error-example",
+          "apply-corrective-action",
+          "resolve-dita-issue",
+          "update-source-content",
+          "re-run-validation",
+          "verify-error-resolution",
+          "follow-fix-steps",
+          "debug-migration-case",
+          "complete-error-fix",
+          "documentation-migration",
+          "dita-validation",
+          "troubleshooting-workflow",
+          "docops-workflow",
+          "enterprise-documentation",
+          "structured-content",
+          "technical-documentation",
+          "conversion-debugging",
+          "ai-ready-documentation",
+          "error-resolution",
+          "ai-intent",
+          "how-to-fix-a-metr-conversion-error",
+          "what-does-a-conversion-error-look-like",
+          "how-to-resolve-dita-validation-issues",
+          "how-to-follow-an-error-fix-example",
+          "why-this-error-occurs",
+          "how-to-apply-error-fixes",
+          "how-to-correct-source-content",
+          "how-to-re-run-validation-after-fix",
+          "how-to-confirm-error-is-fixed"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Fix the Error – Example 1",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/fix_the_error__example_1.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "cfd720d5-5cba-450f-bfe3-5ed3d297f26d"
+          ],
+          "value": "Fix the Error – Example 1"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

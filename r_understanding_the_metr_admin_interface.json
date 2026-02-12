@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "d3739543-a00a-4da7-bec4-859e991c8901"
+        ],
+        "value": "Understanding the metR admin interface"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "a21517b2-343f-466b-b877-798b3d3a8f04"
+        ],
+        "value": "This section describes the metR admin interface."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "60512da3-936e-40d9-ad15-78082037ef04"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/r_understanding_the_metr_admin_interface.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "698a9c5e-741f-4806-92e9-71cecd601126"
+        ],
+        "value": [
+          "metr-admin-console",
+          "admin-interface",
+          "admin-dashboard",
+          "navigation-panel",
+          "admin-account-menu",
+          "custom-plugins",
+          "credits",
+          "virtual-machines",
+          "notifications",
+          "release-log",
+          "navigate-admin-interface",
+          "view-dashboard-details",
+          "access-project-details",
+          "manage-users",
+          "view-credit-usage",
+          "monitor-virtual-machines",
+          "view-github-commit-notifications",
+          "upload-custom-dita-ot-plugins",
+          "update-admin-profile",
+          "administrators",
+          "admin-workspace",
+          "web-based-interface",
+          "documentation-administration",
+          "project-oversight",
+          "user-oversight",
+          "system-status-visibility",
+          "what-is-the-metr-admin-interface",
+          "what-are-the-components-of-the-metr-admin-interface",
+          "what-does-each-section-in-the-admin-interface-do",
+          "where-can-admins-view-project-and-user-details",
+          "how-do-admins-navigate-the-admin-interface"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Understanding the metR admin interface",
+      "metaDescription": "This section describes the metR admin interface.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/r_understanding_the_metr_admin_interface.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "46fbec10-df9d-47b0-a1a2-1bf28bf28044"
+          ],
+          "value": "Understanding the metR admin interface"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "18c6cf80-ae4a-473a-9539-5eac2fd1fe94"
+          ],
+          "value": "This section describes the metR admin interface."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "10ee5dad-7c70-4ee2-9d92-c007e18d753c"
+        ],
+        "value": "Assign users to a project"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "a9c10b53-6cdd-4b59-892a-97be1b520174"
+        ],
+        "value": "This section describes how an administrator can assign (or add) users to an existing project."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "1c13b434-6e02-48d3-9231-c799780f7e0b"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_assign_users_to_a_project.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "0e6eeb20-b8e7-47b2-9fef-e874f34ac085"
+        ],
+        "value": [
+          "metr-admin-console",
+          "project-management",
+          "user-management",
+          "project-users",
+          "metr-platform",
+          "admin-interface",
+          "project-access",
+          "enterprise-projects",
+          "user-roles",
+          "metr-projects",
+          "assign-users-to-project",
+          "add-user-to-project",
+          "select-project",
+          "select-users",
+          "save-project-assignment",
+          "configure-project-access",
+          "manage-project-members",
+          "update-project-users",
+          "project-user-mapping",
+          "admin-assignment-flow",
+          "project-administration",
+          "enterprise-environment",
+          "web-admin-console",
+          "role-based-access",
+          "collaborative-projects",
+          "organizational-users",
+          "access-governance",
+          "account-lifecycle",
+          "internal-tools",
+          "platform-setup",
+          "ai-intent",
+          "how-to-assign-users-to-a-project-in-metr",
+          "how-to-add-users-to-projects-metr",
+          "how-does-project-user-assignment-work-in-metr",
+          "how-to-manage-project-members-metr",
+          "what-is-project-user-assignment-in-metr",
+          "why-assign-users-to-projects-in-metr",
+          "how-to-control-project-access-metr",
+          "how-to-configure-project-users-metr",
+          "how-to-use-admin-console-for-project-assignments"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Assign users to a project",
+      "metaDescription": "This section describes how an administrator can assign (or add) users to an existing project.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_assign_users_to_a_project.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "d4810c2b-18e1-4f58-b274-0bded033ed8b"
+          ],
+          "value": "Assign users to a project"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "1ced3f75-bb87-4eca-ba24-d6c23a2bf74a"
+          ],
+          "value": "This section describes how an administrator can assign (or add) users to an existing project."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

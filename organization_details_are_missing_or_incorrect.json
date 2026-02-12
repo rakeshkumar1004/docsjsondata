@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "01588c12-1c0c-4698-8ac7-daed42c0a3ed"
+        ],
+        "value": "Organization details are missing or incorrect"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "567de46e-2858-46ac-ae7f-a481cb642177"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/organization_details_are_missing_or_incorrect.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "ea8eb637-82d8-4ec4-b599-a0c36eea5ed8"
+        ],
+        "value": [
+          "organization-details-incorrect",
+          "organization-info-not-updated",
+          "organization details",
+          "account information"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Organization details are missing or incorrect",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/organization_details_are_missing_or_incorrect.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "967c4691-61d4-4a05-b512-178a8cbac728"
+          ],
+          "value": "Organization details are missing or incorrect"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "4265afbc-8169-4a2c-8853-c2889cafcd6c"
+        ],
+        "value": "Downloaded source files do not include published HTML or PDF output"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "65d9d848-6a8c-4c8f-ac3d-4ed7631e7791"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/html_or_pdf_output_not_published_in_downloaded_source_files.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "04968599-b4ac-4c92-ae5b-6ad78630b1d7"
+        ],
+        "value": [
+          "published-output-not-included",
+          "output-branch-not-selected",
+          "download source files",
+          "output branch"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Downloaded source files do not include published HTML or PDF output",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/html_or_pdf_output_not_published_in_downloaded_source_files.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "6ac080f9-c106-4775-af50-6e388e2f8c44"
+          ],
+          "value": "Downloaded source files do not include published HTML or PDF output"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "309b3632-0c93-4e91-9f65-53c67dfad282"
+          ],
+          "value": "Condition"
+        },
+        "content": {
+          "chunk_references": [
+            "49de4dfd-d173-43f0-8d9b-a9b7856c0d59"
+          ],
+          "value": "After publishing content, the downloaded source files from DocManager do not include the HTML or PDF output."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "5d30c04a-06f0-4144-989f-5dd1f76f8663"
+          ],
+          "value": "Cause"
+        },
+        "content": {
+          "chunk_references": [
+            "4eeb9fd4-4bb3-44d2-977a-79aa9ae72d6e"
+          ],
+          "value": "Published HTML and PDF outputs are stored in separate output branches, not in the main content branch. DocManager only downloads files from the currently selected branch. If the output branch is not selected, published files will not be included in the download."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "ecc29974-db68-4a8b-a71f-d89eed8587d6"
+          ],
+          "value": "Remedy"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "579749b7-0be4-4cfb-a1ff-e334832313a2"
+        ],
+        "value": "Customization and Plugins"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "808fa31c-3d8b-47ea-ae91-a0a8e2eba49f"
+        ],
+        "value": "This section answers questions about the admin console of the metR platform for customization and plugin management."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "e1b39f73-d1d1-44e9-8468-93463004860d"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/customization_plugins_0.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "e5044647-80fe-4200-974f-4384b4f79345"
+        ],
+        "value": [
+          "what-are-custom-plugins",
+          "who-can-manage-custom-plugins"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Customization and Plugins",
+      "metaDescription": "This section answers questions about the admin console of the metR platform for customization and plugin management.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/customization_plugins_0.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "f612c7ac-423e-4ec5-983a-f0415d43642b"
+          ],
+          "value": "Customization and Plugins"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "e47989b8-1a6f-43c0-bb97-98f5ba805b6c"
+          ],
+          "value": "This section answers questions about the admin console of the metR platform for customization and plugin management."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "e280e3c5-beba-4549-8fc6-71d76251c20f"
+          ],
+          "value": "What are custom plugins?"
+        },
+        "content": {
+          "chunk_references": [
+            "14a22672-daa3-41a3-bc32-21c98c483d1a"
+          ],
+          "value": "Custom plugins extend or adapt platform behavior to meet specific organizational needs."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "91c5bd29-ffde-4d5e-99db-ab27f000fdfe"
+          ],
+          "value": "Who can manage Custom Plugins?"
+        },
+        "content": {
+          "chunk_references": [
+            "673e9c75-c2a9-48bb-a2c2-7ab5d7e874a9"
+          ],
+          "value": "Only admins can manage plugins to reduce risk and maintain system stability."
+        }
+      }
+    ]
+  }
+}

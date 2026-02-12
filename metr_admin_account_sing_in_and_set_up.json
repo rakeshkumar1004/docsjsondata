@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "47eaf01f-ec5a-4620-818f-507db3c3c473"
+        ],
+        "value": "metR Admin Account Sign in and Set up"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "e3e5db36-233d-49b6-8ec8-f5f5ad15c3d3"
+        ],
+        "value": "This section describes how to sign in to the Admin for the first time."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "96aec37e-8e31-4dd7-9bd5-c50d9386e8f5"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/02_onboarding_and_setup/metr_admin_account_sing_in_and_set_up.html"
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "metR Admin Account Sign in and Set up",
+      "metaDescription": "This section describes how to sign in to the Admin for the first time.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/02_onboarding_and_setup/metr_admin_account_sing_in_and_set_up.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "c84d8b49-beec-49b6-a52c-0eb17c1e85d9"
+          ],
+          "value": "metR Admin Account Sign in and Set up"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "bf003dce-3b73-4b69-9d10-c2788499c101"
+          ],
+          "value": "This section describes how to sign in to the Admin for the first time."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

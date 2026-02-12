@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "fce1b2b1-a3f9-4347-93dd-6048dea7bd89"
+        ],
+        "value": "Organization and Account Management"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "91e927d9-abd8-4cd6-90d8-73c8f8e30be1"
+        ],
+        "value": "This section answers questions about the admin console of the metR platform related to organizations and account settings."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "63607f15-8358-4dc6-ad18-69858abb8c4a"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/organization_account_management_0.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "da0c3eb9-f308-4a0c-959e-bf5934300634"
+        ],
+        "value": [
+          "what-is-an-organization",
+          "who-can-manage-organization-settings"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Organization and Account Management",
+      "metaDescription": "This section answers questions about the admin console of the metR platform related to organizations and account settings.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/organization_account_management_0.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "10945387-76dc-4318-a7dd-b29f9aef8202"
+          ],
+          "value": "Organization and Account Management"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "27bd204f-fec2-4095-af63-6c40558339d9"
+          ],
+          "value": "This section answers questions about the admin console of the metR platform related to organizations and account settings."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "3bcab21b-2b09-4954-b9e8-ac32693bcffc"
+          ],
+          "value": "What is an organization?"
+        },
+        "content": {
+          "chunk_references": [
+            "5c72a976-99d9-41dc-b80a-ae4464420bb5"
+          ],
+          "value": "An organization represents your company or team. It contains users, projects, and configuration settings."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "a33a9a50-8650-41a9-b4be-6ff36b6deacc"
+          ],
+          "value": "Who can manage organization settings?"
+        },
+        "content": {
+          "chunk_references": [
+            "7b9b8349-d309-4ab4-a367-ed4f98831a74"
+          ],
+          "value": "Only admins can manage organization-level settings such as users, projects, and plugins."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "6b606c14-53c9-4d69-bf3b-bdb7a537632a"
+        ],
+        "value": "DocMigration"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "dfc1df74-1043-457b-a401-fa4bb1e0f494"
+        ],
+        "value": "This section answers questions about the user console of the metR platform for DocMigration."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "0fa467a6-3e63-47f0-851a-3227fd6ca933"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "7119616f-43b1-416d-ad4c-074048a52b23"
+        ],
+        "value": [
+          "what-is-docmigration",
+          "what-should-i-prepare-before-running-a-migration",
+          "what-happens-during-conversion",
+          "how-do-i-handle-migration-issues",
+          "what-happens-after-migration-completes"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "DocMigration",
+      "metaDescription": "This section answers questions about the user console of the metR platform for DocMigration.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "ae99cfab-e644-4e69-b687-62a469dbe982"
+          ],
+          "value": "DocMigration"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "81da7486-29ee-41b0-90f2-6b4623bdfa6c"
+          ],
+          "value": "This section answers questions about the user console of the metR platform for DocMigration."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "c66a823a-beb5-4f2e-9a3a-c42cb2f50d35"
+          ],
+          "value": "What is DocMigration?"
+        },
+        "content": {
+          "chunk_references": [
+            "7f3bf9f5-1327-4216-a4d7-5b2cadde1f01"
+          ],
+          "value": "DocMigration converts existing documents into structured, reusable DITA. It automates structure detection so teams don’t need to manually rebuild content."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "20f3bdd5-f7b9-43bf-9cd3-3afb73c52290"
+          ],
+          "value": "What should I prepare before running a migration?"
+        },
+        "content": {
+          "chunk_references": [
+            "51f75d06-a959-4225-b4e4-c8fb31046b0f"
+          ],
+          "value": "Documents should be readable, complete, and in a supported format. Reviewing content quality early helps reduce errors and rework."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "88580db2-44f3-453c-8b1e-f9ca02b3c2d3"
+          ],
+          "value": "What happens during conversion?"
+        },
+        "content": {
+          "chunk_references": [
+            "6afb623b-d633-4127-94da-e5ec77717dd4"
+          ],
+          "value": "metR analyzes the document, identifies structural issues, and generates structured output. Any issues are surfaced with clear messages so they can be addressed."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "5f91f2f5-4e08-44c2-ace6-70b8555ba2e9"
+          ],
+          "value": "How do I handle migration issues?"
+        },
+        "content": {
+          "chunk_references": [
+            "def7fc9b-9376-4047-9b71-63b0e489f241"
+          ],
+          "value": "Issues are reported with clear explanations. You can update the document and rerun the migration until results meet expectations."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "48d8f49a-704c-4061-8388-c3a60de4f4c8"
+          ],
+          "value": "What happens after migration completes?"
+        },
+        "content": {
+          "chunk_references": [
+            "1b865bbf-f3ee-45de-842d-ae563893cd40"
+          ],
+          "value": "You can preview the converted content, validate structure, and finalize the output for editing, publishing, or version control."
+        }
+      }
+    ]
+  }
+}

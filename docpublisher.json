@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "edf1d87f-5fc2-4d4f-925e-809acb4f091f"
+        ],
+        "value": "DocPublisher"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "5139a317-9ca5-42a0-8a92-ac0a6a8a5632"
+        ],
+        "value": "This section answers questions about the user console of the metR platform for publishing of documents."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "7755c2ec-1746-499e-b23e-bb7019f39145"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docpublisher.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "7d02deba-9448-43d7-a1de-2defda6bfa40"
+        ],
+        "value": [
+          "what-is-docpublisher",
+          "when-should-i-publish-content",
+          "how-do-i-know-publishing-was-successful",
+          "what-output-formats-are-supported",
+          "can-i-publish-to-multiple-channels",
+          "how-does-versioning-work-for-published-content"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "DocPublisher",
+      "metaDescription": "This section answers questions about the user console of the metR platform for publishing of documents.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docpublisher.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "b74ec4f7-767d-452c-934b-2d5e2ee4e213"
+          ],
+          "value": "DocPublisher"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "24441b87-35e4-4af0-a778-950ce55474a5"
+          ],
+          "value": "This section answers questions about the user console of the metR platform for publishing of documents."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "1b4d0d20-abad-4122-942c-75b2164096ea"
+          ],
+          "value": "What is DocPublisher?"
+        },
+        "content": {
+          "chunk_references": [
+            "594142e7-8560-4749-8423-5379edb4cdf6"
+          ],
+          "value": "DocPublisher turns structured content into publishable outputs such as web help or downloadable formats."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "9c99ed24-abe4-4987-a249-436a0b8cef9a"
+          ],
+          "value": "When should I publish content?"
+        },
+        "content": {
+          "chunk_references": [
+            "97da935b-7af7-4383-9bac-ae8e23bd2d5f"
+          ],
+          "value": "Publishing works best after content has been reviewed and approved. Any later changes require republishing."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "32837531-f341-4212-9e65-95c6d1b60aca"
+          ],
+          "value": "How do I know publishing was successful?"
+        },
+        "content": {
+          "chunk_references": [
+            "33472c19-4f8d-4bee-ac1c-8af62d4bcda9"
+          ],
+          "value": "Publishing status and results are clearly shown. If issues occur, messages explain what needs attention."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "e122403f-6e95-4447-b971-e2faf1ea643c"
+        ],
+        "value": "Navigating the User Interface"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "0dc1a3fc-8882-4b6f-99a5-be03484ea047"
+        ],
+        "value": "This section answers questions about the user console of the metR platform related to navigation, workflows, and on-screen indicators."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "93284e7f-7012-4535-9a25-9f699a6a1df2"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/navigating_the_user_interface.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "abdbc2fe-c09c-498a-8a91-2fc29151c370"
+        ],
+        "value": [
+          "how-do-i-know-whats-happening-in-my-workflow",
+          "why-are-some-actions-unavailable"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Navigating the User Interface",
+      "metaDescription": "This section answers questions about the user console of the metR platform related to navigation, workflows, and on-screen indicators.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/navigating_the_user_interface.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "4ff07b8a-d65d-4482-961e-6d585c686202"
+          ],
+          "value": "Navigating the User Interface"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "16f8cb61-6211-44ec-9c3e-2b3feeff19d6"
+          ],
+          "value": "This section answers questions about the user console of the metR platform related to navigation, workflows, and on-screen indicators."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "212b532b-c511-4b42-805e-39a90841c3a7"
+          ],
+          "value": "How do I know what’s happening in my workflow?"
+        },
+        "content": {
+          "chunk_references": [
+            "f1c778cd-579a-48f3-a9b1-55124efb0445"
+          ],
+          "value": "Documents clearly display their processing status—such as queued, in progress, completed, or failed—so users always understand what’s happening and what needs attention."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "7471678b-f047-42e1-9cf4-c56cc3c962d8"
+          ],
+          "value": "Why are some actions unavailable?"
+        },
+        "content": {
+          "chunk_references": [
+            "de78d94e-da44-403b-960a-bca6d7dc3819"
+          ],
+          "value": "Some actions depend on your role or the document’s current state. This prevents invalid actions and helps guide users through the intended workflow."
+        }
+      }
+    ]
+  }
+}

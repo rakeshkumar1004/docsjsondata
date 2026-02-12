@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "88b3d593-6e14-410a-83fe-bcff97a01045"
+        ],
+        "value": "Data Privacy and Regulatory Compliance"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "a4e6c1f7-8a55-45bf-b803-35cdc7bc32c0"
+        ],
+        "value": "This section answers questions about how the metR platform aligns with data protection regulations and privacy standards."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "6549a266-3ad3-4fc8-b512-e6fa894a9b58"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/05_security_and_compliance/data_privacy_and_regulatory_compliance.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "b77dcf27-832a-4df7-8872-d68969fcd9e5"
+        ],
+        "value": [
+          "is-metr-gdpr-compliant",
+          "can-organizations-control-data-retention"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Data Privacy and Regulatory Compliance",
+      "metaDescription": "This section answers questions about how the metR platform aligns with data protection regulations and privacy standards.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/05_security_and_compliance/data_privacy_and_regulatory_compliance.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "e69febbf-1d4a-47b0-b80a-49139ee8f92c"
+          ],
+          "value": "Data Privacy and Regulatory Compliance"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "a4315eaa-ee79-418b-825a-0cdbd817fb91"
+          ],
+          "value": "This section answers questions about how the metR platform aligns with data protection regulations and privacy standards."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "0a06a8ce-48d8-4516-9972-3c73b66bcbfd"
+          ],
+          "value": "Is metR GDPR compliant?"
+        },
+        "content": {
+          "chunk_references": [
+            "131de571-c9cc-4b40-86bb-5abc25c84374"
+          ],
+          "value": "metR aligns with GDPR principles such as data minimization, secure handling, and configurable retention."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "e62e647e-9289-45a3-b6f5-31347fe67fd7"
+          ],
+          "value": "Can organizations control data retention?"
+        },
+        "content": {
+          "chunk_references": [
+            "1b1d8d04-a45b-4a50-bf7d-bebde74324be"
+          ],
+          "value": "Yes. Retention and deletion policies can be configured to match internal compliance rules."
+        }
+      }
+    ]
+  }
+}

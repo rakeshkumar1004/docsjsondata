@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "5774332a-889b-4db6-9ec0-4ad4e80a2041"
+        ],
+        "value": "GitHub branch is not available in the Choose a branch list"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "a2c983c5-6471-4e1d-8088-5de6b64371f3"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/github_branch_not_listed.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "b1ed9682-34b4-43fd-913d-83679a2e3ee7"
+        ],
+        "value": [
+          "github-branch-not-listed",
+          "docmanager-branch-missing",
+          "GitHub branches",
+          "branch synchronization"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "GitHub branch is not available in the Choose a branch list",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/github_branch_not_listed.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "83aa16c2-3b35-405d-bcb6-b8e51b376f9f"
+          ],
+          "value": "GitHub branch is not available in the Choose a branch list"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "6165ae5e-5b89-4935-b22f-e88d2eaa776d"
+          ],
+          "value": "Condition"
+        },
+        "content": {
+          "chunk_references": [
+            "930ed6bb-a353-46d6-ad5c-492b702dc0f2"
+          ],
+          "value": "In DocManager module, the Choose a branch dropdown does not list a branch that exists in the connected GitHub repository."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "b6b51542-0b88-4ff2-99c2-c07dde192265"
+          ],
+          "value": "Cause"
+        },
+        "content": {
+          "chunk_references": [
+            "7c1aaebb-2c51-4753-a520-e321e7fb7d96"
+          ],
+          "value": "DocManager lists branches only after the workspace synchronizes with GitHub. Branches created outside the current session are not visible until synchronization occurs."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "981591e7-1b39-45c3-b418-c1b995a45208"
+          ],
+          "value": "Remedy"
+        }
+      }
+    ]
+  }
+}

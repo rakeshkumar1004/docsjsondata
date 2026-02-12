@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "f90ab4a2-5c8a-4bf6-9d8c-d0c327ad8006"
+        ],
+        "value": "Add Child Tag"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "ea8d0c11-6197-4d9d-947d-27d71b635087"
+        ],
+        "value": "This section describes how to add valid child tags to a DITA file using the Add child tag tab in DocEditor."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "db5f9602-3459-4eae-836a-48fd41342916"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/doceditor/t_add_child_tags.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "9194c9b5-45e4-4b7c-88f5-716d7f54f703"
+        ],
+        "value": [
+          "doceditor",
+          "dita-files",
+          "dita-xml",
+          "add-child-tag-tab",
+          "right-pane",
+          "add-child-tags",
+          "select-parent-tag",
+          "insert-child-tag",
+          "add-dita-elements",
+          "nest-tags",
+          "valid-child-tags",
+          "dita-compliance",
+          "topic-structure",
+          "parent-child-elements",
+          "structured-content",
+          "how-to-add-child-tags",
+          "how-to-insert-dita-elements",
+          "how-to-structure-topics",
+          "why-use-dita-elements",
+          "how-to-edit-xml-structure",
+          "how-to-build-content-hierarchy",
+          "ai-intent",
+          "how-to-author-structured-content",
+          "how-to-organize-dita-content",
+          "how-to-design-topic-structure"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Add Child Tag",
+      "metaDescription": "This section describes how to add valid child tags to a DITA file using the Add child tag tab in DocEditor.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/doceditor/t_add_child_tags.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "c0b7ea42-bd2d-4339-b69e-bdbb5ae33056"
+          ],
+          "value": "Add Child Tag"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "afeb2c4f-274c-44e8-b8fe-397956518801"
+          ],
+          "value": "This section describes how to add valid child tags to a DITA file using the Add child tag tab in DocEditor."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "b545bd53-48c3-4a47-a2ea-699e39b8851e"
+        ],
+        "value": "Admin console"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "7adb6598-8ac2-46c3-b4a4-1a0050a9b5c8"
+        ],
+        "value": "This section provides an overview of the metR admin console."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "4c93e639-8df3-498f-9ec4-31e1a0c8a93c"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/metr_admin_console.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "b7a78217-7abc-4ac2-9bd9-1e163409b533"
+        ],
+        "value": [
+          "metr-admin-console",
+          "admin-console",
+          "admin-workspace",
+          "admin-dashboard",
+          "project-management",
+          "user-management",
+          "organization-settings",
+          "github-repository-management",
+          "custom-dita-ot-plugins",
+          "manage-projects",
+          "manage-users",
+          "onboard-users",
+          "assign-collaborators",
+          "monitor-project-status",
+          "track-releases-and-commits",
+          "view-admin-dashboard",
+          "upload-custom-plugins",
+          "administrators",
+          "administrative-tasks",
+          "documentation-projects",
+          "github-repositories",
+          "credits",
+          "virtual-machine-activity",
+          "documentation-standards",
+          "what-is-the-metr-admin-console",
+          "what-can-admins-do-in-the-admin-console",
+          "how-do-admins-manage-projects-in-metr",
+          "how-do-admins-manage-users-in-metr",
+          "what-information-is-available-in-the-admin-dashboard",
+          "how-do-admins-manage-github-repositories-in-metr"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Admin console",
+      "metaDescription": "This section provides an overview of the metR admin console.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/metr_admin_console.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "83358586-07d0-4845-83c2-adea253a8eba"
+          ],
+          "value": "Admin console"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "d30a5be9-b6c1-46f3-bca0-0c5b68a15847"
+          ],
+          "value": "This section provides an overview of the metR admin console."
+        },
+        "content": {
+          "chunk_references": [
+            "f52ba402-efb6-4073-971b-9489788315c4"
+          ],
+          "value": "The metR admin console is the primary workspace for administrators to manage projects, users, organization settings, and integrations in the metR environment. It also acts as the central hub for managing GitHub repositories connected to your organization’s GitHub account.\n\nAdministrators can perform critical tasks such as:"
+        }
+      }
+    ],
+    "sections": []
+  }
+}

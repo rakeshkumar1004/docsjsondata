@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "5d4042e8-1791-418b-99f1-9048913a351f"
+        ],
+        "value": "Pre-flight validation fails in DocMigration without identifying the source location"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "78e6ff6b-23fe-439a-be81-938127715189"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/preflight_validation_fails.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "f46603bc-ed5b-48d2-b881-50d4edc72fe9"
+        ],
+        "value": [
+          "preflight-validation-failed",
+          "source-location-not-identified",
+          "pre-flight check",
+          "file validation"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Pre-flight validation fails in DocMigration without identifying the source location",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/preflight_validation_fails.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "2fef6dbc-c072-487d-8985-201beb583983"
+          ],
+          "value": "Pre-flight validation fails in DocMigration without identifying the source location"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "b667fd93-401f-4d8d-b68e-2a14aab7ac2b"
+          ],
+          "value": "Condition"
+        },
+        "content": {
+          "chunk_references": [
+            "af591d34-1371-444f-9f76-092f3197b357"
+          ],
+          "value": "In the User Console DocMigration module, after a document is uploaded and Pre-flight Check is selected, the system displays a File validation failed message. The message does not indicate which heading, style, or section in the uploaded source document caused the validation failure."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "ee7942fb-458f-4956-a390-b169414be501"
+          ],
+          "value": "Cause"
+        },
+        "content": {
+          "chunk_references": [
+            "2db4b3c9-6d82-43ea-ae7a-2f51bbb3b0ae"
+          ],
+          "value": "The pre-flight validation checks the structural consistency of the uploaded source document, including heading hierarchy and formatting rules. When inconsistencies are detected, the validation process stops and a failure message is displayed."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "a9fce50c-e8d6-4611-a248-7ffcbb5ad66c"
+          ],
+          "value": "Remedy"
+        }
+      }
+    ]
+  }
+}

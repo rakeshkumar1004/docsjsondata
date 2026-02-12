@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "fa88e5a5-fd0a-4292-9a10-a77635939c6e"
+        ],
+        "value": "Monitoring Processing and Results"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "129eb42e-01cd-4486-b436-89bf23d405f9"
+        ],
+        "value": "This section answers questions about the user console of the metR platform for tracking document processing status and handling errors."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "eca6f66b-3c3a-4edc-9494-d34ae01ac896"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/monitoring_processing_and_results.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "4e2db0be-8016-4410-97c8-36f71b7f3e90"
+        ],
+        "value": [
+          "how-can-i-track-document-processing",
+          "what-should-i-do-if-processing-fails",
+          "can-i-preview-results-before-downloading"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Monitoring Processing and Results",
+      "metaDescription": "This section answers questions about the user console of the metR platform for tracking document processing status and handling errors.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/monitoring_processing_and_results.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "74168c4e-69c8-4874-98d8-b5c1c3c12588"
+          ],
+          "value": "Monitoring Processing and Results"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "c5bb14dc-64a3-49ec-831a-096fd9b9ff17"
+          ],
+          "value": "This section answers questions about the user console of the metR platform for tracking document processing status and handling errors."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "9f06d5d3-47e5-4278-a013-bedcba6fa4a8"
+          ],
+          "value": "How can I track document processing?"
+        },
+        "content": {
+          "chunk_references": [
+            "54454f3e-5e64-4b86-b91a-ff57efaa81c7"
+          ],
+          "value": "Each document displays a clear processing status that updates automatically, allowing users to monitor progress without manual refresh."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "1d51836d-62b9-4557-9a7e-05abc65b272a"
+          ],
+          "value": "What should I do if processing fails?"
+        },
+        "content": {
+          "chunk_references": [
+            "d857744a-0857-4a19-9bf0-86fc62dbe8fc"
+          ],
+          "value": "If processing fails, error details are shown. You can correct issues and rerun the workflow if allowed."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "6c932fb3-5a91-451e-acdc-0c259204d76a"
+          ],
+          "value": "Can I preview results before downloading?"
+        },
+        "content": {
+          "chunk_references": [
+            "d8004d16-23e3-4774-955c-b955c7615c41"
+          ],
+          "value": "Yes. Previewing helps verify structure and accuracy before outputs are downloaded or shared."
+        }
+      }
+    ]
+  }
+}

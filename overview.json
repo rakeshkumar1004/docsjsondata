@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "410e68a7-2802-4db1-8e51-80da9946c8b6"
+        ],
+        "value": "Overview"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "49afdf75-eda6-40da-90cc-b6679b146193"
+        ],
+        "value": "This section answers questions about the user console of the metR platform."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "0d4efa5e-34b2-4618-81b8-9050575a4bde"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/overview.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "d8ece7f0-3abe-4364-8be9-e1991f27c013"
+        ],
+        "value": [
+          "what-is-the-user-console-used-for",
+          "how-is-the-user-console-different-from-the-admin-console"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Overview",
+      "metaDescription": "This section answers questions about the user console of the metR platform.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/overview.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "66618682-292c-4774-813b-a62102c0538f"
+          ],
+          "value": "Overview"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "b020d4c8-2ee1-400d-91c6-d39440af6688"
+          ],
+          "value": "This section answers questions about the user console of the metR platform."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "8ffe98f4-2984-4011-b28a-022c46682006"
+          ],
+          "value": "What is the User Console used for?"
+        },
+        "content": {
+          "chunk_references": [
+            "c27c19e3-25a7-4cae-a64e-f05bbc9914b8"
+          ],
+          "value": "The User Console is where users upload documents, run conversions, review results, and download outputs. It focuses on day-to-day content work, not administrative settings."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "67642d70-6500-4034-901b-0550906b68c3"
+          ],
+          "value": "How is the User Console different from the Admin Console?"
+        },
+        "content": {
+          "chunk_references": [
+            "a97a594f-9e5b-4bf3-94e8-72a6b7df9dc0"
+          ],
+          "value": "The User Console supports document-level work. The Admin Console manages organization-level configuration such as users, roles, projects, plugins, and compliance settings."
+        }
+      }
+    ]
+  }
+}

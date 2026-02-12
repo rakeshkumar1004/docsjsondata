@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "5af9763c-2cf2-420a-bf4e-212086afe6cd"
+        ],
+        "value": "metR User Account Sign in and Set up"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "30fd6668-b4c5-4e1b-8b26-a68c334f44dc"
+        ],
+        "value": "This section describes how to sign in to the user account for the first time."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "9c120d88-1c78-4f95-9165-981e4e363219"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/02_onboarding_and_setup/metr_user_sign_in_and_set_up.html"
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "metR User Account Sign in and Set up",
+      "metaDescription": "This section describes how to sign in to the user account for the first time.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/02_onboarding_and_setup/metr_user_sign_in_and_set_up.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "0331a15c-6967-4c28-b7e0-4650ea307eb9"
+          ],
+          "value": "metR User Account Sign in and Set up"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "5c0299e3-2356-4afa-90ae-e8b3ba952d28"
+          ],
+          "value": "This section describes how to sign in to the user account for the first time."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

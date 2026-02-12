@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "8fc81199-4ac2-49bf-a744-3da10894d46f"
+        ],
+        "value": "User cannot complete first-time sign-in after email verification"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "c12d42c4-fd9f-455f-8fa8-1e520a726745"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/first_time_signin_fails.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "7ad4a339-2ae0-4c3b-8cc0-a62e074de003"
+        ],
+        "value": [
+          "first-time-sign-in-failure",
+          "user-console-login-issue",
+          "User cannot complete first-time sign-in",
+          "first-time login"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "User cannot complete first-time sign-in after email verification",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/first_time_signin_fails.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "f8bf67b8-3af1-4012-82c7-7c82a0dff649"
+          ],
+          "value": "User cannot complete first-time sign-in after email verification"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "0f8a1698-9eb3-46d9-99e3-4df980864e98"
+          ],
+          "value": "Condition"
+        },
+        "content": {
+          "chunk_references": [
+            "e599fcea-5c36-4b4c-b0fe-362bbc17cbc0"
+          ],
+          "value": "The user verifies their email address but cannot complete the first-time sign-in to the metR User Console."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "6e863722-6292-423e-bfc6-9d6fade88817"
+          ],
+          "value": "Cause"
+        },
+        "listItems": {
+          "chunk_references": [
+            "9e55fe27-0644-4bc6-b501-48437aa7c80d"
+          ],
+          "value": [
+            "The user did not access the User Console using the link provided in the onboarding email.",
+            "The user is not signed in to the organization-registered GitHub account.",
+            "GitHub authentication was not completed successfully during first-time sign-in."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "087550b2-6a74-484d-b39d-c6896a8b445f"
+          ],
+          "value": "Remedy"
+        }
+      }
+    ]
+  }
+}

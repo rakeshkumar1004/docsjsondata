@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "0396de3a-9a67-4651-99a8-6adafe7ceea4"
+        ],
+        "value": "Release history is not displayed for a project"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "af1ec652-624e-4e44-8827-ee4239bc049b"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/release_history_is_not_displayed_for_a_project.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "e4739e22-de5a-452c-a25b-8409b9701436"
+        ],
+        "value": [
+          "release-history-not-visible",
+          "github-release-missing",
+          "release history",
+          "GitHub releases",
+          "project publishing"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Release history is not displayed for a project",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/release_history_is_not_displayed_for_a_project.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "dbc75179-8d8d-4855-a260-2603df01b183"
+          ],
+          "value": "Release history is not displayed for a project"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "da90cdbc-7e0c-4be8-873e-0834bcf60bf0"
+          ],
+          "value": "Condition"
+        },
+        "content": {
+          "chunk_references": [
+            "7ebd52d6-80c6-4f09-a573-21e944fb92ad"
+          ],
+          "value": "The Release tab does not display any published releases for a project."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "eaa534d8-4251-4e14-b0a5-2336f1405322"
+          ],
+          "value": "Cause"
+        },
+        "listItems": {
+          "chunk_references": [
+            "a963c7b0-a5f6-4152-b25f-fc3e64881a38"
+          ],
+          "value": [
+            "The project has not been published using DocPublisher.",
+            "No published output has been created as a GitHub release."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "9bfab5f3-46ca-4ebf-b163-bdbecce3302c"
+          ],
+          "value": "Remedy"
+        }
+      }
+    ]
+  }
+}

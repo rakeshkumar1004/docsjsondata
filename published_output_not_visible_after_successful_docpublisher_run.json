@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "9f819a61-e8c5-444b-9664-380cf27993e6"
+        ],
+        "value": "Published output is not visible after successful DocPublisher run"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "a38fa398-545b-4314-a321-3600acaa0068"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/published_output_not_visible_after_successful_docpublisher_run.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "73ce9cd0-034f-4963-b54c-36b07bbd6519"
+        ],
+        "value": [
+          "published-output-not-visible",
+          "docpublisher-run-success-no-output",
+          "published output",
+          "output branch"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Published output is not visible after successful DocPublisher run",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/published_output_not_visible_after_successful_docpublisher_run.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "a99251cf-03f2-485c-9ea3-eab90d750aad"
+          ],
+          "value": "Published output is not visible after successful DocPublisher run"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "cf57db16-7bd0-4040-a0e7-123e95d1ccf7"
+          ],
+          "value": "Condition"
+        },
+        "content": {
+          "chunk_references": [
+            "3819d833-a106-4ce0-9bd0-56f56b6761b8"
+          ],
+          "value": "In the DocManager module of the User Console, the generated HTML or PDF files are not visible under the branch selected during publishing, even though DocPublisher completes with the message Output generated successfully!."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "ab4d8eaa-c2ca-4fd6-84e3-06070376410a"
+          ],
+          "value": "Cause"
+        },
+        "content": {
+          "chunk_references": [
+            "46b9bd4f-1fed-4a3f-9a9b-fe3ccdd62f85"
+          ],
+          "value": "Published output is not stored in the same branch as the source DITA files. During publishing, the system creates a separate output branch with a naming pattern that includes the suffix output (output_number)."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "e7430319-d78a-4d81-b650-b136f0c9e11c"
+          ],
+          "value": "Remedy"
+        }
+      }
+    ]
+  }
+}

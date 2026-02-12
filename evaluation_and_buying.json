@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "1e92068d-a675-4ba6-acb6-13a4df11d1d3"
+        ],
+        "value": "Evaluation and Buying"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "9a0a07c4-c02d-40f9-858a-896ec33850b1"
+        ],
+        "value": "Addresses buying and evaluation questions to help teams assess fit, reduce risk, and understand how metR supports modern documentation and AI initiatives."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "e9057b3c-b001-44ac-89f9-8150d2e93c11"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/02_onboarding_and_setup/evaluation_and_buying.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "aa50407c-a714-44d5-954c-8b150a046aee"
+        ],
+        "value": [
+          "can-i-try-metr-before-committing",
+          "is-metr-a-replacement-for-a-ccms",
+          "how-does-metr-support-ai-driven-documentation",
+          "will-metr-help-reduce-ai-hallucinations",
+          "can-multiple-teams-use-one-metr-setup"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Evaluation and Buying",
+      "metaDescription": "Addresses buying and evaluation questions to help teams assess fit, reduce risk, and understand how metR supports modern documentation and AI initiatives.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/02_onboarding_and_setup/evaluation_and_buying.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "0eeb510a-f5d6-43cc-9976-4f9d6bd5f3b4"
+          ],
+          "value": "Evaluation and Buying"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "805f7a64-4001-4dc5-9001-9aa349725802"
+          ],
+          "value": "Addresses buying and evaluation questions to help teams assess fit, reduce risk, and understand how metR supports modern documentation and AI initiatives."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "cbc69ea2-602a-4be0-b70e-7486b30a8d85"
+          ],
+          "value": "Can I try metR before committing?"
+        },
+        "content": {
+          "chunk_references": [
+            "a49a951e-d424-4d1b-986c-c6a45e1a1fae"
+          ],
+          "value": "Yes. Most teams start with a pilot or sandbox migration to validate fit and output quality."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "ac592c79-f758-4fe6-8c60-e478d38d3492"
+          ],
+          "value": "Is metR a replacement for a CCMS?"
+        },
+        "content": {
+          "chunk_references": [
+            "51383b5f-f977-44e9-b1ca-56e356830866"
+          ],
+          "value": "No. metR is CCMS-agnostic and complements existing systems without the cost or complexity of traditional CCMS platforms."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "e20ba960-2380-4135-9b27-5e7a75b49df7"
+          ],
+          "value": "How does metR support AI-driven documentation?"
+        },
+        "content": {
+          "chunk_references": [
+            "8d64b4ff-96a8-4ec1-a7ce-7843ac2842bb"
+          ],
+          "value": "Structured DITA output improves chunking, metadata consistency, and retrieval accuracy—key to effective AI search and chat experiences."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "660f5fe3-a898-4e59-a6d6-4e7e7bd60b42"
+          ],
+          "value": "Will metR help reduce AI hallucinations?"
+        },
+        "content": {
+          "chunk_references": [
+            "08d5d455-80f0-4354-9629-2dd7650d2247"
+          ],
+          "value": "Yes. Structured, well-chunked content improves context and retrieval accuracy, reducing hallucinations."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "642575a1-53b6-44e8-af3d-bb7a5a85b803"
+          ],
+          "value": "Can multiple teams use one metR setup?"
+        },
+        "content": {
+          "chunk_references": [
+            "62e2fe42-f73e-4de1-9bf8-ae00095d7b7e"
+          ],
+          "value": "Yes. Multiple projects and controlled access allow teams and products to share one organization securely."
+        }
+      }
+    ]
+  }
+}

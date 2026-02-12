@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "e9d0bc8a-e1d5-4431-b9cd-7ac0c1856101"
+        ],
+        "value": "metR webhelp"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "c59b4a62-f22c-46d1-9821-93844382752f"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/"
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "metR webhelp",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "bb6d0924-99ab-4a4e-97f5-c3569462b208"
+          ],
+          "value": "metR webhelp"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

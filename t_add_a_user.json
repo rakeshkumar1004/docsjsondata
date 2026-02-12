@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "f128a54e-800e-4c06-b254-63d6b43cf379"
+        ],
+        "value": "Add a user"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "cc9f6698-e6fa-4371-a985-6bea4efcac23"
+        ],
+        "value": "This section describes how an administrator can add a new user to the metR admin console."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "eeb5d223-3dcf-45e4-a787-868af8ffdcad"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_add_a_user.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "cb7fe870-f71e-405e-8cc9-ac8c84080ca3"
+        ],
+        "value": [
+          "admin-console",
+          "users",
+          "add-user-form",
+          "user-console",
+          "github-account",
+          "add-user",
+          "sign-in-to-admin-console",
+          "fill-user-details",
+          "assign-projects",
+          "save-user",
+          "user-onboarding",
+          "user-account-creation",
+          "project-assignment",
+          "organization-domain",
+          "login-credentials",
+          "how-do-i-add-a-user",
+          "how-to-add-a-user-in-admin-console",
+          "what-details-are-required-to-add-a-user",
+          "how-do-i-assign-a-project-to-a-user",
+          "what-happens-after-adding-a-user"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Add a user",
+      "metaDescription": "This section describes how an administrator can add a new user to the metR admin console.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/t_add_a_user.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "9f22dad0-e877-4a01-b367-7a18fa236276"
+          ],
+          "value": "Add a user"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "d8922341-eabe-4c6b-83f0-62aa771f3502"
+          ],
+          "value": "This section describes how an administrator can add a new user to the metR admin console."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

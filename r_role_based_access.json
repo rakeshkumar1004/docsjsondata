@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "3ad193f5-9603-482c-8e3e-90521d37d434"
+        ],
+        "value": "User roles"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "271e78e7-6a72-46fc-9fd9-927a70eb4832"
+        ],
+        "value": "This section describes the user roles used in the metR application including their privileges and the modules that they can access."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "89d55bdd-9fa2-4bf5-b155-cb83f0691189"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/01_introduction/r_role_based_access.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "d82da604-05c4-42d0-b8fd-a117a8e4a99f"
+        ],
+        "value": [
+          "metr-application",
+          "admin-role",
+          "user-role",
+          "admin-console",
+          "user-console",
+          "docmanager-module",
+          "doceditor-module",
+          "docmigration-module",
+          "docpublisher-module",
+          "role-based-access",
+          "assign-users-to-projects",
+          "manage-projects",
+          "manage-users",
+          "import-dita-ot-plugins",
+          "convert-source-documents-to-dita",
+          "edit-converted-files",
+          "publish-project-output",
+          "subscription-based-module-access",
+          "technical-writers",
+          "documentation-managers",
+          "projects",
+          "converted-dita-files",
+          "documentation-projects",
+          "what-roles-are-available-in-metr",
+          "what-is-the-admin-role-in-metr",
+          "what-is-the-user-role-in-metr",
+          "who-can-access-the-admin-console",
+          "who-can-access-the-user-console",
+          "which-modules-can-admin-access",
+          "which-modules-can-users-access"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "User roles",
+      "metaDescription": "This section describes the user roles used in the metR application including their privileges and the modules that they can access.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/01_introduction/r_role_based_access.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "89176377-baec-4029-b7d2-b7c1078ea043"
+          ],
+          "value": "User roles"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "bac541a5-1b27-4edd-a6ea-9488dd6db4e4"
+          ],
+          "value": "This section describes the user roles used in the metR application including their privileges and the modules that they can access."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

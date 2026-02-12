@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "a7548835-9a9f-4fa5-9b96-c66e0a41265e"
+        ],
+        "value": "Compare Branches"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "e4c69359-c3de-4f22-80a1-80378075cef4"
+        ],
+        "value": "This section describes how to compare two branches and view their differences in metR."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "4307bbf6-da2d-4f80-a6ec-aa846ed29212"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmanager/t_compare_branches.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "dd125e7a-726a-4279-8cec-893f21616436"
+        ],
+        "value": [
+          "docmanager",
+          "projects",
+          "branches",
+          "github",
+          "dita-files",
+          "compare-branches",
+          "select-base-branch",
+          "select-target-branch",
+          "view-differences",
+          "compare",
+          "files-changed",
+          "split-view",
+          "unified-view",
+          "content-preview",
+          "branch-differences",
+          "how-to-compare-branches",
+          "how-to-review-documentation-changes",
+          "why-compare-branches",
+          "how-to-track-content-differences",
+          "how-to-validate-documentation-updates",
+          "how-to-analyze-version-changes",
+          "ai-intent",
+          "how-to-review-dita-content",
+          "how-to-ensure-content-quality",
+          "how-to-verify-changes"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Compare Branches",
+      "metaDescription": "This section describes how to compare two branches and view their differences in metR.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmanager/t_compare_branches.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "4ec80ad5-eefb-4094-81b1-93a4de4cdf53"
+          ],
+          "value": "Compare Branches"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "2fc16793-d26d-480d-8fec-6bd7d8f70d78"
+          ],
+          "value": "This section describes how to compare two branches and view their differences in metR."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}
