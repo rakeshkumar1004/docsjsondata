@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "aaad29d0-6140-4ef3-8634-528f12ae0e02"
+        ],
+        "value": "Prerequisites"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "deb1b684-a415-48c3-994c-4f330be95a30"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docpublisher/c_prerequisites_docpublisher.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "b264ddcd-e39b-41f9-ab5f-db3aba8b06b0"
+        ],
+        "value": [
+          "docpublisher",
+          "dita-files",
+          "dita-maps",
+          "docstyler",
+          "dita-ot-plugin",
+          "validate-dita-content",
+          "check-output-formats",
+          "prepare-branding-assets",
+          "upload-custom-plugin",
+          "verify-publishing-credits",
+          "publishing-policy",
+          "organization-logo-and-styles",
+          "admin-console",
+          "user-console",
+          "publishing-readiness",
+          "ai-intent",
+          "what-are-docpublisher-prerequisites",
+          "how-to-prepare-for-document-publishing",
+          "what-is-required-before-publishing",
+          "how-to-set-up-docpublisher",
+          "what-tools-are-needed-for-publishing",
+          "how-to-check-publishing-readiness",
+          "why-are-publishing-prerequisites-needed",
+          "how-to-configure-publishing-environment",
+          "what-must-be-installed-before-publishing"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Prerequisites",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docpublisher/c_prerequisites_docpublisher.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "adc879c8-0ebe-4539-83a8-1c52f152ec1b"
+          ],
+          "value": "Prerequisites"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

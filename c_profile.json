@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "f75e9405-8901-469e-9b1f-0a0e2ae593b9"
+        ],
+        "value": "Profile"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "14d998cd-ee08-4d49-ad35-2ebddff86168"
+        ],
+        "value": "This section describes the Profile page in the metR admin console."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "f7aad701-fc58-41b7-b215-1529faf461c5"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/c_profile.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "444669e2-d11f-48db-b53f-1fc9b776b500"
+        ],
+        "value": [
+          "profile-page",
+          "admin-profile",
+          "admin-console",
+          "account-profile",
+          "profile-module",
+          "view-profile-details",
+          "access-profile-page",
+          "change-password",
+          "change-profile-settings",
+          "review-account-details",
+          "admin-account",
+          "account-details",
+          "onboarding-information",
+          "account-management",
+          "admin-settings",
+          "what-is-the-profile-page",
+          "where-can-i-view-admin-profile-details",
+          "what-information-is-shown-in-profile",
+          "where-can-i-change-admin-password",
+          "where-can-i-update-profile-settings"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Profile",
+      "metaDescription": "This section describes the Profile page in the metR admin console.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/c_profile.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "7db68a46-3cdc-4cfd-96be-6706e4aeaf0b"
+          ],
+          "value": "Profile"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "d7d277a4-356b-44a2-95df-3ffde3de54ef"
+          ],
+          "value": "This section describes the Profile page in the metR admin console."
+        },
+        "content": {
+          "chunk_references": [
+            "dac8b462-b6fe-4dd8-b9ba-1b2b87511393"
+          ],
+          "value": "The Profile module in the metR admin console displays the admin’s account details. It displays profile details such as Name, Contact Number, and Email Address that was created during onboarding.\n\nThese fields are prefilled based on the details provided during the admin’s onboarding by the metR team."
+        }
+      }
+    ],
+    "sections": []
+  }
+}

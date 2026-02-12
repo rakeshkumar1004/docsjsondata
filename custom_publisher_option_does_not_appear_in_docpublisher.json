@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "d6bff6f9-8587-428d-abd7-37d7636439fa"
+        ],
+        "value": "Custom Publisher option does not appear in DocPublisher"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "3a4455ba-2afd-4b41-8811-a3310f36fd38"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/custom_publisher_option_does_not_appear_in_docpublisher.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "aa321b54-7cd4-4a6a-ad6f-4586667f51bc"
+        ],
+        "value": [
+          "custom-publisher-not-available",
+          "dita-ot-plugin-not-loaded",
+          "custom publisher",
+          "DITA-OT plugin"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Custom Publisher option does not appear in DocPublisher",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/custom_publisher_option_does_not_appear_in_docpublisher.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "6185b237-d679-4932-89f3-c832ba32e695"
+          ],
+          "value": "Custom Publisher option does not appear in DocPublisher"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "dd2ff521-2f44-4c75-bc71-d71a4b0ebcbf"
+          ],
+          "value": "Condition"
+        },
+        "content": {
+          "chunk_references": [
+            "99b8284a-6373-4acf-ac59-5327e60a0c6f"
+          ],
+          "value": "In DocPublisher, only the Default Publisher option is available, and the Custom Publisher option is not displayed for the selected project and branch."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "c709ed0f-a561-4601-9d3e-460133f306f3"
+          ],
+          "value": "Cause"
+        },
+        "content": {
+          "chunk_references": [
+            "cbd91f38-30f3-441c-8dd1-32dae3879393"
+          ],
+          "value": "Custom Publisher options become available only after a custom DITA-OT plugin is successfully uploaded by an administrator. Plugin availability is synchronized when a new user session is established and is not refreshed automatically during an active session."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "0afa346a-d15f-4227-9cc8-e3badd838fdc"
+          ],
+          "value": "Remedy"
+        }
+      }
+    ]
+  }
+}

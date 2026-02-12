@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "9cf9f914-6b80-4697-ad27-2f5011b02be5"
+        ],
+        "value": "Changes saved in DocEditor not reflected in GitHub"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "bdcc02d4-824e-4ada-a59a-08c300c92cbd"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/changes_saved_in_doceditor_not_reflected_in_github.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "428ac923-18ef-4dd8-974e-92c36ed69fb0"
+        ],
+        "value": [
+          "doceditor-changes-not-committed",
+          "github-updates-missing",
+          "commit changes"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Changes saved in DocEditor not reflected in GitHub",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/changes_saved_in_doceditor_not_reflected_in_github.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "ef84261b-ef65-4540-8c75-97d7ae45d2bb"
+          ],
+          "value": "Changes saved in DocEditor not reflected in GitHub"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "5b1beaeb-4474-48fa-97ad-f0899a4bb158"
+          ],
+          "value": "Condition"
+        },
+        "content": {
+          "chunk_references": [
+            "35d9851c-7658-49cd-a238-c6c53c797348"
+          ],
+          "value": "Edits made in DocEditor appear saved but do not appear in your GitHub repository."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "37ff6e22-1ec6-433f-9281-e7b8b97b01d1"
+          ],
+          "value": "Cause"
+        },
+        "listItems": {
+          "chunk_references": [
+            "9a4dca76-847c-46b1-9ded-214e17a15809"
+          ],
+          "value": [
+            "The file was saved locally but not committed.",
+            "The editing session ended before committing changes."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "abcc4834-41b0-4d01-8cf1-1645be0d7ac3"
+          ],
+          "value": "Remedy"
+        }
+      }
+    ]
+  }
+}

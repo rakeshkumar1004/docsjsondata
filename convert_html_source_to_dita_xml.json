@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "18becdae-acc2-4546-85c5-07cea18e1054"
+        ],
+        "value": "Convert .html source file to DITA-XML"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "0d68b253-476a-41b5-abdb-6386cf22132f"
+        ],
+        "value": "Explains how DocMigration converts HTML (.html) files into structured DITA-XML."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "598545e5-5608-4aeb-9df8-a1292c7b533f"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/convert_html_source_to_dita_xml.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "3343f536-b397-4063-823e-241627c60e05"
+        ],
+        "value": [
+          "docmigration",
+          "dita-xml",
+          "structured-dita-xml",
+          "html-source-file",
+          "generated-dita-output",
+          "html-document",
+          "convert-html-to-dita",
+          "analyze-html-markup",
+          "map-html-structure-to-dita",
+          "prepare-html-file",
+          "run-pre-flight-check",
+          "run-post-flight-check",
+          "preview-and-commit-dita-files",
+          "review-conversion-errors",
+          "semantic-html-markup",
+          "document-structure",
+          "html-headings",
+          "lists-tables-images-and-links",
+          "post-flight-validation",
+          "error-and-warning-logs",
+          "how-to-convert-html-to-dita",
+          "how-does-docmigration-handle-html",
+          "what-is-specific-to-html-conversion",
+          "how-to-prepare-html-files-for-dita",
+          "how-to-fix-html-conversion-errors",
+          "what-happens-after-html-conversion",
+          "how-to-review-dita-output"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Convert .html source file to DITA-XML",
+      "metaDescription": "Explains how DocMigration converts HTML (.html) files into structured DITA-XML.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/convert_html_source_to_dita_xml.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "51ae5e69-b49e-4614-9546-b9205e942976"
+          ],
+          "value": "Convert .html source file to DITA-XML"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "e2e4ff42-6998-4095-81a4-970181e7f7ad"
+          ],
+          "value": "Explains how DocMigration converts HTML (.html) files into structured DITA-XML."
+        },
+        "content": {
+          "chunk_references": [
+            "1757020e-a654-482e-aa62-87c1f44b85c2"
+          ],
+          "value": "Use DocMigration to convert HTML (.html) files into structured DITA-XML. During conversion, DocMigration processes semantic HTML elements such as headings, lists, tables, images, and links. Well-structured HTML markup ensures accurate mapping to corresponding DITA elements.\n\nTo convert an HTML file to DITA:"
+        }
+      }
+    ],
+    "sections": []
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "2c6417c1-cd0f-482b-9b65-8555058b83cd"
+        ],
+        "value": "Custom DITA-OT plug-in upload fails"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "d0ab5503-b5b2-4312-948a-9b55a728f8d4"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/custom_dita_ot_plug_in_upload_fails.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "b6d90772-9f64-4cb1-be6d-ca7bbf3b67e0"
+        ],
+        "value": [
+          "dita-ot-plugin-upload-fails",
+          "custom-plugin-not-listed",
+          "custom plugin",
+          "DITA-OT",
+          "plugin upload"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Custom DITA-OT plug-in upload fails",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/custom_dita_ot_plug_in_upload_fails.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "e941a3f2-6afb-4ff6-8a23-399fb7528956"
+          ],
+          "value": "Custom DITA-OT plug-in upload fails"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "9decc2e8-d75e-46ab-9621-a8fa32fecd7b"
+          ],
+          "value": "Condition"
+        },
+        "content": {
+          "chunk_references": [
+            "d335f5da-6d07-4eb6-8745-835e66b3e3db"
+          ],
+          "value": "The administrator uploads a DITA-OT plug-in file, but the plug-in does not appear in the Custom Plugin list."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "771f86ab-d0bf-4d63-9df6-3f5158591aad"
+          ],
+          "value": "Cause"
+        },
+        "listItems": {
+          "chunk_references": [
+            "8e5b7b4b-8cf2-4845-b2b7-74df85955a13"
+          ],
+          "value": [
+            "The plug-in file is not packaged as a .zip file.",
+            "The transformation type is missing or invalid.",
+            "An unsupported transtype is entered."
+          ]
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "e2fb67f3-bcdf-4d89-909c-13068fca5c7a"
+          ],
+          "value": "Remedy"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "ca1d75d5-1a6a-440a-91a3-e55e6258bb0a"
+        ],
+        "value": "Users"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "bd07501f-196d-4771-9ef9-3a7d880903a9"
+        ],
+        "value": "This section introduces the user management features available to administrators in the metR admin console."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "f8ceae40-1c17-49b1-bb63-bc7a8beecd64"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/c_users.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "7c7c14ba-5b4d-4784-8b28-9931e1de6252"
+        ],
+        "value": [
+          "users-module",
+          "user-accounts",
+          "user-profile",
+          "user-password",
+          "product-name",
+          "add-new-users",
+          "edit-user-details",
+          "activate-user-accounts",
+          "deactivate-user-accounts",
+          "reset-user-password",
+          "user-management",
+          "user-onboarding",
+          "account-access",
+          "admin-tasks",
+          "account-security",
+          "ai-intent",
+          "what-are-users-in-metr",
+          "how-to-manage-users",
+          "how-to-add-a-user",
+          "how-to-edit-user-details",
+          "why-user-management-is-needed",
+          "how-user-access-works",
+          "where-to-find-users-page",
+          "how-admins-control-user-access",
+          "how-to-remove-users"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Users",
+      "metaDescription": "This section introduces the user management features available to administrators in the metR admin console.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/c_users.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "8b3cbbd8-31ac-4eff-84b0-19ee090930eb"
+          ],
+          "value": "Users"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "fcc49e08-20fe-4831-aa42-50ee7b5cbf3b"
+          ],
+          "value": "This section introduces the user management features available to administrators in the metR admin console."
+        },
+        "content": {
+          "chunk_references": [
+            "1a58c46b-3163-4cc5-b7d0-0835e66077d5"
+          ],
+          "value": "The Users module allows administrators to onboard and manage the people who will be using metR. You can add new users, edit existing user details, activate and deactivate user accounts, and reset user passwords when required."
+        }
+      }
+    ],
+    "sections": []
+  }
+}

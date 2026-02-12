@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "dc83c70e-5359-4d8a-b6c6-d95cc7c224e0"
+        ],
+        "value": "Convert .md source file to DITA-XML"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "0f113640-b34f-4f4d-a89b-fc570002b5fc"
+        ],
+        "value": "Explains how DocMigration converts Markdown (.md) files into structured DITA-XML."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "32642b16-221b-4a44-b968-0c49780ff7f5"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/convert_md_files_to_dita.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "6c21c622-ccbb-4d8e-ad24-95b08024e4e8"
+        ],
+        "value": [
+          "docmigration",
+          "markdown-files",
+          "dita-xml",
+          "generated-dita-files",
+          "markdown-conversion",
+          "prepare-markdown-file",
+          "conversion-workflow",
+          "pre-flight-check",
+          "post-flight-check",
+          "preview-and-commit-dita-files",
+          "markdown-syntax",
+          "heading-hierarchy",
+          "markdown-headers",
+          "lists",
+          "tables",
+          "images",
+          "links",
+          "semantic-structure",
+          "unsupported-extensions",
+          "malformed-syntax",
+          "warnings",
+          "errors",
+          "post-flight-validation",
+          "error-logs",
+          "error-log-format",
+          "how-to-convert-markdown-to-dita",
+          "what-is-specific-to-markdown-conversion",
+          "what-happens-after-markdown-conversion"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Convert .md source file to DITA-XML",
+      "metaDescription": "Explains how DocMigration converts Markdown (.md) files into structured DITA-XML.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/convert_md_files_to_dita.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "1e05b35b-0486-44f4-852b-7c99c7b445ca"
+          ],
+          "value": "Convert .md source file to DITA-XML"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "efcba3dd-41fd-4a82-b5e6-6fd844ff0d19"
+          ],
+          "value": "Explains how DocMigration converts Markdown (.md) files into structured DITA-XML."
+        },
+        "content": {
+          "chunk_references": [
+            "0c330e78-1b14-4871-bb42-46ae56e987a3"
+          ],
+          "value": "Use DocMigration to convert Markdown (.md) files into structured DITA-XML. During conversion, DocMigration processes Markdown elements such as headings, lists, tables, images, and links. Use consistent syntax and a clear heading hierarchy to ensure accurate structure mapping in the generated DITA output.\n\nTo convert a Markdown file to DITA:"
+        }
+      }
+    ],
+    "sections": []
+  }
+}

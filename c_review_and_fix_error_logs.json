@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "554d074c-92e6-49de-82aa-b582142a068c"
+        ],
+        "value": "Review and Fix Error Logs"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "23f88436-607e-4e90-903a-6536ac62673a"
+        ],
+        "value": "This section describes how to review and fix the error logs generated after conversion to DITA-XML output."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "71445dd1-8b83-415f-917d-386c54315758"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/c_review_and_fix_error_logs.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "5f63f8b7-13c5-44ee-91ba-ff71fbbebeb8"
+        ],
+        "value": [
+          "dita-xml-output",
+          "converted-files",
+          "post-flight-check",
+          "review-error-logs",
+          "address-conversion-issues",
+          "error-logs",
+          "warning-logs",
+          "missing-required-tags",
+          "incorrect-nesting-of-elements",
+          "structured-format",
+          "styling-inconsistencies",
+          "formatting-inconsistencies",
+          "hyperlinks",
+          "cross-reference-issues",
+          "what-errors-occur-after-dita-conversion",
+          "why-review-post-flight-error-logs",
+          "how-to-fix-post-flight-conversion-issues"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Review and Fix Error Logs",
+      "metaDescription": "This section describes how to review and fix the error logs generated after conversion to DITA-XML output.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/c_review_and_fix_error_logs.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "cc94bd60-1d72-49bf-ac93-65c393cb0ef7"
+          ],
+          "value": "Review and Fix Error Logs"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "f3ffac5f-7227-4003-984a-9b1760fdfa43"
+          ],
+          "value": "This section describes how to review and fix the error logs generated after conversion to DITA-XML output."
+        },
+        "content": {
+          "chunk_references": [
+            "8f14f102-4066-4ce1-9edb-f842f2f771c1"
+          ],
+          "value": "After converting the source files to DITA, if the Post-flight Check produced error or warning logs, it’s important to review and address those issues. This check is to ensure the DITA-XML output is clean, valid, and follows best practices before you publish or further work on it.\n\nSome of these potential errors in the converted files might include:"
+        }
+      }
+    ],
+    "sections": []
+  }
+}

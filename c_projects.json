@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "05757302-8b1c-424b-904a-1e3025eaedea"
+        ],
+        "value": "Projects"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "72e79f92-4ebe-4440-be40-f4b63d972b7a"
+        ],
+        "value": "This section introduces the project management features available to administrators in the metR admin console."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "6225e511-1f05-4ef7-b098-1d3c55bdab82"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/c_projects.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "e87af1bb-b898-4ddd-9227-c06c832133b8"
+        ],
+        "value": [
+          "projects-module",
+          "admin-projects",
+          "projects-page",
+          "project-list",
+          "project-details",
+          "github-commits",
+          "project-releases",
+          "create-project",
+          "assign-users-to-project",
+          "view-github-commits",
+          "view-project-releases",
+          "monitor-project-activity",
+          "manage-projects",
+          "administrators",
+          "documentation-projects",
+          "user-assignment",
+          "project-monitoring",
+          "dita-migration",
+          "html-and-pdf-publishing",
+          "what-are-projects-in-metr",
+          "how-do-admins-manage-projects-in-metr",
+          "how-do-i-create-a-project-in-metr",
+          "how-do-i-assign-users-to-a-project",
+          "how-do-admins-view-commits-and-releases"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Projects",
+      "metaDescription": "This section introduces the project management features available to administrators in the metR admin console.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/03_metR_admin_console/c_projects.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "a5443c7d-bda3-4249-8522-710acb6e1d88"
+          ],
+          "value": "Projects"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "2d667312-61c1-4fa3-b2cc-e373b1324024"
+          ],
+          "value": "This section introduces the project management features available to administrators in the metR admin console."
+        },
+        "content": {
+          "chunk_references": [
+            "4d84971d-3508-4cb4-aa0b-69010e407c26"
+          ],
+          "value": "The Projects module is the primary workspace for administrators to create, manage, and monitor projects."
+        }
+      }
+    ],
+    "sections": []
+  }
+}

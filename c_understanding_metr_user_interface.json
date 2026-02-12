@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "cc055329-2ca1-45d4-93ec-a2ead84ab599"
+        ],
+        "value": "Understanding the User Interface"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "4c82ebb5-346f-442a-b7de-1f37ea460e61"
+        ],
+        "value": "This section describes the metR user interface."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "5e917951-ada5-47a8-aec6-2b580090686d"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/c_understanding_metr_user_interface.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "8a432a5b-2a06-48b1-9790-164c9205593f"
+        ],
+        "value": [
+          "metr-user-console",
+          "user-console",
+          "metr-web-console",
+          "metr-dashboard",
+          "user-console-interface",
+          "understand-user-console",
+          "explore-console-overview",
+          "identify-console-sections",
+          "learn-console-capabilities",
+          "navigate-user-console",
+          "content-operations-platform",
+          "structured-authoring-environment",
+          "documentation-workflow",
+          "dita-based-publishing",
+          "ai-ready-documentation",
+          "what-is-the-metr-user-console",
+          "what-can-i-do-in-the-metr-user-console",
+          "how-does-the-metr-user-console-work",
+          "how-do-i-navigate-the-metr-console",
+          "why-should-i-use-the-metr-user-console"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Understanding the User Interface",
+      "metaDescription": "This section describes the metR user interface.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/c_understanding_metr_user_interface.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "b5dfd83d-e11c-48c7-9deb-f7de77f25c60"
+          ],
+          "value": "Understanding the User Interface"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "1fd7c87a-11b7-48b4-837d-e742d8c951b0"
+          ],
+          "value": "This section describes the metR user interface."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

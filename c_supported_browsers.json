@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "5518222e-88fe-460a-9a62-16d9214cdb98"
+        ],
+        "value": "Supported browsers"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "205fa81f-8f89-41d6-9c31-9261ada8c8e5"
+        ],
+        "value": "This topic describes the supported browsers."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "e86d62a0-724b-4c1e-9789-fbbab57a19d5"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/01_introduction/c_supported_browsers.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "02817587-307d-4991-97c9-6008b5b3210e"
+        ],
+        "value": [
+          "metr-application",
+          "web-application",
+          "browser-compatibility",
+          "supported-browsers",
+          "web-browser-support",
+          "browser-based-access",
+          "client-web-browser",
+          "browser-version-support",
+          "64-bit-browser-support",
+          "minimum-browser-version",
+          "access-using-web-browser",
+          "use-supported-browsers",
+          "run-application-in-browser",
+          "browser-version-requirements",
+          "check-browser-version",
+          "ensure-browser-compatibility",
+          "use-64-bit-browser",
+          "access-with-compatible-browser",
+          "browser-based-application-access",
+          "supported-browser-versions",
+          "google-chrome",
+          "mozilla-firefox",
+          "microsoft-edge",
+          "chrome-browser",
+          "firefox-browser",
+          "edge-browser",
+          "web-browsers",
+          "64-bit",
+          "browser-version",
+          "latest-browser-versions",
+          "which-browsers-are-supported-by-metr",
+          "what-browsers-can-i-use-with-metr",
+          "is-metr-supported-on-chrome",
+          "is-metr-supported-on-firefox",
+          "is-metr-supported-on-edge",
+          "what-is-the-minimum-browser-version-for-metr",
+          "does-metr-require-a-64-bit-browser"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Supported browsers",
+      "metaDescription": "This topic describes the supported browsers.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/01_introduction/c_supported_browsers.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "6da26f5a-2d91-4154-955a-68a01cb67953"
+          ],
+          "value": "Supported browsers"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "82e29981-7159-41f7-913f-d9799feb7cbd"
+          ],
+          "value": "This topic describes the supported browsers."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}

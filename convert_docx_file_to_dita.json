@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "26cd3646-99d2-487b-a203-15a05fa9ddb3"
+        ],
+        "value": "Convert .docx source file to DITA-XML"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "d90ee725-182f-410f-8d70-82dcc3019bd1"
+        ],
+        "value": "Explains how DocMigration converts Microsoft Word (.docx) files into structured DITA-XML."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "1e5fe937-0203-4624-bc85-1fccb91c2ddc"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/convert_docx_file_to_dita.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "04af110b-6033-464d-94c8-408aff909259"
+        ],
+        "value": [
+          "docmigration",
+          "metr-user-console",
+          "dita-xml",
+          "structured-dita-xml",
+          "docx-source-file",
+          "generated-dita-output",
+          "word-document",
+          "conversion-workflow",
+          "convert-docx-to-dita",
+          "analyze-word-styles",
+          "map-word-structure-to-dita",
+          "prepare-word-document",
+          "run-pre-flight-check",
+          "run-post-flight-check",
+          "preview-and-commit-dita-files",
+          "review-conversion-errors",
+          "word-style-usage",
+          "document-structure",
+          "heading-styles",
+          "lists-tables-and-captions",
+          "semantic-word-formatting",
+          "word-specific-preparation",
+          "post-flight-validation",
+          "error-and-warning-logs",
+          "how-to-convert-docx-to-dita",
+          "how-does-docmigration-handle-docx",
+          "what-is-specific-to-docx-conversion",
+          "how-to-prepare-word-files-for-dita",
+          "what-word-styles-are-required",
+          "how-to-fix-docx-conversion-errors",
+          "what-happens-after-docx-conversion",
+          "how-to-review-dita-output"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Convert .docx source file to DITA-XML",
+      "metaDescription": "Explains how DocMigration converts Microsoft Word (.docx) files into structured DITA-XML.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docmigration/convert_docx_file_to_dita.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "a420c889-d46f-4652-bedf-d473d52e04d9"
+          ],
+          "value": "Convert .docx source file to DITA-XML"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "76080a92-6577-45ed-8136-9bda33c2661f"
+          ],
+          "value": "Explains how DocMigration converts Microsoft Word (.docx) files into structured DITA-XML."
+        },
+        "content": {
+          "chunk_references": [
+            "e4c79e7c-8e6d-4bce-b0e0-f06568c049c4"
+          ],
+          "value": "DocMigration supports you to convert Microsoft Word (.docx) files into structured DITA-XML. During conversion, DocMigration analyzes Word features such as heading styles, lists, tables, and captions. Proper use of these features ensures accurate topic structure and content mapping in the generated DITA output.\n\nHere's the .docx to DITA workflow:"
+        }
+      }
+    ],
+    "sections": []
+  }
+}

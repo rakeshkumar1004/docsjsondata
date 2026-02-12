@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "7af8c369-b638-4a47-a877-fa81c4cc8cc5"
+        ],
+        "value": "Authentication and SSO"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "842601ec-615c-41e1-aa0a-0ed907ea50d6"
+        ],
+        "value": "This section explains the authentication methods supported in metR."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "6c530e14-cc91-476a-9d1e-f0cae0d9afef"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/05_security_and_compliance/c_sso_authentication.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "94cbf94e-0be0-43ea-94d2-87a8db441621"
+        ],
+        "value": [
+          "authentication-and-sso",
+          "single-sign-on",
+          "username-password-authentication",
+          "role-based-access-control",
+          "identity-providers",
+          "user-authentication",
+          "secure-sign-in",
+          "access-management",
+          "role-based-access",
+          "password-policies",
+          "enterprise-authentication",
+          "secure-platform-access",
+          "identity-management",
+          "organizational-access-control",
+          "security-and-compliance",
+          "what-is-sso-in-metr",
+          "how-does-metr-support-single-sign-on",
+          "how-to-authenticate-users-in-metr",
+          "why-use-sso-with-metr",
+          "how-metr-integrates-with-identity-providers",
+          "sso-authentication-intent",
+          "how-metr-manages-user-access",
+          "how-secure-is-metr-authentication",
+          "how-metr-supports-enterprise-login",
+          "how-metr-handles-user-sessions"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Authentication and SSO",
+      "metaDescription": "This section explains the authentication methods supported in metR.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/05_security_and_compliance/c_sso_authentication.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "8a7d4cb6-ad3f-4f20-85e3-e0a4fc4ee01f"
+          ],
+          "value": "Authentication and SSO"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "1dc6b5c1-6458-4801-ab18-c5915f76b371"
+          ],
+          "value": "This section explains the authentication methods supported in metR."
+        },
+        "content": {
+          "chunk_references": [
+            "c8f7bbe9-5449-4e67-9d87-9ebaf5084acd"
+          ],
+          "value": "metR supports multiple authentication methods to help organizations securely manage access to the platform."
+        }
+      }
+    ],
+    "sections": []
+  }
+}

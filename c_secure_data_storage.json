@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "27008bba-0117-49fe-bf85-6a614ec1801b"
+        ],
+        "value": "Encryption and data storage"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "c28c7863-9b3f-4ae5-ac34-755522d04ae4"
+        ],
+        "value": "This section explains how metR stores data securely and uses encryption to protect it."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "70181ac0-2299-4e5c-89cc-a739c5e37d14"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/05_security_and_compliance/c_secure_data_storage.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "d0fbd967-1a39-4bed-8752-3e1afed300b9"
+        ],
+        "value": [
+          "secure-data-storage",
+          "encrypted-storage",
+          "cloud-storage",
+          "mongodb-atlas",
+          "amazon-s3",
+          "encryption-at-rest",
+          "encryption-in-transit",
+          "tls-encryption",
+          "aes-256-encryption",
+          "secure-data-handling",
+          "enterprise-data-security",
+          "secure-platform-architecture",
+          "data-protection",
+          "security-and-compliance",
+          "regulated-environments",
+          "what-is-metr-secure-data-storage",
+          "how-does-metr-store-data-securely",
+          "how-metr-protects-stored-data",
+          "why-metr-uses-secure-storage",
+          "how-is-data-encrypted-in-metr",
+          "how-metr-controls-data-access",
+          "secure-storage-intent",
+          "how-to-understand-metr-storage-security",
+          "how-metr-handles-sensitive-data",
+          "how-secure-is-metr-data-storage"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Encryption and data storage",
+      "metaDescription": "This section explains how metR stores data securely and uses encryption to protect it.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/05_security_and_compliance/c_secure_data_storage.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "dfabd79f-3f4a-429a-9de7-2d7851283c84"
+          ],
+          "value": "Encryption and data storage"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "a2369e58-dcce-473d-a176-934df6a754be"
+          ],
+          "value": "This section explains how metR stores data securely and uses encryption to protect it."
+        },
+        "content": {
+          "chunk_references": [
+            "236b6e86-bc2d-4d36-b682-a07ca5b50893"
+          ],
+          "value": "metR uses encryption and secure storage to protect platform data and communication:\n\nTo learn how logs are stored and retained, see Audit logging and activity monitoring."
+        }
+      }
+    ],
+    "sections": []
+  }
+}

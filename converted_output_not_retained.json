@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "ebe920ba-c46e-4ab0-86d5-15d0e95c2fee"
+        ],
+        "value": "Converted DITA output is unavailable after leaving DocMigration"
+      },
+      "metaDescription": {
+        "chunk_references": [],
+        "value": ""
+      },
+      "documentURL": {
+        "chunk_references": [
+          "79409328-e649-41cf-898f-52621d8eb2f0"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/converted_output_not_retained.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "84b460b3-434a-43d9-9567-a3fea9edf706"
+        ],
+        "value": [
+          "converted-output-not-available",
+          "docmigration-output-lost",
+          "converted output",
+          "download output",
+          "commit to GitHub"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Converted DITA output is unavailable after leaving DocMigration",
+      "metaDescription": "",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/metR_troubleshooting/converted_output_not_retained.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "e8b8e32a-e8c7-4949-b4b4-bd010506a694"
+          ],
+          "value": "Converted DITA output is unavailable after leaving DocMigration"
+        },
+        "subHeading": {
+          "chunk_references": [],
+          "value": ""
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "91d1bae0-e4ae-4592-a49e-5734b4cd67c7"
+          ],
+          "value": "Condition"
+        },
+        "content": {
+          "chunk_references": [
+            "e26d667b-067c-4efd-bc24-9dee389fb5ee"
+          ],
+          "value": "In the User Console DocMigration module, the conversion was successful and the converted output is visible. After clicking the DocManager module, the converted DITA files are not visible."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "af15ce19-3495-4421-bb23-f5149aadd7e5"
+          ],
+          "value": "Cause"
+        },
+        "content": {
+          "chunk_references": [
+            "d9f16057-c9d1-4d4c-a6c1-dd884e472fbc"
+          ],
+          "value": "Converted DITA output is retained only when the user downloads the output or commits it to GitHub. If the user exits the DocMigration module before completing either action, the converted content is discarded and cannot be accessed later."
+        }
+      },
+      {
+        "heading": {
+          "chunk_references": [
+            "4b8c974c-66d7-4279-9deb-5af7d3494ff4"
+          ],
+          "value": "Remedy"
+        }
+      }
+    ]
+  }
+}

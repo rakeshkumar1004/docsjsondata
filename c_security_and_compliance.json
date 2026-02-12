@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "1a156a42-7a8f-447c-a097-0b646d63a69d"
+        ],
+        "value": "Security and compliance"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "93640798-cc7c-4b08-b10d-d6d6f1acde4f"
+        ],
+        "value": "This section introduces how metR protects your data, users, and content through secure infrastructure, privacy-focused practices, and compliance controls."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "d581c017-e90e-4033-91f4-16cd4d91f874"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/05_security_and_compliance/c_security_and_compliance.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "9464a607-545f-42cc-af4a-1e4d69e25092"
+        ],
+        "value": [
+          "security-and-compliance",
+          "metr-platform",
+          "secure-infrastructure",
+          "compliance-controls",
+          "data-protection",
+          "user-authentication",
+          "secure-access",
+          "data-storage",
+          "audit-logging",
+          "content-protection",
+          "enterprise-security",
+          "privacy-focused-practices",
+          "regulatory-compliance",
+          "secure-documentation",
+          "trusted-platform",
+          "what-security-controls-does-metr-have",
+          "how-does-metr-ensure-compliance",
+          "why-security-is-important-in-metr",
+          "how-metr-manages-security-risks",
+          "how-metr-supports-regulatory-compliance",
+          "security-compliance-intent",
+          "how-secure-is-metr",
+          "how-metr-protects-enterprise-data",
+          "how-metr-aligns-with-security-standards",
+          "what-compliance-features-metr-provides"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Security and compliance",
+      "metaDescription": "This section introduces how metR protects your data, users, and content through secure infrastructure, privacy-focused practices, and compliance controls.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/05_security_and_compliance/c_security_and_compliance.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "233aa682-31ce-41bf-b508-48ea2c90f46a"
+          ],
+          "value": "Security and compliance"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "bbd6502f-28b3-44b0-b610-9c5e9f1d52f4"
+          ],
+          "value": "This section introduces how metR protects your data, users, and content through secure infrastructure, privacy-focused practices, and compliance controls."
+        },
+        "content": {
+          "chunk_references": [
+            "37ebebc2-b2fd-4eed-b2ff-0c471f46bf8a"
+          ],
+          "value": "metR is designed to help your organization protect its documentation, user identities, and project workflows. From signing in to publishing, every action is backed by secure infrastructure and compliance with industry standards.\n\nThis chapter includes:\n\nThe sections answer questions like:"
+        }
+      }
+    ],
+    "sections": []
+  }
+}

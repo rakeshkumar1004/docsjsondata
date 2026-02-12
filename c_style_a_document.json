@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": [
+          "0ddb77c9-2690-4dc7-953d-93c08d1fe97e"
+        ],
+        "value": "Publish using DocStyler"
+      },
+      "metaDescription": {
+        "chunk_references": [
+          "77670a20-da8b-4993-8947-fd03517d0781"
+        ],
+        "value": "This section describes how to style the HTML or PDF output using DocStyler before publishing."
+      },
+      "documentURL": {
+        "chunk_references": [
+          "11824411-b919-4668-929f-90a9afc5a3d3"
+        ],
+        "value": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docpublisher/c_style_a_document.html"
+      },
+      "keywords": {
+        "chunk_references": [
+          "0bdc1c31-d455-4a94-b907-9270927dbfc0"
+        ],
+        "value": [
+          "docstyler",
+          "docpublisher",
+          "html-styler",
+          "pdf-styler",
+          "html-and-pdf-output",
+          "style-documents",
+          "customize-html-styles",
+          "customize-pdf-styles",
+          "apply-light-branding",
+          "submit-style-changes",
+          "document-styling",
+          "layout-and-colors",
+          "headers-and-footers",
+          "logos-and-branding",
+          "pre-publishing-step",
+          "ai-intent",
+          "how-to-style-a-document",
+          "how-to-apply-document-styles",
+          "how-to-change-document-layout",
+          "how-to-customize-document-design",
+          "what-are-document-styling-steps",
+          "how-to-use-docstyler",
+          "how-to-manage-document-appearance",
+          "what-controls-document-styling",
+          "how-to-apply-branding-to-documents"
+        ]
+      }
+    }
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Publish using DocStyler",
+      "metaDescription": "This section describes how to style the HTML or PDF output using DocStyler before publishing.",
+      "documentURL": "https://documentation.met-r.io/metR-website-2026-documentation_output_1/04_metR_user_console/docpublisher/c_style_a_document.html"
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": [
+            "9e5c452e-0bd8-46d5-8f12-ecc4fb31fd97"
+          ],
+          "value": "Publish using DocStyler"
+        },
+        "subHeading": {
+          "chunk_references": [
+            "bb6c8ea6-1625-4ad5-bbf5-47ed3aabdc79"
+          ],
+          "value": "This section describes how to style the HTML or PDF output using DocStyler before publishing."
+        },
+        "content": {
+          "chunk_references": [],
+          "value": ""
+        }
+      }
+    ],
+    "sections": []
+  }
+}
